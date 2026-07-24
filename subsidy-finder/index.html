@@ -232,7 +232,7 @@ render();
 </script>
 <script>
 (function(){
-  function ph(){ try{ if(window.parent!==window){ parent.postMessage({bokdonHeight: Math.ceil(document.documentElement.scrollHeight)}, '*'); } }catch(e){} }
+  function ph(){ try{ if(window.parent!==window){ var h=Math.ceil(Math.max(document.body.scrollHeight, document.body.offsetHeight)); parent.postMessage({bokdonHeight: h}, '*'); } }catch(e){} }
   window.addEventListener('load', ph);
   window.addEventListener('resize', ph);
   if(window.ResizeObserver){ try{ new ResizeObserver(ph).observe(document.body); }catch(e){} }
