@@ -6,7 +6,7 @@
 <title>맞춤 지원금 조회기</title>
 <style>
   :root{
-    --bg:#f5f6f8; --card:#fff; --ink:#1a1c1f; --sub:#61666d; --line:#e6e8eb;
+    --bg:#e3ecfc; --card:#fff; --ink:#1a1c1f; --sub:#61666d; --line:#e6e8eb;
     --brand:#2b6cf0; --brand-soft:#eaf1ff; --accent:#0aa06e;
     --shadow:0 1px 3px rgba(16,24,40,.06),0 1px 2px rgba(16,24,40,.04);
   }
@@ -54,10 +54,22 @@
   .reset-link{display:block;width:100%;text-align:center;margin-top:12px;background:none;border:none;
        color:var(--sub);font-size:14px;cursor:pointer;text-decoration:underline;text-underline-offset:3px}
 
-  /* 결과 */
-  .count{margin:22px 2px 10px;font-size:15px;color:var(--sub)}
-  .count b{color:var(--ink)}
-  .count .cap{color:#9aa0a6;font-size:13px}
+  .kw{width:100%;padding:13px 14px;border:1.5px solid var(--line);border-radius:11px;font-size:15px;background:#fff;color:var(--ink);
+      background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%2361666d' stroke-width='2'%3E%3Ccircle cx='11' cy='11' r='7'/%3E%3Cpath d='M21 21l-4.3-4.3'/%3E%3C/svg%3E");
+      background-repeat:no-repeat;background-position:14px center;padding-left:40px}
+  .kw:focus{outline:2px solid var(--brand-soft);border-color:var(--brand)}
+
+  /* 결과 헤더 */
+  .results-head{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;box-shadow:var(--shadow);margin:22px 0 14px}
+  .rh-top{display:flex;justify-content:space-between;align-items:center;gap:12px}
+  .rh-title{font-size:20px;font-weight:800;margin:0;letter-spacing:-.01em}
+  .rh-count{background:var(--brand);color:#fff;font-size:14px;font-weight:700;padding:8px 16px;border-radius:999px;white-space:nowrap;flex:none}
+  .rh-sort{display:flex;align-items:center;gap:8px;margin-top:14px;flex-wrap:wrap}
+  .rh-sort-label{font-size:14px;color:var(--sub);font-weight:700;margin-right:2px}
+  .sort-pill{padding:8px 16px;border:1px solid #cdd8ee;background:#f4f7fe;border-radius:999px;font-size:14px;font-weight:700;color:var(--brand);cursor:pointer;transition:.12s}
+  .sort-pill:hover{background:#e7eefc}
+  .sort-pill.on{background:var(--brand);color:#fff;border-color:var(--brand)}
+  .rh-cap{font-size:13px;color:#9aa0a6;margin-left:auto}
   .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px;margin-bottom:12px;box-shadow:var(--shadow)}
   .card-top{display:flex;justify-content:space-between;align-items:flex-start;gap:10px}
   .card h3{margin:0;font-size:18px;letter-spacing:-.01em;min-width:0;overflow-wrap:anywhere;line-height:1.4}
@@ -120,21 +132,26 @@
       <div class="chk-grid" id="grid-cat"></div>
     </div>
     <div class="sec">
-      <p class="sec-title"><span class="ico">🔎</span> 키워드·정렬</p>
-      <div class="subrow">
-        <input type="search" id="f-q" placeholder="키워드 (예: 청년, 월세, 창업)">
-        <select id="f-sort">
-          <option value="views">인기순</option>
-          <option value="title">이름순</option>
-        </select>
-      </div>
+      <p class="sec-title"><span class="ico">🔎</span> 키워드 검색 <span class="hint">선택 사항</span></p>
+      <input type="search" id="f-q" class="kw" placeholder="키워드 (예: 청년, 월세, 창업)">
     </div>
 
     <button class="search-btn" id="search">🔍 조건 검색</button>
     <button class="reset-link" id="reset">조건 초기화</button>
   </section>
 
-  <p class="count" id="count"></p>
+  <div class="results-head" id="resultsHead">
+    <div class="rh-top">
+      <h2 class="rh-title">검색 결과</h2>
+      <span class="rh-count" id="rhCount">0개 지원금</span>
+    </div>
+    <div class="rh-sort">
+      <span class="rh-sort-label">정렬</span>
+      <button class="sort-pill on" data-sort="views">인기순</button>
+      <button class="sort-pill" data-sort="title">이름순</button>
+      <span class="rh-cap" id="rhCap"></span>
+    </div>
+  </div>
   <div id="results"></div>
   <div class="more" id="more" style="display:none"><button id="more-btn">더 보기</button></div>
 
@@ -158,6 +175,7 @@ const AGE_ORDER = ["영유아","어린이","청소년","20대","30대","40대","
 const SIDO_ORDER = ["서울","부산","대구","인천","광주","대전","울산","세종","경기","강원","충북","충남","전북","전남","경북","경남","제주"];
 const PAGE = 60;
 let shown = PAGE;
+let sortKey = "views";
 
 function fmtViews(n){ n=n||0; if(n>=10000) return (n/10000).toFixed(n>=100000?0:1).replace(/\.0$/,"")+"만"; return n.toLocaleString(); }
 function ageLabel(d){
@@ -186,7 +204,7 @@ function currentFilter(){
     }
     return true;
   });
-  if($("#f-sort").value==="title") list.sort((a,b)=>(a.title||"").localeCompare(b.title||"","ko"));
+  if(sortKey==="title") list.sort((a,b)=>(a.title||"").localeCompare(b.title||"","ko"));
   else list.sort((a,b)=>(b.views||0)-(a.views||0));
   return list;
 }
@@ -223,17 +241,17 @@ function cardHTML(d){
 
 function render(scroll){
   const list = currentFilter();
-  $("#count").innerHTML = `조건에 맞는 지원금 <b>${list.length.toLocaleString()}건</b>` +
-    (list.length>shown?` <span class="cap">(상위 ${shown}건 표시)</span>`:"");
+  $("#rhCount").textContent = list.length.toLocaleString()+"개 지원금";
   const box=$("#results");
   if(!list.length){
     box.innerHTML = `<div class="empty">😥 조건에 맞는 지원금이 없어요.<br>조건을 줄이거나 다른 조건으로 검색해 보세요.</div>`;
-    $("#more").style.display="none";
+    $("#more").style.display="none"; $("#rhCap").textContent="";
   } else {
     box.innerHTML = list.slice(0,shown).map(cardHTML).join("");
     $("#more").style.display = list.length>shown ? "block" : "none";
+    $("#rhCap").textContent = list.length>shown ? `상위 ${shown}건 표시` : "";
   }
-  if(scroll){ $("#count").scrollIntoView({behavior:"smooth",block:"start"}); }
+  if(scroll){ $("#resultsHead").scrollIntoView({behavior:"smooth",block:"start"}); }
 }
 
 // 초기화
@@ -248,9 +266,15 @@ if(META.updated){ $("#updated").textContent = `최근 갱신: ${META.updated}`; 
 // 검색 버튼 = 조건 적용
 $("#search").addEventListener("click", ()=>{ shown=PAGE; render(true); });
 $("#f-q").addEventListener("keydown", e=>{ if(e.key==="Enter"){ shown=PAGE; render(true); }});
+document.querySelectorAll(".sort-pill").forEach(b=>b.addEventListener("click", ()=>{
+  document.querySelectorAll(".sort-pill").forEach(x=>x.classList.remove("on"));
+  b.classList.add("on"); sortKey=b.dataset.sort; shown=PAGE; render(true);
+}));
 $("#reset").addEventListener("click", ()=>{
   document.querySelectorAll(".panel input:checked").forEach(i=>i.checked=false);
-  $("#f-q").value=""; $("#f-sort").value="views"; shown=PAGE; render(false);
+  $("#f-q").value=""; sortKey="views";
+  document.querySelectorAll(".sort-pill").forEach(x=>x.classList.toggle("on", x.dataset.sort==="views"));
+  shown=PAGE; render(false);
 });
 $("#more-btn").addEventListener("click", ()=>{ shown+=PAGE; render(false); });
 
