@@ -230,5 +230,14 @@ $("#more-btn").addEventListener("click", ()=>{shown+=PAGE;render();});
 
 render();
 </script>
+<script>
+(function(){
+  function ph(){ try{ if(window.parent!==window){ parent.postMessage({bokdonHeight: Math.ceil(document.documentElement.scrollHeight)}, '*'); } }catch(e){} }
+  window.addEventListener('load', ph);
+  window.addEventListener('resize', ph);
+  if(window.ResizeObserver){ try{ new ResizeObserver(ph).observe(document.body); }catch(e){} }
+  setInterval(ph, 800);
+})();
+</script>
 </body>
 </html>
