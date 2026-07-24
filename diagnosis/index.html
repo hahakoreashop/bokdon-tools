@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>내 지원금 맞춤 진단기</title>
+<style>
+  :root{
+    --bg:#f5f6f8; --card:#fff; --ink:#1a1c1f; --sub:#61666d; --line:#e6e8eb;
+    --brand:#2b6cf0; --brand-soft:#eaf1ff; --accent:#0aa06e;
+    --shadow:0 1px 3px rgba(16,24,40,.06),0 1px 2px rgba(16,24,40,.04);
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:"Pretendard","Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif;
+       background:var(--bg);color:var(--ink);line-height:1.6;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+  .wrap{max-width:640px;margin:0 auto;padding:0 16px 64px}
+  header{padding:26px 0 8px;text-align:center}
+  header h1{font-size:23px;margin:0 0 6px;letter-spacing:-.02em}
+  header p{margin:0;color:var(--sub);font-size:14px}
+
+  /* 진행바 */
+  .progress{display:flex;gap:6px;margin:20px 0 16px}
+  .progress span{flex:1;height:6px;border-radius:3px;background:var(--line);transition:background .2s}
+  .progress span.on{background:var(--brand)}
+
+  .panel{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:24px 20px;box-shadow:var(--shadow)}
+  .step-q{font-size:19px;font-weight:800;letter-spacing:-.01em;margin:0 0 4px}
+  .step-hint{color:var(--sub);font-size:13.5px;margin:0 0 18px}
+
+  .sizes{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-bottom:14px}
+  .sizes>span{font-size:13px;color:var(--sub);font-weight:700;margin-right:2px}
+  .size{padding:6px 12px;border:1.5px solid var(--line);border-radius:999px;background:#fff;font-size:13px;font-weight:600;color:var(--ink);cursor:pointer}
+  .size.sel{border-color:var(--brand);background:var(--brand);color:#fff}
+  .fn{font-size:11.5px;color:#9aa0a6;margin:14px 2px 0;line-height:1.55}
+  .opts{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
+  .opts.one{grid-template-columns:1fr}
+  .opt{padding:14px 12px;border:1.5px solid var(--line);border-radius:12px;background:#fff;font-size:15px;
+       font-weight:600;color:var(--ink);cursor:pointer;text-align:center;transition:.12s}
+  .opt:hover{border-color:var(--brand);background:var(--brand-soft)}
+  .opt.sel{border-color:var(--brand);background:var(--brand);color:#fff}
+  .opt small{display:block;font-weight:500;font-size:12px;opacity:.75;margin-top:2px}
+
+  .nav{display:flex;gap:10px;margin-top:20px}
+  .nav button{flex:1;padding:13px;border:none;border-radius:12px;font-size:15px;font-weight:700;cursor:pointer}
+  .btn-back{background:#eef0f2;color:var(--sub);flex:0 0 90px}
+  .btn-next{background:var(--brand);color:#fff}
+  .btn-next:disabled{background:#c5d3f2;cursor:not-allowed}
+
+  /* 결과 */
+  .result-head{text-align:center;padding:22px 0 6px}
+  .result-head .n{font-size:34px;font-weight:800;color:var(--brand)}
+  .result-head .sub{color:var(--sub);font-size:14px}
+  .chips-sel{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;margin:10px 0 4px}
+  .chips-sel span{font-size:12px;background:#eef0f2;color:var(--sub);padding:3px 9px;border-radius:999px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;margin-bottom:12px;box-shadow:var(--shadow)}
+  .card-top{display:flex;justify-content:space-between;align-items:flex-start;gap:10px}
+  .card h3{margin:0;font-size:16px;min-width:0;overflow-wrap:anywhere}
+  .cat{flex:none;font-size:11px;font-weight:700;color:var(--brand);background:var(--brand-soft);padding:3px 9px;border-radius:999px;white-space:nowrap}
+  .desc{margin:6px 0 10px;color:var(--sub);font-size:13.5px}
+  .meta{display:flex;flex-wrap:wrap;gap:7px}
+  .chip{font-size:12px;padding:4px 9px;border-radius:8px;background:#f1f3f5;color:#343a40}
+  .chip.match{background:#e7f7f0;color:var(--accent);font-weight:700}
+  .chip.region{background:#eef4ff;color:var(--brand);font-weight:600}
+  .apply{display:inline-block;margin-top:12px;font-size:13.5px;color:var(--brand);font-weight:700;text-decoration:none}
+  .again{width:100%;margin-top:6px;padding:13px;border:1px solid var(--line);background:#fff;border-radius:12px;font-size:14px;font-weight:600;color:var(--sub);cursor:pointer}
+  .disc{font-size:12.5px;color:#868e96;background:#f8f9fa;border-radius:10px;padding:13px 15px;margin:16px 0;line-height:1.6}
+  .tolink{display:block;text-align:center;margin-top:14px;font-size:13.5px;color:var(--sub)}
+  .tolink a{color:var(--brand);font-weight:600}
+  @media (max-width:480px){ .opts{grid-template-columns:1fr} }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>🧭 내 지원금 맞춤 진단</h1>
+    <p>4가지만 답하면 받을 수 있는 정부 지원금을 찾아드려요</p>
+  </header>
+
+  <div class="progress" id="progress"></div>
+  <div id="stage"></div>
+
+  <p class="tolink">그냥 목록으로 둘러보고 싶다면 <a href="../subsidy-finder/index.html">지원금 조회기 →</a></p>
+</div>
+
+<script src="../subsidy-finder/subsidies.js"></script>
+<script>
+const DATA = window.SUBSIDY_DATA || [];
+const $ = s => document.querySelector(s);
+const esc = s => String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+// ── 상황(다중) → 매칭 키워드 ──
+const SITUATIONS = [
+  {key:"임신·출산", kw:["임신","임산부","출산","산모","난임","신생아","출생","분만","육아휴직","산후","영유아","양육","보육","어린이집"]},
+  {key:"장애",      kw:["장애"]},
+  {key:"한부모",    kw:["한부모","조손","모자가","부자가"]},
+  {key:"다자녀",    kw:["다자녀","셋째","다둥이"]},
+  {key:"무주택·주거",kw:["주택","전세","월세","임대","주거","전월세","보증금"]},
+  {key:"1인가구",   kw:["1인가구","독거","혼자"]},
+  {key:"구직·실업", kw:["취업","구직","실업","일자리","고용","직업훈련","취업지원"]},
+  {key:"학생",      kw:["학생","장학","학자금","등록금","교육비","학습"]},
+  {key:"근로 중",   kw:["근로","직장","재직","노동","일하는"]},
+  {key:"창업·소상공인",kw:["창업","소상공인","자영업","점포","사업자","상인"]},
+  {key:"농어업",    kw:["농업","어업","농어","귀농","귀어","축산","임업","농가","어가","농민"]},
+  {key:"다문화·북한이탈",kw:["다문화","이주","결혼이민","북한이탈","탈북"]},
+];
+const AGE_OPTS = ["영유아","어린이","청소년","20대","30대","40대","50대","60대이상"];
+// 2026년 기준중위소득 (보건복지부 고시 제2025-135호, 월/원)
+const MEDIAN = {1:2564238, 2:4199292, 3:5359036, 4:6494738, 5:7556719, 6:8555952};
+const fmtMan = won => Math.round(won/10000).toLocaleString()+"만원";
+const INCOME_OPTS = [
+  {key:"", label:"잘 모름 / 무관", pl:""},
+  {key:"0-50",    label:"낮음", pl:"중위 50%↓",   lo:0,   hi:0.5},
+  {key:"51-75",   label:"중하", pl:"중위 51~75%",  lo:0.5, hi:0.75},
+  {key:"76-100",  label:"중간", pl:"중위 76~100%", lo:0.75, hi:1.0},
+  {key:"101-200", label:"중상", pl:"중위 101~200%",lo:1.0, hi:2.0},
+  {key:"200+",    label:"높음", pl:"중위 200%↑",   lo:2.0, hi:null},
+];
+const SIDO = ["전국·상관없음","서울","부산","대구","인천","광주","대전","울산","세종","경기","강원","충북","충남","전북","전남","경북","경남","제주"];
+
+const state = { step:0, age:null, income:null, household:4, sits:[], region:null };
+const STEPS = 4;
+
+function drawProgress(){
+  $("#progress").innerHTML = Array.from({length:STEPS},(_,i)=>`<span class="${i<=state.step?'on':''}"></span>`).join("");
+}
+
+function render(){
+  drawProgress();
+  const s = state.step;
+  if(s===0) renderAge();
+  else if(s===1) renderIncome();
+  else if(s===2) renderSituations();
+  else if(s===3) renderRegion();
+  else renderResult();
+}
+
+function panel(q,hint,body,opts={}){
+  const canNext = opts.canNext;
+  $("#stage").innerHTML = `
+    <div class="panel">
+      <p class="step-q">${q}</p>
+      <p class="step-hint">${hint}</p>
+      ${body}
+      <div class="nav">
+        ${state.step>0?`<button class="btn-back" id="back">이전</button>`:""}
+        <button class="btn-next" id="next" ${canNext?'':'disabled'}>${state.step===STEPS-1?'결과 보기':'다음'}</button>
+      </div>
+    </div>`;
+  if(state.step>0) $("#back").onclick=()=>{state.step--;render();};
+  $("#next").onclick=()=>{state.step++;render();};
+}
+
+function renderAge(){
+  const body = `<div class="opts">${AGE_OPTS.map(a=>
+    `<button class="opt ${state.age===a?'sel':''}" data-a="${a}">${a}</button>`).join("")}</div>`;
+  panel("연령대가 어떻게 되세요?","해당하는 나이대를 선택하세요.",body,{canNext:!!state.age});
+  document.querySelectorAll('[data-a]').forEach(b=>b.onclick=()=>{state.age=b.dataset.a;render();});
+}
+function renderIncome(){
+  const m = MEDIAN[state.household];
+  const sizes = [1,2,3,4,5,6].map(s=>
+    `<button class="size ${state.household===s?'sel':''}" data-h="${s}">${s}인${s===6?'+':''}</button>`).join("");
+  const opts = INCOME_OPTS.map(o=>{
+    let hint;
+    if(o.key==="") hint="소득 조건 없이 모두 보기";
+    else if(o.lo===0)      hint=`${o.pl} · 월 ${fmtMan(m*o.hi)} 이하`;
+    else if(o.hi===null)   hint=`${o.pl} · 월 ${fmtMan(m*o.lo)} 초과`;
+    else                   hint=`${o.pl} · 월 ${fmtMan(m*o.lo)}~${fmtMan(m*o.hi)}`;
+    return `<button class="opt ${state.income===o.key?'sel':''}" data-i="${o.key}">${o.label}<small>${hint}</small></button>`;
+  }).join("");
+  const body = `
+    <div class="sizes"><span>가구원 수</span>${sizes}</div>
+    <div class="opts">${opts}</div>
+    <p class="fn">※ 2026년 기준중위소득(보건복지부 고시) 기준 · 월 세전 가구합산 소득. 실제 자격은 재산 등도 반영돼요. 모르면 '무관'.</p>`;
+  panel("가구 소득 수준은요?","가구원 수를 고르면 구간별 금액이 표시돼요.",body,{canNext:state.income!==null});
+  document.querySelectorAll('[data-h]').forEach(b=>b.onclick=()=>{state.household=+b.dataset.h;render();});
+  document.querySelectorAll('[data-i]').forEach(b=>b.onclick=()=>{state.income=b.dataset.i;render();});
+}
+function renderSituations(){
+  const body = `<div class="opts">${SITUATIONS.map((o,i)=>
+    `<button class="opt ${state.sits.includes(i)?'sel':''}" data-s="${i}">${o.key}</button>`).join("")}</div>`;
+  panel("해당하는 상황을 모두 골라주세요","여러 개 선택 가능. 없으면 그냥 다음으로.",body,{canNext:true});
+  document.querySelectorAll('[data-s]').forEach(b=>b.onclick=()=>{
+    const i=+b.dataset.s; const p=state.sits.indexOf(i);
+    if(p>=0) state.sits.splice(p,1); else state.sits.push(i);
+    render();
+  });
+}
+function renderRegion(){
+  const body = `<div class="opts">${SIDO.map(r=>
+    `<button class="opt ${state.region===r?'sel':''}" data-r="${r}">${r}</button>`).join("")}</div>`;
+  panel("어디에 사세요?","지역 맞춤 지원금까지 함께 찾아드려요.",body,{canNext:!!state.region});
+  document.querySelectorAll('[data-r]').forEach(b=>b.onclick=()=>{state.region=b.dataset.r;render();});
+}
+
+// ── 매칭 ──
+function match(){
+  const regionSel = (state.region && state.region!=="전국·상관없음") ? state.region : null;
+  const sitObjs = state.sits.map(i=>SITUATIONS[i]);
+  return DATA.map(d=>{
+    if(state.age && !(d.ages||[]).includes(state.age)) return null;
+    if(state.income && (d.income||[]).length && !(d.income||[]).includes(state.income)) return null;
+    if(regionSel && !(d.region==="전국" || d.region===regionSel)) return null;
+    let hits=0, titleHits=0;
+    if(sitObjs.length){
+      const title=(d.title||""), body=title+(d.description||"")+(d.category||"");
+      sitObjs.forEach(s=>{
+        const inTitle=s.kw.some(k=>title.includes(k));
+        if(inTitle||s.kw.some(k=>body.includes(k))){ hits++; if(inTitle) titleHits++; }
+      });
+      if(hits===0) return null;              // 상황 선택 시, 하나도 안 맞으면 제외
+    }
+    // 제목 매칭(강한 관련) > 본문 매칭 > 조회수 순
+    return {d, score:(titleHits*10000000)+(hits*2000000)+(d.views||0), hits};
+  }).filter(Boolean).sort((a,b)=>b.score-a.score);
+}
+
+function renderResult(){
+  $("#progress").innerHTML="";
+  const res = match();
+  const top = res.slice(0,40);
+  const selChips = [state.age, INCOME_OPTS.find(o=>o.key===state.income)?.label,
+                    ...state.sits.map(i=>SITUATIONS[i].key), state.region].filter(Boolean)
+                    .map(t=>`<span>${esc(t)}</span>`).join("");
+  const cards = top.map(({d,hits})=>`
+    <article class="card">
+      <div class="card-top"><h3>${esc(d.title)}</h3><span class="cat">${esc(d.category||"")}</span></div>
+      <p class="desc">${esc(d.description||"")}</p>
+      <div class="meta">
+        ${hits?`<span class="chip match">✓ 조건 ${hits}개 일치</span>`:""}
+        <span class="chip region">📍 ${esc(d.region||"전국")}</span>
+        ${d.supportType?`<span class="chip">${esc((d.supportType||"").split("||")[0])}</span>`:""}
+        <span class="chip">🔥 조회 ${((d.views||0)/10000>=1)?Math.round((d.views||0)/10000)+"만":(d.views||0).toLocaleString()}</span>
+      </div>
+      <a class="apply" href="${esc(d.link||"#")}" target="_blank" rel="noopener">상세 보기 / 신청 →</a>
+    </article>`).join("");
+
+  $("#stage").innerHTML = `
+    <div class="result-head">
+      <div class="n">${res.length.toLocaleString()}건</div>
+      <div class="sub">받을 가능성이 있는 지원금을 찾았어요</div>
+      <div class="chips-sel">${selChips}</div>
+    </div>
+    <p class="disc">⚠️ 입력하신 조건으로 <b>가능성 있는</b> 지원금을 넓게 찾은 결과예요. 실제 수급 자격은 소득·재산·세부요건에 따라 달라지니, 각 지원금의 <b>상세 페이지·소관기관</b>에서 꼭 확인하세요.</p>
+    ${res.length?cards:'<div class="disc" style="text-align:center">조건에 맞는 결과가 없어요. 상황 선택을 줄이거나 소득을 \'무관\'으로 바꿔보세요.</div>'}
+    ${res.length>40?`<p class="disc" style="text-align:center">상위 40건만 표시 중 · 전체 ${res.length.toLocaleString()}건은 <a href="../subsidy-finder/index.html">조회기</a>에서</p>`:""}
+    <button class="again" id="again">🔄 다시 진단하기</button>`;
+  $("#again").onclick=()=>{ Object.assign(state,{step:0,age:null,income:null,sits:[],region:null}); render(); };
+}
+
+render();
+</script>
+</body>
+</html>

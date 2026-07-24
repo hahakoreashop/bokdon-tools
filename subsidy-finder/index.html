@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>맞춤 지원금 조회기</title>
+<style>
+  :root{
+    --bg:#f5f6f8; --card:#fff; --ink:#1a1c1f; --sub:#61666d; --line:#e6e8eb;
+    --brand:#2b6cf0; --brand-soft:#eaf1ff; --accent:#0aa06e; --warn:#d9480f; --gold:#b8860b;
+    --shadow:0 1px 3px rgba(16,24,40,.06),0 1px 2px rgba(16,24,40,.04);
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:"Pretendard","Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif;
+       background:var(--bg);color:var(--ink);line-height:1.55;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+  .wrap{max-width:760px;margin:0 auto;padding:0 16px 64px}
+  header{padding:28px 0 12px;text-align:center}
+  header h1{font-size:24px;margin:0 0 6px;letter-spacing:-.02em}
+  header p{margin:0;color:var(--sub);font-size:14px}
+  .badge-demo{display:inline-block;margin-top:10px;font-size:12px;color:var(--accent);
+       background:#e7f7f0;padding:3px 10px;border-radius:999px;font-weight:600}
+
+  .ad{border:1px dashed #c7ccd2;border-radius:10px;background:repeating-linear-gradient(45deg,#fafbfc,#fafbfc 10px,#f1f3f5 10px,#f1f3f5 20px);
+      color:#9aa0a6;text-align:center;font-size:12px;padding:18px 8px;margin:16px 0;letter-spacing:.02em}
+
+  .filters{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;box-shadow:var(--shadow);margin-top:6px}
+  .filter-row{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+  .field label{display:block;font-size:12px;color:var(--sub);margin:0 0 4px 2px;font-weight:600}
+  select,input[type=search]{width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:10px;
+       font-size:14px;background:#fff;color:var(--ink);appearance:none}
+  select:focus,input:focus{outline:2px solid var(--brand-soft);border-color:var(--brand)}
+  .search-field{margin-top:10px}
+  .search-field input{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%2361666d' stroke-width='2'%3E%3Ccircle cx='11' cy='11' r='7'/%3E%3Cpath d='M21 21l-4.3-4.3'/%3E%3C/svg%3E");
+       background-repeat:no-repeat;background-position:12px center;padding-left:38px}
+  .reset{margin-top:10px;width:100%;padding:10px;border:none;border-radius:10px;background:var(--brand);color:#fff;
+       font-size:14px;font-weight:600;cursor:pointer}
+  .reset:hover{background:#1f5ede}
+
+  .count{margin:18px 2px 8px;font-size:13px;color:var(--sub)}
+  .count b{color:var(--ink)}
+  .count .cap{color:#9aa0a6}
+
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;margin-bottom:12px;box-shadow:var(--shadow)}
+  .card-top{display:flex;justify-content:space-between;align-items:flex-start;gap:10px}
+  .card h3{margin:0;font-size:16.5px;letter-spacing:-.01em;min-width:0;overflow-wrap:anywhere}
+  .cat{flex:none;font-size:11px;font-weight:700;color:var(--brand);background:var(--brand-soft);padding:3px 9px;border-radius:999px;white-space:nowrap}
+  .desc{margin:6px 0 12px;color:var(--sub);font-size:13.5px}
+  .meta{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:6px}
+  .chip{font-size:12.5px;padding:5px 10px;border-radius:8px;background:#f1f3f5;color:#343a40}
+  .chip.type{background:#e7f7f0;color:var(--accent);font-weight:700}
+  .chip.region{background:#eef4ff;color:var(--brand);font-weight:600}
+  .chip.age{background:#fff4e6;color:#e8590c}
+  .chip.views{background:#f8f0fc;color:#9c36b5}
+  .chip.src{background:#eef0f2;color:var(--sub)}
+  details{margin-top:12px;border-top:1px solid var(--line);padding-top:6px}
+  summary{cursor:pointer;font-size:13.5px;color:var(--brand);font-weight:600;list-style:none;padding:6px 0}
+  summary::-webkit-details-marker{display:none}
+  summary::after{content:"자세히 ▾";float:right;font-size:12px;color:var(--sub);font-weight:500}
+  details[open] summary::after{content:"접기 ▴"}
+  .detail-grid{display:grid;grid-template-columns:72px minmax(0,1fr);gap:8px 12px;font-size:13.5px;margin:8px 0 4px}
+  .detail-grid dt{color:var(--sub);font-weight:600}
+  .detail-grid dd{margin:0;white-space:pre-line;min-width:0;overflow-wrap:anywhere;word-break:break-word}
+  .apply{display:inline-block;margin-top:12px;padding:11px 16px;background:var(--accent);color:#fff;
+       border-radius:10px;text-decoration:none;font-size:14px;font-weight:700}
+  .apply:hover{background:#08875c}
+
+  .more{text-align:center;margin:8px 0 4px}
+  .more button{padding:11px 22px;border:1px solid var(--line);background:#fff;border-radius:10px;font-size:14px;font-weight:600;color:var(--brand);cursor:pointer}
+  .empty{text-align:center;color:var(--sub);padding:48px 16px;font-size:14px}
+  footer{text-align:center;color:#9aa0a6;font-size:12px;margin-top:28px;line-height:1.7}
+  footer a{color:var(--sub)}
+  @media (max-width:520px){ .filter-row{grid-template-columns:1fr} }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <h1>💰 맞춤 지원금 조회기</h1>
+    <p>연령·지역·분야를 선택하면 받을 수 있는 정부 지원금을 찾아드려요</p>
+    <span class="badge-demo" id="badge">정부 공식 API 실데이터</span>
+  </header>
+
+  <section class="filters" aria-label="조회 조건">
+    <div class="filter-row">
+      <div class="field">
+        <label for="f-age">연령대</label>
+        <select id="f-age"><option value="">전체</option></select>
+      </div>
+      <div class="field">
+        <label for="f-region">지역</label>
+        <select id="f-region"><option value="">전체</option></select>
+      </div>
+      <div class="field">
+        <label for="f-cat">분야</label>
+        <select id="f-cat"><option value="">전체</option></select>
+      </div>
+      <div class="field">
+        <label for="f-sort">정렬</label>
+        <select id="f-sort">
+          <option value="views">인기순</option>
+          <option value="title">이름순</option>
+        </select>
+      </div>
+    </div>
+    <div class="search-field">
+      <input type="search" id="f-q" placeholder="키워드 검색 (예: 청년, 월세, 창업)">
+    </div>
+    <button class="reset" id="reset">조건 초기화</button>
+  </section>
+
+  <p class="count" id="count"></p>
+  <div id="results"></div>
+  <div class="more" id="more" style="display:none"><button id="more-btn">더 보기</button></div>
+
+  <footer>
+    데이터: <b>data.go.kr 정부 공식 API</b>(행정안전부 대한민국 공공서비스 정보) 기반 · 총 <span id="total">-</span>건<br>
+    ⚠️ 표시 정보는 요약이며 실제와 다를 수 있습니다. 정확한 내용은 소관기관·상세 링크에서 확인하세요.<br>
+    <span id="updated"></span>
+  </footer>
+
+</div>
+
+<script src="subsidies.js"></script>
+<script>
+const DATA = window.SUBSIDY_DATA || [];
+const META = window.SUBSIDY_META || {count:DATA.length};
+const $ = s => document.querySelector(s);
+const esc = s => String(s==null?"":s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const clean = s => String(s==null?"":s).replace(/\|\|/g, " · ");
+
+const AGE_ORDER = ["영유아","어린이","청소년","20대","30대","40대","50대","60대이상"];
+const SIDO_ORDER = ["서울","부산","대구","인천","광주","대전","울산","세종","경기","강원","충북","충남","전북","전남","경북","경남","제주"];
+const PAGE = 60;
+let shown = PAGE;
+
+function fillSelect(el, values){
+  values.forEach(v => { const o=document.createElement("option"); o.value=v; o.textContent=v; el.appendChild(o); });
+}
+function fmtViews(n){
+  n = n||0;
+  if(n>=10000) return (n/10000).toFixed(n>=100000?0:1).replace(/\.0$/,"")+"만";
+  return n.toLocaleString();
+}
+function ageLabel(d){
+  if(d.ageMin==null && d.ageMax==null) return "전연령";
+  const lo = d.ageMin==null?0:d.ageMin;
+  const hi = (d.ageMax==null||d.ageMax>=120)?null:d.ageMax;
+  return hi==null ? `${lo}세 이상` : `${lo}~${hi}세`;
+}
+
+function currentFilter(){
+  const age=$("#f-age").value, region=$("#f-region").value, cat=$("#f-cat").value,
+        q=$("#f-q").value.trim().toLowerCase();
+  let list = DATA.filter(d=>{
+    if(age && !(d.ages||[]).includes(age)) return false;
+    if(region && !(d.region===region || d.region==="전국")) return false;
+    if(cat && d.category!==cat) return false;
+    if(q){
+      const hay=((d.title||"")+(d.description||"")+(d.category||"")+(d.target||"")+(d.org||"")).toLowerCase();
+      if(!hay.includes(q)) return false;
+    }
+    return true;
+  });
+  const sort=$("#f-sort").value;
+  if(sort==="title") list.sort((a,b)=>(a.title||"").localeCompare(b.title||"","ko"));
+  else list.sort((a,b)=>(b.views||0)-(a.views||0));
+  return list;
+}
+
+function cardHTML(d,i){
+  const typeChip = d.supportType ? `<span class="chip type">💵 ${esc((d.supportType||"").split("||")[0])}</span>` : "";
+  const dl = d.deadline ? `<span class="chip">🗓 ${esc(d.deadline)}</span>` : "";
+  return `
+  <article class="card">
+    <div class="card-top">
+      <h3>${esc(d.title)}</h3>
+      <span class="cat">${esc(d.category||"")}</span>
+    </div>
+    <p class="desc">${esc(d.description||"")}</p>
+    <div class="meta">
+      ${typeChip}
+      <span class="chip region">📍 ${esc(d.region||"전국")}</span>
+      <span class="chip age">👤 ${esc(ageLabel(d))}</span>
+      <span class="chip views">🔥 조회 ${fmtViews(d.views)}</span>
+    </div>
+    <div class="meta"><span class="chip src">${esc(d.org||"")}</span>${dl}</div>
+    <details>
+      <summary>지원대상·신청방법 보기</summary>
+      <dl class="detail-grid">
+        ${d.target?`<dt>지원대상</dt><dd>${esc(d.target)}</dd>`:""}
+        ${d.content?`<dt>지원내용</dt><dd>${esc(d.content)}</dd>`:""}
+        ${d.method?`<dt>신청방법</dt><dd>${esc(clean(d.method))}</dd>`:""}
+        <dt>소관기관</dt><dd>${esc(d.org||"")}</dd>
+      </dl>
+      <a class="apply" href="${esc(d.link||"#")}" target="_blank" rel="noopener">상세 보기 / 신청 →</a>
+    </details>
+  </article>`;
+}
+
+function render(){
+  const list = currentFilter();
+  const box = $("#results");
+  $("#count").innerHTML = `조건에 맞는 지원금 <b>${list.length.toLocaleString()}건</b>` +
+    (list.length>shown?` <span class="cap">(상위 ${shown}건 표시)</span>`:"");
+  if(!list.length){
+    box.innerHTML = `<div class="empty">😥 조건에 맞는 지원금이 없어요.<br>조건을 넓혀서 다시 찾아보세요.</div>`;
+    $("#more").style.display="none"; return;
+  }
+  box.innerHTML = list.slice(0,shown).map(cardHTML).join("");
+  $("#more").style.display = list.length>shown ? "block" : "none";
+}
+
+fillSelect($("#f-age"), AGE_ORDER.filter(a=>DATA.some(d=>(d.ages||[]).includes(a))));
+const regions = [...new Set(DATA.map(d=>d.region))];
+fillSelect($("#f-region"), SIDO_ORDER.filter(r=>regions.includes(r)));
+fillSelect($("#f-cat"), [...new Set(DATA.map(d=>d.category).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"ko")));
+
+$("#badge").textContent = `정부 공식 API 실데이터 · ${(META.count||DATA.length).toLocaleString()}건`;
+$("#total").textContent = (META.count||DATA.length).toLocaleString();
+if(META.updated) $("#updated").textContent = `최근 갱신: ${META.updated}`;
+
+["f-age","f-region","f-cat","f-sort"].forEach(id=>$("#"+id).addEventListener("change", ()=>{shown=PAGE;render();}));
+$("#f-q").addEventListener("input", ()=>{shown=PAGE;render();});
+$("#reset").addEventListener("click", ()=>{
+  ["f-age","f-region","f-cat"].forEach(id=>$("#"+id).value="");
+  $("#f-sort").value="views"; $("#f-q").value=""; shown=PAGE; render();
+});
+$("#more-btn").addEventListener("click", ()=>{shown+=PAGE;render();});
+
+render();
+</script>
+</body>
+</html>
