@@ -150,7 +150,8 @@ def main():
           + f'window.SUBSIDY_META={{"count":{len(light)},"updated":"{TODAY}"}};\n')
     io.open(os.path.join(HERE, "subsidy-finder", "subsidies.js"), "w", encoding="utf-8").write(js)
 
-    # 인기목록(빈 큐 fallback용) — 조회수 top 300, 최근성 가점. 루틴이 아직 안 쓴 것 중 첫째를 고름.
+    # 인기목록(빈 큐 fallback용) — 조회수 top 1000, 최근성 가점. 루틴이 아직 안 쓴 것 중 첫째를 고름.
+    # (2026-07-26: 300→1000 확대 — 하루 1~2건이면 300건은 1년 내 소진되어 콘텐츠가 끊기므로)
     def recency_bonus(i):
         d = (i.get("registered") or "") or (i.get("modified") or "")
         try: return 1 if d and d >= "20260101" else 0
@@ -158,7 +159,7 @@ def main():
     ranked = sorted(items, key=lambda i: (-(i.get("views") or 0), -recency_bonus(i)))
     popular = [{"id": i["id"], "title": i["title"], "category": i["category"],
                 "region": i["region"], "views": i["views"] or 0,
-                "registered": i["registered"], "link": i["link"]} for i in ranked[:300]]
+                "registered": i["registered"], "link": i["link"]} for i in ranked[:1000]]
     os.makedirs(os.path.join(HERE, "changes"), exist_ok=True)
     io.open(os.path.join(HERE, "changes", "popular.json"), "w", encoding="utf-8").write(
         json.dumps({"updated": TODAY, "count": len(popular), "items": popular}, ensure_ascii=False))
