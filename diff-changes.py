@@ -41,6 +41,7 @@ else:
             if (o.get("m") or "") != (p.get("m") or ""): reasons.append("수정일")
             if reasons:
                 modified.append({"id": id, "title": o.get("t"), "category": o.get("cat"),
+                                 "region": o.get("reg"), "views": o.get("v"),
                                  "changed": reasons, "link": o.get("u")})
     removed = [id for id in prev if id not in new]
     # 조회수순 정렬(중요한 것 먼저)
@@ -60,3 +61,28 @@ with open(os.path.join(HERE, "changes", "latest.json"), "w", encoding="utf-8") a
                "baseline": result.get("baseline", False)}, f, ensure_ascii=False, indent=1)
 
 print(f"changes: baseline={result.get('baseline')} new={result.get('newCount',0)} modified={result.get('modifiedCount',0)}")
+
+# --- 대기열(queue.json): 신규·개정을 순서대로 누적(중복X). 포스팅 루틴이 여기서 하나씩 꺼냄 ---
+qpath = os.path.join(HERE, "changes", "queue.json")
+queue = {"items": []}
+if os.path.exists(qpath):
+    try: queue = json.load(open(qpath, encoding="utf-8"))
+    except Exception: queue = {"items": []}
+existing = {it.get("id") for it in queue.get("items", [])}
+def _q(o, typ):
+    return {"id": o.get("id"), "title": o.get("title"), "category": o.get("category"),
+            "region": o.get("region"), "views": o.get("views") or 0, "link": o.get("link"),
+            "type": typ, "changed": o.get("changed"), "queuedAt": TODAY}
+for o in result.get("new", []):
+    if o.get("id") not in existing:
+        queue["items"].append(_q(o, "new")); existing.add(o.get("id"))
+for o in result.get("modified", []):
+    if o.get("id") not in existing:
+        queue["items"].append(_q(o, "modified")); existing.add(o.get("id"))
+# 중요도순(조회수 높은 것 먼저) — 루틴이 앞에서부터 발행
+queue["items"].sort(key=lambda x: -(x.get("views") or 0))
+queue["updated"] = TODAY
+queue["count"] = len(queue["items"])
+with open(qpath, "w", encoding="utf-8") as f:
+    json.dump(queue, f, ensure_ascii=False, indent=1)
+print(f"queue: 대기 {queue['count']}건 (신규·개정 누적)")

@@ -150,7 +150,20 @@ def main():
           + f'window.SUBSIDY_META={{"count":{len(light)},"updated":"{TODAY}"}};\n')
     io.open(os.path.join(HERE, "subsidy-finder", "subsidies.js"), "w", encoding="utf-8").write(js)
 
-    print(f"[4/4] 저장 완료: {len(items)}건 (updated={TODAY})")
+    # 인기목록(빈 큐 fallback용) — 조회수 top 300, 최근성 가점. 루틴이 아직 안 쓴 것 중 첫째를 고름.
+    def recency_bonus(i):
+        d = (i.get("registered") or "") or (i.get("modified") or "")
+        try: return 1 if d and d >= "20260101" else 0
+        except Exception: return 0
+    ranked = sorted(items, key=lambda i: (-(i.get("views") or 0), -recency_bonus(i)))
+    popular = [{"id": i["id"], "title": i["title"], "category": i["category"],
+                "region": i["region"], "views": i["views"] or 0,
+                "registered": i["registered"], "link": i["link"]} for i in ranked[:300]]
+    os.makedirs(os.path.join(HERE, "changes"), exist_ok=True)
+    io.open(os.path.join(HERE, "changes", "popular.json"), "w", encoding="utf-8").write(
+        json.dumps({"updated": TODAY, "count": len(popular), "items": popular}, ensure_ascii=False))
+
+    print(f"[4/4] 저장 완료: {len(items)}건 (updated={TODAY}), popular {len(popular)}건")
 
 if __name__ == "__main__":
     main()
