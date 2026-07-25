@@ -1,0 +1,50 @@
+name: 지원금 데이터 3일마다 자동 갱신
+
+on:
+  schedule:
+    - cron: '0 18 */3 * *'   # 3일마다 18:00 UTC (=한국시간 새벽 03:00)
+  workflow_dispatch: {}        # 관리자 수동 실행(테스트용)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-subsidy-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: 체크아웃
+        uses: actions/checkout@v4
+
+      - name: 파이썬 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 이전 인덱스 스냅샷 (변경 비교용)
+        run: '[ -f data/index.json ] && cp data/index.json data/prev-index.json || echo "이전 인덱스 없음(최초 실행)"'
+
+      - name: 정부 API에서 새 데이터 생성
+        env:
+          SERVICE_KEY: ${{ secrets.SERVICE_KEY }}
+        run: python build-data.py
+
+      - name: 신규·개정 목록 뽑기
+        run: python diff-changes.py
+
+      - name: 커밋 & 푸시
+        run: |
+          rm -f data/prev-index.json
+          git config user.name "bokdon-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "변경 없음 — 커밋 스킵"
+          else
+            git commit -m "data: 지원금 자동 갱신 $(date -u +%Y-%m-%d) (+ 신규·개정 목록)"
+            git push
+          fi
