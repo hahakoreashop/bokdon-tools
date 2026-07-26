@@ -79,7 +79,16 @@ POST https://bokdon.com/wp-json/bokdon/v1/publish   (Content-Type: application/j
 {"token":"<TOKEN>","title":"...","slug":"...","content":"<div style=...>...</div>",
  "category_id":10,"subsidy_id":"<id>","tags":["이미지대기"]}
 ```
-- `cover_b64`는 **넣지 마라**(클라우드에 한글 폰트 없어 썸네일이 깨짐). 대신 `tags:["이미지대기"]`를 **반드시** 포함 — 로컬 세션에서 사람이 GPT 이미지로 업그레이드한다.
+### 7-1. ★대표이미지(브랜드 썸네일) — 발행 전에 만들어 함께 보낸다
+- 생성기: `.claude/skills/지원금-자동포스팅/make_thumbnail.py` (한글 폰트를 시스템→저장소 `assets/font-ko.ttf` 순서로 자동 탐색)
+```bash
+python3 .claude/skills/지원금-자동포스팅/make_thumbnail.py /tmp/cover.png "<분야태그>" "<지원금 짧은제목>" "<한줄 부제(핵심 숫자)>"
+python3 -c "import base64;print(base64.b64encode(open('/tmp/cover.png','rb').read()).decode())"
+```
+  - 태그 예: `주거·자립 · 공공임대` / 제목 예: `2026 장기전세주택 완전정리` / 부제 예: `최장 20년 · 시세 80%`
+  - 성공하면 그 base64를 `cover_b64` 로 함께 전송하고 **`tags`는 생략**(이미지가 이미 있으므로).
+  - **실패(Pillow 없음·폰트 없음·에러)해도 절대 중단하지 마라.** 그 경우에만 `cover_b64` 없이 발행하고 `tags:["이미지대기"]`를 붙여 나중에 로컬에서 이미지를 보완하게 한다.
+  - 보고 3줄째에 `썸네일: 생성(N bytes)/생략(사유)` 를 덧붙여라.
 - 한글은 UTF-8 유지(`python json.dumps(ensure_ascii=False)` 권장).
 - 응답: `{ok:true,id,link}` / `{skipped:"already_posted"}` / 400=본문이 너무 짧음.
 
