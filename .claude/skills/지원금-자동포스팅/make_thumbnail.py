@@ -74,21 +74,23 @@ def main(out, tag, title, sub):
     # 좌상단 밴드(단색 보조 네이비)로 깊이감
     d.rectangle([0, 0, W, 8], fill=GOLD)
 
-    # 태그 칩
+    # 태그 칩 — 칩 폭은 '글자 시작 x(124) + 글자폭 + 오른쪽 여백(26)'이어야 글자가 안 삐져나온다.
+    # (구버전은 70+tw+52 라서 글자가 칩 테두리를 뚫고 나갔음 — 2026-07-29 수정)
     ft = font(30)
     tw = d.textlength(tag, font=ft)
-    d.rounded_rectangle([70, 84, 70 + tw + 52, 142], radius=29,
+    d.rounded_rectangle([70, 84, 124 + tw + 26, 142], radius=29,
                         fill=(255, 255, 255, 26), outline=(205, 184, 119, 140), width=2)
     d.ellipse([96, 108, 112, 124], fill=GOLD)
     d.text((124, 97), tag, font=ft, fill=GOLDL)
 
     # 제목(자동 줄바꿈)
+    # ★줄바꿈 폭은 W-300. 오른쪽 '복' 워터마크(x≈870~) 위로 제목이 올라타 글자가 겹쳐 읽히던 문제 방지.
     fT = font(74)
     words = title.split(" ")
     lines, cur = [], ""
     for w in words:
         t = (cur + " " + w).strip()
-        if d.textlength(t, font=fT) <= W - 140:
+        if d.textlength(t, font=fT) <= W - 300:
             cur = t
         else:
             if cur:
@@ -101,9 +103,12 @@ def main(out, tag, title, sub):
         d.text((70, y), ln, font=fT, fill=WHITE)
         y += 92
 
-    # 골드 구분선 + 부제
+    # 골드 구분선 + 부제 — 길면 폰트를 줄여 한 줄에 맞춘다(잘림·워터마크 침범 방지)
     d.rectangle([72, y + 6, 222, y + 12], fill=GOLD)
-    d.text((70, y + 34), sub, font=font(40), fill=GOLDL)
+    fs = 40
+    while fs > 26 and d.textlength(sub, font=font(fs)) > W - 290:
+        fs -= 2
+    d.text((70, y + 34), sub, font=font(fs), fill=GOLDL)
 
     # 하단 브랜드
     fB = font(34)
