@@ -65,12 +65,22 @@ def main(out, tag, title, sub):
 
     img = Image.new("RGB", (W, H), NAVY1)
     d = ImageDraw.Draw(img, "RGBA")
-    # 우측 상단 골드 글로우 + 복 워터마크
+    # 우측 상단 골드 글로우
     d.ellipse([W - 260, -160, W + 80, 180], fill=(193, 154, 62, 40))
+
+    # ★'복' 워터마크 — 실제 글리프 폭을 재서 왼쪽 경계(WM_LEFT)를 확정한다.
+    #   글자 영역은 이 경계를 절대 넘지 않는다(2026-08-06 수정: 제목이 워터마크를 타고 올라가 겹쳐 읽히던 문제).
+    WM_SIZE, WM_X, WM_Y = 400, W - 300, H - 470
     try:
-        d.text((W - 330, H - 500), "복", font=font(430), fill=(255, 255, 255, 20))
+        wf = font(WM_SIZE)
+        bbox = d.textbbox((WM_X, WM_Y), "복", font=wf)   # 실제 잉크 영역
+        d.text((WM_X, WM_Y), "복", font=wf, fill=(255, 255, 255, 16))
+        WM_LEFT = bbox[0]
     except Exception:
-        pass
+        WM_LEFT = W
+    TEXT_RIGHT = max(560, WM_LEFT - 28)   # 글자가 쓸 수 있는 오른쪽 한계
+    TEXT_W = TEXT_RIGHT - 70              # 왼쪽 여백 70 기준 사용 가능 폭
+
     # 좌상단 밴드(단색 보조 네이비)로 깊이감
     d.rectangle([0, 0, W, 8], fill=GOLD)
 
@@ -83,30 +93,41 @@ def main(out, tag, title, sub):
     d.ellipse([96, 108, 112, 124], fill=GOLD)
     d.text((124, 97), tag, font=ft, fill=GOLDL)
 
-    # 제목(자동 줄바꿈)
-    # ★줄바꿈 폭은 W-300. 오른쪽 '복' 워터마크(x≈870~) 위로 제목이 올라타 글자가 겹쳐 읽히던 문제 방지.
-    fT = font(74)
-    words = title.split(" ")
-    lines, cur = [], ""
-    for w in words:
-        t = (cur + " " + w).strip()
-        if d.textlength(t, font=fT) <= W - 300:
-            cur = t
-        else:
-            if cur:
-                lines.append(cur)
-            cur = w
-    if cur:
-        lines.append(cur)
-    y = 210
-    for ln in lines[:3]:
+    # 제목 — 워터마크 왼쪽(TEXT_RIGHT)까지만 쓰고, 3줄에 안 들어가면 글자를 줄인다.
+    def wrap(text, f):
+        out, cur = [], ""
+        for w in text.split(" "):
+            t = (cur + " " + w).strip()
+            if d.textlength(t, font=f) <= TEXT_W:
+                cur = t
+            else:
+                if cur:
+                    out.append(cur)
+                cur = w
+        if cur:
+            out.append(cur)
+        return out
+
+    ts = 74
+    while ts > 46:
+        fT = font(ts)
+        lines = wrap(title, fT)
+        # 3줄 이내 + 어떤 줄도 폭을 넘지 않아야 통과(긴 단어 하나가 삐져나오는 경우 방지)
+        if len(lines) <= 3 and all(d.textlength(l, font=fT) <= TEXT_W for l in lines):
+            break
+        ts -= 4
+    fT = font(ts)
+    lines = wrap(title, fT)[:3]
+    lh = int(ts * 1.24)
+    y = 210 if len(lines) <= 2 else 186
+    for ln in lines:
         d.text((70, y), ln, font=fT, fill=WHITE)
-        y += 92
+        y += lh
 
     # 골드 구분선 + 부제 — 길면 폰트를 줄여 한 줄에 맞춘다(잘림·워터마크 침범 방지)
     d.rectangle([72, y + 6, 222, y + 12], fill=GOLD)
     fs = 40
-    while fs > 26 and d.textlength(sub, font=font(fs)) > W - 290:
+    while fs > 24 and d.textlength(sub, font=font(fs)) > TEXT_W:
         fs -= 2
     d.text((70, y + 34), sub, font=font(fs), fill=GOLDL)
 
