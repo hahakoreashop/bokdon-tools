@@ -1,0 +1,111 @@
+<!-- 루틴 발행용 템플릿 B — ★인라인 style 속성만(스타일시트 블록 태그 절대 금지, 이유는 template-inline.html 상단 참고)
+     A와 같은 브랜드(네이비 #16305a / 골드 #c19a3e / 18px / 760px)지만 **모양이 다르다**:
+     · 히어로 = 네이비 블록이 아니라 흰 카드 + 굵은 네이비 좌측 보더 + 핵심정보 2열 표
+     · 요약 = "핵심만 먼저 보기"(초록, ✓불릿) — A의 "30초 요약"(골드, 숫자) 대신
+     · H2 = 네이비 칩 스타일 — A의 골드 밑줄 대신
+     · FAQ = 연파랑 배경 카드 — A의 흰 카드 대신
+     ★필수 구성요소(요약·표3·예시계산·체크리스트·FAQ·CTA2·관련글·저자박스·면책)는 A와 동일하게 전부 채운다. -->
+
+<div style="max-width:760px;margin:0 auto;padding:8px 4px 24px;font-size:18px;line-height:1.8;color:#1a1c1f;word-break:keep-all">
+
+  <!-- 태그칩 (골드 톤) -->
+  <p style="margin:0 0 12px"><span style="display:inline-block;font-size:14px;font-weight:800;color:#7a5f1e;background:#fdf6e3;border:1px solid #ecd9a0;padding:6px 14px;border-radius:999px">● 카테고리 · 소주제</span></p>
+
+  <!-- 히어로 B: 흰 카드 + 네이비 좌측 보더 + 핵심정보 2열 표 -->
+  <div style="background:#ffffff;border:1px solid #e7ebf1;border-left:8px solid #16305a;border-radius:0 18px 18px 0;padding:22px 22px;margin:0 0 20px">
+    <p style="margin:0 0 4px;font-size:14px;font-weight:700;color:#b08b2e">주제 · 핵심 요약</p>
+    <p style="margin:0 0 14px;font-size:23px;font-weight:800;line-height:1.35;color:#16305a">독자 질문형 제목</p>
+    <table style="width:100%;border-collapse:collapse;font-size:16px">
+      <tr><td style="width:34%;background:#f6f8fb;border:1px solid #e7ebf1;padding:10px 12px;font-weight:800;color:#16305a">항목1</td><td style="border:1px solid #e7ebf1;padding:10px 12px"><b style="color:#12233f">핵심값1</b> — 짧은 설명</td></tr>
+      <tr><td style="background:#f6f8fb;border:1px solid #e7ebf1;padding:10px 12px;font-weight:800;color:#16305a">항목2</td><td style="border:1px solid #e7ebf1;padding:10px 12px"><b style="color:#12233f">핵심값2</b> — 짧은 설명</td></tr>
+      <tr><td style="background:#f6f8fb;border:1px solid #e7ebf1;padding:10px 12px;font-weight:800;color:#16305a">항목3</td><td style="border:1px solid #e7ebf1;padding:10px 12px"><b style="color:#12233f">핵심값3</b> — 짧은 설명</td></tr>
+    </table>
+  </div>
+
+  <!-- 핵심만 먼저 보기 (초록 ✓불릿) -->
+  <div style="background:#f0f9f4;border:1px solid #bfe6cf;border-radius:16px;padding:16px 20px;margin:0 0 18px">
+    <p style="margin:0 0 6px;font-weight:800;color:#0f7a53;font-size:16px">✅ 핵심만 먼저 보기</p>
+    <ul style="margin:0;padding-left:20px;list-style:none;color:#2f4a3c"><li style="margin:5px 0">✓ 핵심1</li><li style="margin:5px 0">✓ 핵심2</li><li style="margin:5px 0">✓ 핵심3</li><li style="margin:5px 0">✓ 핵심4</li></ul>
+  </div>
+
+  <!-- 리드 -->
+  <p style="background:#f6f8fb;border:1px solid #e7ebf1;padding:18px 20px;border-radius:14px;margin:0 0 12px;font-size:18px;color:#3a4048">리드 훅 — 독자 공감 + 이 글이 다루는 것.</p>
+  <p style="font-size:14px;color:#9aa2ad;margin:0 0 18px">최종 정리 2026-MM-DD · 참고: 공식출처 · <b>확정 아닌 참고 정보</b></p>
+
+  <!-- 이런 상황이라면 (골드 박스 — A의 연파랑 대신) -->
+  <div style="background:#fdf6e3;border:1px solid #ecd9a0;border-radius:16px;padding:18px 20px;margin:0 0 18px">
+    <p style="margin:0 0 8px;font-weight:800;color:#7a5f1e;font-size:17px">💬 이런 상황이라면 꼭 읽어보세요</p>
+    <ul style="margin:0;padding-left:20px"><li style="margin:5px 0">상황1</li><li style="margin:5px 0">상황2</li></ul>
+  </div>
+
+  <!-- 글 순서 -->
+  <div style="border:1px dashed #c9d4e4;border-radius:14px;padding:14px 20px;margin:0 0 18px">
+    <p style="margin:0 0 8px;font-weight:800;color:#16305a;font-size:16px">🗺️ 글 순서</p>
+    <ol style="margin:0;padding-left:20px;color:#48505a"><li style="margin:3px 0">목차1</li><li style="margin:3px 0">목차2</li></ol>
+  </div>
+
+  <!-- 섹션 H2 (B 스타일: 네이비 칩 — 매번 이 인라인 그대로 반복) -->
+  <h2 style="font-size:22px;margin:36px 0 14px"><span style="display:inline-block;background:#16305a;color:#ffffff;font-weight:800;padding:8px 18px;border-radius:12px">1. 섹션 제목</span></h2>
+  <p style="margin:.6em 0">본문. <b style="color:#12233f">강조</b>.</p>
+
+  <!-- 표 (B: 헤더 흰배경+네이비 상단보더 — A의 네이비 헤더 대신) -->
+  <table style="width:100%;border-collapse:collapse;margin:14px 0;font-size:16px;border-top:3px solid #16305a">
+    <tr><th style="background:#f6f8fb;color:#16305a;border:1px solid #e0e6ef;padding:12px 14px;text-align:left">항목</th><th style="background:#f6f8fb;color:#16305a;border:1px solid #e0e6ef;padding:12px 14px;text-align:left">내용</th></tr>
+    <tr><td style="border:1px solid #e7ebf1;padding:12px 14px">a</td><td style="border:1px solid #e7ebf1;padding:12px 14px">b</td></tr>
+  </table>
+
+  <!-- 콜아웃 -->
+  <div style="background:#eef2f9;border:1px solid #d7e0ef;border-radius:14px;padding:16px 18px;margin:18px 0;font-size:17px">💡 <b style="color:#12233f">알아두면 좋아요</b> — 주의사항이나 팁.</div>
+
+  <!-- ★CTA 1 (진단기) — 위치 규칙은 SKILL.md 4-11 그대로(1~4번 섹션 중 무작위, 매 글 다르게). 크기 유지. -->
+  <p style="margin:34px 0 34px"><a href="/diagnosis/" style="display:block;text-align:center;background:#16305a;color:#ffffff;font-weight:800;font-size:20px;text-decoration:none;padding:22px 24px;border-radius:16px;line-height:1.4">🧭 나에게 맞는 지원금인지 진단해 보기</a></p>
+
+  <!-- 단계 (B: 번호 원 칩) -->
+  <div style="margin:16px 0">
+    <div style="background:#ffffff;border:1px solid #e7ebf1;border-radius:14px;padding:14px 16px;margin:0 0 10px"><span style="display:inline-block;background:#eef2f9;color:#16305a;font-weight:800;border-radius:999px;padding:2px 12px;margin-right:8px">1</span><b style="color:#12233f">단계 제목</b><br>설명.</div>
+  </div>
+
+  <!-- 예시 계산 -->
+  <div style="background:#f4f8ff;border:1px solid #d8e4fb;border-radius:16px;padding:18px 20px;margin:18px 0">
+    <p style="margin:0 0 8px;font-weight:800;color:#16305a;font-size:17px">🧮 실제 숫자로 계산해 보면</p>
+    <ul style="margin:0;padding-left:20px"><li style="margin:5px 0">예시1</li><li style="margin:5px 0">예시2</li></ul>
+  </div>
+
+  <!-- 체크리스트 -->
+  <div style="background:#ffffff;border:2px solid #bfe6cf;border-radius:16px;padding:18px 20px;margin:18px 0">
+    <p style="margin:0 0 8px;font-weight:800;color:#0f7a53;font-size:17px">📌 신청 전에 이것만 확인</p>
+    <ul style="margin:0;padding-left:20px;list-style:none"><li style="margin:7px 0">✓ 확인1</li><li style="margin:7px 0">✓ 확인2</li></ul>
+  </div>
+
+  <!-- FAQ (B: 연파랑 카드) -->
+  <h2 style="font-size:22px;margin:36px 0 14px"><span style="display:inline-block;background:#16305a;color:#ffffff;font-weight:800;padding:8px 18px;border-radius:12px">자주 묻는 질문</span></h2>
+  <div style="background:#f4f8ff;border:1px solid #d8e4fb;border-radius:14px;padding:15px 18px;margin:10px 0"><p style="margin:0;font-weight:800;color:#12233f;font-size:17px">Q. 질문?</p><p style="margin:6px 0 0;color:#48505a;font-size:16px">답변.</p></div>
+
+  <!-- ★CTA 2 (공식 신청) — 6~8번 섹션 중 무작위, FAQ 앞. -->
+  <p style="margin:30px 0 30px"><a href="공식URL" target="_blank" rel="noopener nofollow" style="display:block;text-align:center;background:#0f7a53;color:#ffffff;font-weight:800;font-size:20px;text-decoration:none;padding:22px 24px;border-radius:16px;line-height:1.4">🏛️ 공식 사이트에서 바로 신청·조회</a></p>
+
+  <!-- 공식 확인 -->
+  <div style="background:#f0f9f4;border:1px solid #bfe6cf;border-radius:16px;padding:18px;margin:16px 0;font-size:17px"><b style="color:#0f7a53">🔎 공식으로 확인하기</b><br>정확한 기준은 <a href="공식URL" target="_blank" rel="noopener nofollow" style="color:#0f7a53;font-weight:700">공식기관</a>에서 반드시 확인하세요. 기준은 수시로 변경됩니다.</div>
+
+  <!-- ★관련 글(자동) — 자리표시. 실제 발행글 2~3개로 교체(SKILL.md 4-2). 2개 못 찾으면 통째로 뺌. (B: 골드 좌측 보더) -->
+  <div style="background:#fffdf7;border:1px solid #ecd9a0;border-left:6px solid #c19a3e;border-radius:0 16px 16px 0;padding:18px 20px;margin:30px 0">
+    <p style="margin:0 0 12px;font-weight:800;color:#7a5f1e;font-size:19px">📚 함께 읽으면 좋은 글</p>
+    <p style="margin:0 0 10px;font-size:17px;line-height:1.6">👉 <a href="/관련글슬러그1/" style="color:#2b6cf0;font-weight:700;text-decoration:none">관련 글 제목 1</a><br><span style="color:#6b7480;font-size:15px">왜 함께 보면 좋은지 한 줄 설명</span></p>
+    <p style="margin:0;font-size:17px;line-height:1.6">👉 <a href="/관련글슬러그2/" style="color:#2b6cf0;font-weight:700;text-decoration:none">관련 글 제목 2</a><br><span style="color:#6b7480;font-size:15px">왜 함께 보면 좋은지 한 줄 설명</span></p>
+  </div>
+
+  <!-- 도구·허브 링크(고정) -->
+  <p style="margin-top:18px;font-size:17px">📎 도구로 확인 — <a href="/finder/" style="color:#2b6cf0;font-weight:700;text-decoration:none">지원금 조회기</a> · <a href="/diagnosis/" style="color:#2b6cf0;font-weight:700;text-decoration:none">맞춤 진단기</a> · <a href="/category/jiwongeum-cat/" style="color:#2b6cf0;font-weight:700;text-decoration:none">지원금 글 전체보기</a></p>
+
+  <!-- ★저자박스(필수 — A·B 공통, 면책 바로 위) -->
+  <div style="background:#ffffff;border:1px solid #e7ebf1;border-radius:16px;padding:16px 18px;margin:26px 0 0">
+    <table style="border-collapse:collapse"><tr>
+      <td style="width:64px;vertical-align:top;padding:0 14px 0 0"><img src="https://bokdon.com/wp-content/uploads/2026/08/bokdonjigi-avatar.jpg" alt="복돈지기 프로필 일러스트" style="width:64px;height:64px;border-radius:50%;display:block"></td>
+      <td style="vertical-align:middle"><p style="margin:0;font-weight:800;color:#16305a;font-size:17px">글 · 복돈지기</p><p style="margin:4px 0 0;font-size:15px;color:#5b626b;line-height:1.6">정부 공공데이터와 공식 자료를 하나하나 찾아 읽고, 어려운 제도를 쉬운 말로 정리합니다. <a href="/about/" style="color:#2b6cf0;font-weight:700;text-decoration:none">복돈 소개 보기 →</a></p></td>
+    </tr></table>
+  </div>
+
+  <!-- 면책(필수) -->
+  <p style="font-size:14px;color:#8a929c;background:#f6f8fb;border:1px solid #e7ebf1;border-radius:12px;padding:15px 17px;margin-top:14px;line-height:1.65">⚠️ 복돈(bokdon.com)은 <b>정보 제공 목적의 민간 정리 사이트</b>이며 정부 공식 사이트가 아닙니다. 위 금액·자격·기한은 참고값이며 제도 개정에 따라 수시로 변경됩니다. 개인 상황에 따라 실제 결과가 달라지므로 신청 전 <b>공식 채널로 최신 내용을 반드시 확인</b>하시기 바라며, 최종 결정과 책임은 본인에게 있습니다.</p>
+
+</div>
