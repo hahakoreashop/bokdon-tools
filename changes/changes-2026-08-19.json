@@ -1,0 +1,1868 @@
+{
+ "date": "2026-08-19",
+ "baseline": false,
+ "total": 10962,
+ "newCount": 1,
+ "modifiedCount": 167,
+ "removedCount": 1,
+ "new": [
+  {
+   "id": "627000000719",
+   "title": "청년 주택 임차보증금(전월세) 대출이자 지원",
+   "category": "주거·자립",
+   "region": "대구",
+   "registered": "20231123",
+   "views": 1927,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/627000000719"
+  }
+ ],
+ "modified": [
+  {
+   "id": "129000000007",
+   "title": "군인 재해보상 유족급여 지급",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 4210,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/129000000007"
+  },
+  {
+   "id": "129000000009",
+   "title": "장병 인권상담 지원",
+   "category": "행정·안전",
+   "region": "전국",
+   "views": 2336,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/129000000009"
+  },
+  {
+   "id": "129000000013",
+   "title": "전역예정군인 재취업 지원",
+   "category": "고용·창업",
+   "region": "전국",
+   "views": 3022,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/129000000013"
+  },
+  {
+   "id": "129000000015",
+   "title": "전역예정장병 취업활동지원",
+   "category": "고용·창업",
+   "region": "전국",
+   "views": 1764,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/129000000015"
+  },
+  {
+   "id": "135200005026",
+   "title": "긴급돌봄 지원",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 2935,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005026"
+  },
+  {
+   "id": "135200005027",
+   "title": "일상돌봄 서비스",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 3968,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005027"
+  },
+  {
+   "id": "135200005030",
+   "title": "기초연금 수급자 확인서",
+   "category": "행정·안전",
+   "region": "전국",
+   "views": 11718,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/135200005030"
+  },
+  {
+   "id": "142000000116",
+   "title": "대·중소 기업 동반진출 지원",
+   "category": "고용·창업",
+   "region": "전국",
+   "views": 1807,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142000000116"
+  },
+  {
+   "id": "142000000121",
+   "title": "수출컨소시엄(업종별 중소기업 해외전시회 참여 지원)",
+   "category": "고용·창업",
+   "region": "전국",
+   "views": 1545,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/142000000121"
+  },
+  {
+   "id": "149200000016",
+   "title": "산재근로자 직업훈련",
+   "category": "고용·창업",
+   "region": "전국",
+   "views": 9006,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000016"
+  },
+  {
+   "id": "149200000019",
+   "title": "산재근로자합병증 등 예방관리",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 15790,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000019"
+  },
+  {
+   "id": "149200000020",
+   "title": "산재근로자사회심리재활지원",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 89077,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000020"
+  },
+  {
+   "id": "149200000021",
+   "title": "산재근로자 직장 복귀 지원",
+   "category": "고용·창업",
+   "region": "전국",
+   "views": 2402,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000021"
+  },
+  {
+   "id": "149200000035",
+   "title": "산재근로자 케어센터 지원",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 2083,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000035"
+  },
+  {
+   "id": "149200000149",
+   "title": "산재근로자 대체인력지원 사업",
+   "category": "고용·창업",
+   "region": "전국",
+   "views": 2190,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200000149"
+  },
+  {
+   "id": "149200005025",
+   "title": "산재근로자 특별진찰",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 392,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/149200005025"
+  },
+  {
+   "id": "313000000126",
+   "title": "서울시 전세보증금 반환보증 보증료 지원",
+   "category": "주거·자립",
+   "region": "서울",
+   "views": 5257,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/313000000126"
+  },
+  {
+   "id": "313000000155",
+   "title": "(마포구)청년 면접정장 대여사업",
+   "category": "생활안정",
+   "region": "서울",
+   "views": 274,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/313000000155"
+  },
+  {
+   "id": "318000000431",
+   "title": "청년 중개보수 감면 사업",
+   "category": "주거·자립",
+   "region": "서울",
+   "views": 144,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/318000000431"
+  },
+  {
+   "id": "322000000127",
+   "title": "유축기 대여 서비스",
+   "category": "임신·출산",
+   "region": "서울",
+   "views": 15,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/322000000127"
+  },
+  {
+   "id": "337000000013",
+   "title": "의료급여 (의료급여 건강생활 유지비)",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 81974,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/337000000013"
+  },
+  {
+   "id": "348000000337",
+   "title": "산물벼 건조수수료 지원",
+   "category": "농림축산어업",
+   "region": "대구",
+   "views": 792,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/348000000337"
+  },
+  {
+   "id": "348000000339",
+   "title": "공공비축미곡(건조벼) 건조수수료 및 포대비 지원",
+   "category": "농림축산어업",
+   "region": "대구",
+   "views": 776,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/348000000339"
+  },
+  {
+   "id": "348000000372",
+   "title": "벼 계약재배 농가장려금 지원",
+   "category": "생활안정",
+   "region": "대구",
+   "views": 1017,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/348000000372"
+  },
+  {
+   "id": "348000000377",
+   "title": "가업승계 농업인 지원",
+   "category": "농림축산어업",
+   "region": "대구",
+   "views": 897,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/348000000377"
+  },
+  {
+   "id": "348000000379",
+   "title": "종합사회복지관 운영지원",
+   "category": "생활안정",
+   "region": "대구",
+   "views": 1237,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/348000000379"
+  },
+  {
+   "id": "349000000106",
+   "title": "암검진플러스",
+   "category": "보건·의료",
+   "region": "인천",
+   "views": 1750,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/349000000106"
+  },
+  {
+   "id": "353000000101",
+   "title": "어선(선체) 재해보상보험료 지원",
+   "category": "농림축산어업",
+   "region": "인천",
+   "views": 771,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/353000000101"
+  },
+  {
+   "id": "353000000105",
+   "title": "자립준비청년(보호종료아동) 자립정착금 지원",
+   "category": "주거·자립",
+   "region": "인천",
+   "views": 2235,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/353000000105"
+  },
+  {
+   "id": "353000000106",
+   "title": "장애인 전동보조기기 안전커버 지원",
+   "category": "행정·안전",
+   "region": "인천",
+   "views": 823,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/353000000106"
+  },
+  {
+   "id": "353000000107",
+   "title": "저소득 노인 국민건강보험료 지원",
+   "category": "보건·의료",
+   "region": "인천",
+   "views": 1138,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/353000000107"
+  },
+  {
+   "id": "353000000108",
+   "title": "국가보훈대상자 지원",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 1160,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/353000000108"
+  },
+  {
+   "id": "353000000109",
+   "title": "일시위탁 보호비 지급",
+   "category": "보육·교육",
+   "region": "인천",
+   "views": 1011,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/353000000109"
+  },
+  {
+   "id": "353000000110",
+   "title": "어업인 재해보상보험료 지원",
+   "category": "농림축산어업",
+   "region": "인천",
+   "views": 679,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/353000000110"
+  },
+  {
+   "id": "355000000111",
+   "title": "노란우산공제부금 가입장려금 지급",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 1135,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/355000000111"
+  },
+  {
+   "id": "355000000112",
+   "title": "소상공인 특례보증",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 1905,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/355000000112"
+  },
+  {
+   "id": "378000000140",
+   "title": "대상포진 예방접종",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 8995,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/378000000140"
+  },
+  {
+   "id": "378000000142",
+   "title": "장애인 활동지원(추가)",
+   "category": "보호·돌봄",
+   "region": "경기",
+   "views": 1346,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/378000000142"
+  },
+  {
+   "id": "378000000144",
+   "title": "성인 예방접종",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 2449,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/378000000144"
+  },
+  {
+   "id": "378000000152",
+   "title": "장애인가정 출산지원금 지급",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 1250,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/378000000152"
+  },
+  {
+   "id": "378000000154",
+   "title": "통합복지카드 발급수수료 지원",
+   "category": "행정·안전",
+   "region": "경기",
+   "views": 4906,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/378000000154"
+  },
+  {
+   "id": "378000000157",
+   "title": "보훈명예수당",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 2272,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/378000000157"
+  },
+  {
+   "id": "386000000114",
+   "title": "장애인 출산지원금 지원",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 1503,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/386000000114"
+  },
+  {
+   "id": "386000000133",
+   "title": "인플루엔자 예방접종 지원",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 2278,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/386000000133"
+  },
+  {
+   "id": "390000000114",
+   "title": "고령운전자 운전면허 자진반납 지원",
+   "category": "행정·안전",
+   "region": "경기",
+   "views": 1763,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/390000000114"
+  },
+  {
+   "id": "390000000127",
+   "title": "광명시 노인 대중교통비 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 2884,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/390000000127"
+  },
+  {
+   "id": "390000000430",
+   "title": "광명시 어린이청소년 대중교통비 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 878,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/390000000430"
+  },
+  {
+   "id": "394000000115",
+   "title": "저소득층 쓰레기 종량제봉투 지급",
+   "category": "행정·안전",
+   "region": "경기",
+   "views": 4354,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/394000000115"
+  },
+  {
+   "id": "398000000296",
+   "title": "구리시 중·고등학교 신입생 체육복 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 5,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/398000000296"
+  },
+  {
+   "id": "398000000297",
+   "title": "구리시 시민안전보험",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 1209,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/398000000297"
+  },
+  {
+   "id": "402000000126",
+   "title": "군포시 청년 전월세 보증금 대출이자 지원",
+   "category": "주거·자립",
+   "region": "경기",
+   "views": 1649,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/402000000126"
+  },
+  {
+   "id": "406000000526",
+   "title": "파주시 수도요금 감면",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 25,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/406000000526"
+  },
+  {
+   "id": "407000000102",
+   "title": "입양아동 입학지원금 지원",
+   "category": "보육·교육",
+   "region": "경기",
+   "views": 3535,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/407000000102"
+  },
+  {
+   "id": "407000000104",
+   "title": "이천시 다자녀(셋째이상) 가정 양육비 지원",
+   "category": "보육·교육",
+   "region": "경기",
+   "views": 2069,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/407000000104"
+  },
+  {
+   "id": "407000000115",
+   "title": "퇴소 및 보호종결아동 자립정착금 지원",
+   "category": "주거·자립",
+   "region": "경기",
+   "views": 1139,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/407000000115"
+  },
+  {
+   "id": "407000000116",
+   "title": "행복장애수당",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 1391,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/407000000116"
+  },
+  {
+   "id": "407000000118",
+   "title": "출산축하금 지원",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 2597,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/407000000118"
+  },
+  {
+   "id": "407000000516",
+   "title": "휠체어 등 수리비 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 228,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/407000000516"
+  },
+  {
+   "id": "407000000517",
+   "title": "이천시 입영지원금",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 693,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/407000000517"
+  },
+  {
+   "id": "407000000518",
+   "title": "이천시 난임부부 시술비 약제비 지원",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 609,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/407000000518"
+  },
+  {
+   "id": "407000000520",
+   "title": "이천시 난임부부 시술비 지원(추가 10% 지원)",
+   "category": "보육·교육",
+   "region": "경기",
+   "views": 960,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/407000000520"
+  },
+  {
+   "id": "407000000522",
+   "title": "이천시 1인 자영업자 등 출산급여 지원",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 190,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/407000000522"
+  },
+  {
+   "id": "408000000536",
+   "title": "지역화폐(안성사랑카드)",
+   "category": "행정·안전",
+   "region": "경기",
+   "views": 5332,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/408000000536"
+  },
+  {
+   "id": "417000000108",
+   "title": "치매조기검진지원",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 1238,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/417000000108"
+  },
+  {
+   "id": "418000000089",
+   "title": "의료급여 본인부담 면제(외래)",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 24131,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/418000000089"
+  },
+  {
+   "id": "425000000640",
+   "title": "전통주 강원쌀 구입차액 지원",
+   "category": "농림축산어업",
+   "region": "강원",
+   "views": 768,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/425000000640"
+  },
+  {
+   "id": "425000000646",
+   "title": "한센병 환자 생계비 지원",
+   "category": "생활안정",
+   "region": "강원",
+   "views": 790,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/425000000646"
+  },
+  {
+   "id": "430000000132",
+   "title": "저소득층(기초생활수급자 및 차상위계층) 명절 위문품 지원",
+   "category": "보호·돌봄",
+   "region": "강원",
+   "views": 2204,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/430000000132"
+  },
+  {
+   "id": "430000000134",
+   "title": "가정위탁아동 양육보조금 지원",
+   "category": "보육·교육",
+   "region": "강원",
+   "views": 662,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/430000000134"
+  },
+  {
+   "id": "430000000136",
+   "title": "보호아동 학용품비 및 피복 구입 지원",
+   "category": "보육·교육",
+   "region": "강원",
+   "views": 951,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/430000000136"
+  },
+  {
+   "id": "430000000137",
+   "title": "보호종료아동 자립정착금 지원",
+   "category": "주거·자립",
+   "region": "강원",
+   "views": 776,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/430000000137"
+  },
+  {
+   "id": "430000000141",
+   "title": "저소득층 월동난방비 지원(변경 운영: 냉·난방비 통합)",
+   "category": "생활안정",
+   "region": "강원",
+   "views": 3495,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/430000000141"
+  },
+  {
+   "id": "430000000142",
+   "title": "두루웰 천사 지원사업",
+   "category": "생활안정",
+   "region": "강원",
+   "views": 1344,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/430000000142"
+  },
+  {
+   "id": "430000000146",
+   "title": "철원군보훈수당지원",
+   "category": "생활안정",
+   "region": "강원",
+   "views": 1071,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/430000000146"
+  },
+  {
+   "id": "430000000147",
+   "title": "출산장려금 지원",
+   "category": "임신·출산",
+   "region": "강원",
+   "views": 1306,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/430000000147"
+  },
+  {
+   "id": "430000000148",
+   "title": "결식이 우려되는 저소득층 거동불편 노인 도시락 제공",
+   "category": "보호·돌봄",
+   "region": "강원",
+   "views": 856,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/430000000148"
+  },
+  {
+   "id": "430000000153",
+   "title": "저소득 노인가구 국민건강보험료 지원",
+   "category": "보건·의료",
+   "region": "강원",
+   "views": 767,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/430000000153"
+  },
+  {
+   "id": "430100000001",
+   "title": "철원군민안전보험",
+   "category": "생활안정",
+   "region": "강원",
+   "views": 259,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/430100000001"
+  },
+  {
+   "id": "464000000125",
+   "title": "주택바우처(전주형 주거급여)",
+   "category": "주거·자립",
+   "region": "전북",
+   "views": 6793,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/464000000125"
+  },
+  {
+   "id": "467000000103",
+   "title": "군산형 긴급복지 지원",
+   "category": "생활안정",
+   "region": "전북",
+   "views": 3063,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/467000000103"
+  },
+  {
+   "id": "467100000005",
+   "title": "군산형 가사서비스 지원",
+   "category": "보호·돌봄",
+   "region": "전북",
+   "views": 264,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/467100000005"
+  },
+  {
+   "id": "490000000109",
+   "title": "한센사업대상자 관리 지원",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 634,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/490000000109"
+  },
+  {
+   "id": "508000000695",
+   "title": "생애초기 건강관리 서비스(구미시)",
+   "category": "보건·의료",
+   "region": "경북",
+   "views": 2403,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/508000000695"
+  },
+  {
+   "id": "537000000189",
+   "title": "야생동물로 인한 피해보상 지원",
+   "category": "농림축산어업",
+   "region": "경남",
+   "views": 665,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/537000000189"
+  },
+  {
+   "id": "537000000216",
+   "title": "환경개선부담금 감면 지원",
+   "category": "생활안정",
+   "region": "경남",
+   "views": 1237,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/537000000216"
+  },
+  {
+   "id": "554000000101",
+   "title": "고령운전자 운전면허 자진반납 지원",
+   "category": "행정·안전",
+   "region": "경기",
+   "views": 1877,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000101"
+  },
+  {
+   "id": "554000000102",
+   "title": "장애인 휠체어 등 수리지원",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 1176,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000102"
+  },
+  {
+   "id": "554000000103",
+   "title": "셋째이상 자녀 양육비 지원",
+   "category": "보육·교육",
+   "region": "경기",
+   "views": 2093,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000103"
+  },
+  {
+   "id": "554000000105",
+   "title": "신혼부부 전월세자금 대출이자 지원",
+   "category": "주거·자립",
+   "region": "경기",
+   "views": 4565,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000105"
+  },
+  {
+   "id": "554000000106",
+   "title": "임산부 물품 및 영양제(엽산제, 철분제) 택배발송(경기도 광주시)",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 3612,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000106"
+  },
+  {
+   "id": "554000000107",
+   "title": "장애인가정 출산지원금 지급",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 1230,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000107"
+  },
+  {
+   "id": "554000000109",
+   "title": "차상위 국민건강보험료 및 장기요양보험료 지원",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 1525,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000109"
+  },
+  {
+   "id": "554000000110",
+   "title": "퇴소아동 자립정착금 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 1318,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000110"
+  },
+  {
+   "id": "554000000111",
+   "title": "법정저소득층아동 어린이집 입학준비금 지원",
+   "category": "보육·교육",
+   "region": "경기",
+   "views": 2666,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000111"
+  },
+  {
+   "id": "554000000113",
+   "title": "경기도 광주시 기초생활수급자 가구 감면(상·하수도)",
+   "category": "행정·안전",
+   "region": "경기",
+   "views": 1973,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000113"
+  },
+  {
+   "id": "554000000114",
+   "title": "산모·신생아 건강관리 지원(경기도 광주시)",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 2552,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000114"
+  },
+  {
+   "id": "554000000115",
+   "title": "경기도 광주시 다자녀 가구 감면(상·하수도)",
+   "category": "행정·안전",
+   "region": "경기",
+   "views": 3682,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000115"
+  },
+  {
+   "id": "554000000116",
+   "title": "장애인활동지원급여 지원(시비)",
+   "category": "보호·돌봄",
+   "region": "경기",
+   "views": 1099,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000116"
+  },
+  {
+   "id": "554000000117",
+   "title": "경기도 광주시 장애인 가구 감면(상·하수도)",
+   "category": "행정·안전",
+   "region": "경기",
+   "views": 1379,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000117"
+  },
+  {
+   "id": "554000000118",
+   "title": "명절맞이 소외계층 위문",
+   "category": "보호·돌봄",
+   "region": "경기",
+   "views": 2846,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000118"
+  },
+  {
+   "id": "554000000119",
+   "title": "출산장려금 지원",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 4202,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000119"
+  },
+  {
+   "id": "554000000120",
+   "title": "경기도 광주시 한부모 가구 감면(상·하수도)",
+   "category": "행정·안전",
+   "region": "경기",
+   "views": 1885,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000120"
+  },
+  {
+   "id": "554000000122",
+   "title": "건강치아멘토링 아동치과주치의사업",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 1344,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000122"
+  },
+  {
+   "id": "554000000125",
+   "title": "치매감별검사비 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 1343,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000125"
+  },
+  {
+   "id": "554000000126",
+   "title": "치매환자 조호물품 제공",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 1103,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000126"
+  },
+  {
+   "id": "554000000130",
+   "title": "비인가 대안교육기관 등 학생교복 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 1131,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000130"
+  },
+  {
+   "id": "554000000131",
+   "title": "기형아 검사비 지원(경기도 광주시)",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 4432,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000131"
+  },
+  {
+   "id": "554000000132",
+   "title": "공공비축 벼 포대 구입지원",
+   "category": "농림축산어업",
+   "region": "경기",
+   "views": 1149,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000132"
+  },
+  {
+   "id": "554000000135",
+   "title": "작물재배용 상토지원 사업",
+   "category": "농림축산어업",
+   "region": "경기",
+   "views": 979,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000135"
+  },
+  {
+   "id": "554000000140",
+   "title": "환경친화형농자재 지원사업",
+   "category": "농림축산어업",
+   "region": "경기",
+   "views": 1069,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000140"
+  },
+  {
+   "id": "554000000151",
+   "title": "학생승마체험 지원사업",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 1330,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000151"
+  },
+  {
+   "id": "554000000154",
+   "title": "양봉산업 현대화 지원 사업",
+   "category": "농림축산어업",
+   "region": "경기",
+   "views": 1211,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000154"
+  },
+  {
+   "id": "554000000155",
+   "title": "지속가능한 양봉산업 기반 조성",
+   "category": "농림축산어업",
+   "region": "경기",
+   "views": 997,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000155"
+  },
+  {
+   "id": "554000000157",
+   "title": "로컬푸드 직매장(Shop in Shop) 포장재 지원사업",
+   "category": "농림축산어업",
+   "region": "경기",
+   "views": 1427,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000157"
+  },
+  {
+   "id": "554000000158",
+   "title": "자연채 포장재 지원사업",
+   "category": "농림축산어업",
+   "region": "경기",
+   "views": 958,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000158"
+  },
+  {
+   "id": "554000000159",
+   "title": "홈쇼핑 판로지원 사업",
+   "category": "농림축산어업",
+   "region": "경기",
+   "views": 1454,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000159"
+  },
+  {
+   "id": "554000000163",
+   "title": "돌봄 취약가구 반려동물 의료서비스 등 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 2562,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000163"
+  },
+  {
+   "id": "554000000165",
+   "title": "가축분뇨 수분조절재(톱밥 등) 지원사업",
+   "category": "농림축산어업",
+   "region": "경기",
+   "views": 2166,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000165"
+  },
+  {
+   "id": "554000000167",
+   "title": "다용도 축산분뇨 처리장비 지원사업",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 1324,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000167"
+  },
+  {
+   "id": "554000000168",
+   "title": "한우TMF사료 지원사업",
+   "category": "농림축산어업",
+   "region": "경기",
+   "views": 1047,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000168"
+  },
+  {
+   "id": "554000000170",
+   "title": "낙농산업 경쟁력 강화사업",
+   "category": "농림축산어업",
+   "region": "경기",
+   "views": 994,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000170"
+  },
+  {
+   "id": "554000000172",
+   "title": "가축분뇨 위탁처리 지원사업",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 2158,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000172"
+  },
+  {
+   "id": "554000000173",
+   "title": "가금농가 경쟁력 강화사업",
+   "category": "농림축산어업",
+   "region": "경기",
+   "views": 1010,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000173"
+  },
+  {
+   "id": "554000000174",
+   "title": "광주시 꿈이룸프로젝트",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 1868,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000174"
+  },
+  {
+   "id": "554000000178",
+   "title": "산모·신생아 건강관리 서비스 본인부담금 지원(경기도 광주시)",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 10124,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000178"
+  },
+  {
+   "id": "554000000182",
+   "title": "광주시 청년지원센터「더누림 플랫폼」운영",
+   "category": "문화·환경",
+   "region": "경기",
+   "views": 283,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000182"
+  },
+  {
+   "id": "554000000183",
+   "title": "광주시 청년지원센터 더누림 플랫폼 창업누림운영",
+   "category": "고용·창업",
+   "region": "경기",
+   "views": 465,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000183"
+  },
+  {
+   "id": "554000000184",
+   "title": "청년챙김프로젝트",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 217,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000184"
+  },
+  {
+   "id": "554000000185",
+   "title": "독립응원패키지(청년 1인가구 이사비 지원)",
+   "category": "주거·자립",
+   "region": "경기",
+   "views": 489,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000185"
+  },
+  {
+   "id": "554000000186",
+   "title": "경기도 광주시 시민안전보험",
+   "category": "행정·안전",
+   "region": "경기",
+   "views": 1963,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000186"
+  },
+  {
+   "id": "554000000188",
+   "title": "청소년상담복지센터 상담지원",
+   "category": "보호·돌봄",
+   "region": "경기",
+   "views": 128,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000188"
+  },
+  {
+   "id": "554000000189",
+   "title": "입양아동 입학지원금 지원",
+   "category": "보육·교육",
+   "region": "경기",
+   "views": 210,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000189"
+  },
+  {
+   "id": "554000000192",
+   "title": "어린이 전집대출 서비스",
+   "category": "보육·교육",
+   "region": "경기",
+   "views": 152,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000192"
+  },
+  {
+   "id": "554000000193",
+   "title": "화장장려금 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 115,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000193"
+  },
+  {
+   "id": "554000000195",
+   "title": "보훈명예수당",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 165,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000195"
+  },
+  {
+   "id": "554000000196",
+   "title": "참전명예수당",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 149,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000196"
+  },
+  {
+   "id": "554000000198",
+   "title": "유축기 대여 서비스",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 200,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000198"
+  },
+  {
+   "id": "554000000205",
+   "title": "다태임신 임산부 교통비 지원(광주시)",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 726,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/554000000205"
+  },
+  {
+   "id": "559000000116",
+   "title": "젖소 개량 지원",
+   "category": "농림축산어업",
+   "region": "경기",
+   "views": 962,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/559000000116"
+  },
+  {
+   "id": "568000000112",
+   "title": "장애인가정 임신 진료비 및 출산지원금 지원",
+   "category": "임신·출산",
+   "region": "충남",
+   "views": 1657,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/568000000112"
+  },
+  {
+   "id": "569000000349",
+   "title": "농산물 수출 포장재 지원",
+   "category": "생활안정",
+   "region": "세종",
+   "views": 664,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/569000000349"
+  },
+  {
+   "id": "587500000001",
+   "title": "영암형 공공주택 계약연장",
+   "category": "주거·자립",
+   "region": "전국",
+   "views": 76,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/587500000001"
+  },
+  {
+   "id": "626000000134",
+   "title": "산모·신생아 건강관리 지원사업",
+   "category": "임신·출산",
+   "region": "부산",
+   "views": 4479,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/626000000134"
+  },
+  {
+   "id": "628000000763",
+   "title": "자원봉사와 함께하는 병원동행 서비스",
+   "category": "보건·의료",
+   "region": "인천",
+   "views": 986,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/628000000763"
+  },
+  {
+   "id": "629000000809",
+   "title": "다태아출산축하금 지원",
+   "category": "임신·출산",
+   "region": "전국",
+   "views": 200,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/629000000809"
+  },
+  {
+   "id": "630000000652",
+   "title": "구직청년 면접용 정장 무료 대여",
+   "category": "고용·창업",
+   "region": "대전",
+   "views": 813,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/630000000652"
+  },
+  {
+   "id": "641000000159",
+   "title": "자립준비청년 자립지원정착금 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 2191,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/641000000159"
+  },
+  {
+   "id": "641000000820",
+   "title": "경기 소상공인 힘내GO 카드 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 425,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/641000000820"
+  },
+  {
+   "id": "642000000674",
+   "title": "가금질병 예방시스템 구축 지원",
+   "category": "농림축산어업",
+   "region": "강원",
+   "views": 1114,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/642000000674"
+  },
+  {
+   "id": "642000000718",
+   "title": "꿀벌 사육농가 면역증강제 지원",
+   "category": "농림축산어업",
+   "region": "강원",
+   "views": 1013,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/642000000718"
+  },
+  {
+   "id": "643000000746",
+   "title": "충북 장애인  평생교육이용권",
+   "category": "보육·교육",
+   "region": "충북",
+   "views": 1159,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/643000000746"
+  },
+  {
+   "id": "999000000042",
+   "title": "의료급여 선택의료급여기관제",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 20527,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/999000000042"
+  },
+  {
+   "id": "999000000044",
+   "title": "지역사회서비스 청년사업단",
+   "category": "보호·돌봄",
+   "region": "전국",
+   "views": 147953,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/999000000044"
+  },
+  {
+   "id": "B49000100043",
+   "title": "요양급여(보조기)-산재보험급여",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 17979,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B49000100043"
+  },
+  {
+   "id": "O00003000001",
+   "title": "G-하우징",
+   "category": "주거·자립",
+   "region": "전국",
+   "views": 8931,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00003000001"
+  },
+  {
+   "id": "O00004900001",
+   "title": "공영주차장 요금 감면",
+   "category": "행정·안전",
+   "region": "전국",
+   "views": 1388,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00004900001"
+  },
+  {
+   "id": "O00004900003",
+   "title": "공공체육시설 이용료 감액",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 1212,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00004900003"
+  },
+  {
+   "id": "O00004900004",
+   "title": "광주시 교통약자 이동지원센터",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 2239,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00004900004"
+  },
+  {
+   "id": "O00004900006",
+   "title": "광주시민 공공 놀이·여가 시설 이용료 감액",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 212,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00004900006"
+  },
+  {
+   "id": "O00026900003",
+   "title": "공영주차장 이용요금 감면",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 1325,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00026900003"
+  },
+  {
+   "id": "O00026900005",
+   "title": "체육시설 이용요금 감면",
+   "category": "문화·환경",
+   "region": "인천",
+   "views": 1237,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00026900005"
+  },
+  {
+   "id": "O00027200005",
+   "title": "체육시설 이용요금 감면(옹암체육센터)",
+   "category": "문화·환경",
+   "region": "인천",
+   "views": 124,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00027200005"
+  },
+  {
+   "id": "O00047700001",
+   "title": "광주시문화재단 시설물 대관료 감면",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 965,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00047700001"
+  },
+  {
+   "id": "O00047800003",
+   "title": "광주시민장학회 장학금 지원",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 1048,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00047800003"
+  },
+  {
+   "id": "SD0000016138",
+   "title": "지역사회서비스",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 301648,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SD0000016138"
+  },
+  {
+   "id": "SHE000000180",
+   "title": "의료급여 중증질환, 희귀질환 및 중증난치질환자 지원",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 15591,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/SHE000000180"
+  },
+  {
+   "id": "VOU000000040",
+   "title": "가사·간병 방문 지원",
+   "category": "보호·돌봄",
+   "region": "전국",
+   "views": 27820,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/VOU000000040"
+  }
+ ]
+}
