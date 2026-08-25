@@ -53,6 +53,20 @@
    "queuedAt": "2026-07-31"
   },
   {
+   "id": "999000000008",
+   "title": "육아휴직급여",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 542419,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/999000000008",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-08-25"
+  },
+  {
    "id": "WII000001410",
    "title": "생계급여",
    "category": "생활안정",
@@ -2591,6 +2605,17 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "627000000113",
+   "title": "대구광역시 다자녀가정 고등학교 입학축하금 지원",
+   "category": "임신·출산",
+   "region": "대구",
+   "views": 14195,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/627000000113",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-08-25"
+  },
+  {
    "id": "137100000217",
    "title": "글로벌 광고인재 육성",
    "category": "문화·환경",
@@ -4140,6 +4165,19 @@
     "수정일"
    ],
    "queuedAt": "2026-07-31"
+  },
+  {
+   "id": "404000000114",
+   "title": "노인 장수수당 지원",
+   "category": "보호·돌봄",
+   "region": "경기",
+   "views": 8489,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/404000000114",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-25"
   },
   {
    "id": "392000000115",
@@ -11661,6 +11699,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "404000000101",
+   "title": "저소득층 및 국가유공자 등 명절 위문",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 3157,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/404000000101",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-25"
   },
   {
    "id": "119200000059",
@@ -23914,6 +23965,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "404000000103",
+   "title": "독거노인 건강음료비 지원",
+   "category": "보호·돌봄",
+   "region": "경기",
+   "views": 1793,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/404000000103",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-25"
+  },
+  {
    "id": "B49000700206",
    "title": "계속종사장려금 지급",
    "category": "고용·창업",
@@ -24043,6 +24107,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "404000000106",
+   "title": "장애인 운전면허 취득 지원",
+   "category": "주거·자립",
+   "region": "경기",
+   "views": 1784,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/404000000106",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-25"
   },
   {
    "id": "148000000045",
@@ -28452,6 +28529,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "404000000117",
+   "title": "어르신 이·미용비 및 목욕비 지원",
+   "category": "보호·돌봄",
+   "region": "경기",
+   "views": 1583,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/404000000117",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-25"
+  },
+  {
    "id": "490000000282",
    "title": "화순군 전입장려금 및 전입세대 이사비용 지원사업",
    "category": "생활안정",
@@ -29106,6 +29196,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "349000000105",
+   "title": "사회복지 증진 지원",
+   "category": "주거·자립",
+   "region": "인천",
+   "views": 1553,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/349000000105",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-25"
   },
   {
    "id": "511000000125",
@@ -30948,6 +31051,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "349000000103",
+   "title": "지역사회서비스투자사업",
+   "category": "행정·안전",
+   "region": "인천",
+   "views": 1464,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/349000000103",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-25"
   },
   {
    "id": "460000000142",
@@ -33669,6 +33785,19 @@
    "queuedAt": "2026-08-10"
   },
   {
+   "id": "404000000109",
+   "title": "희망을 드려요(가족지원사업)",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 1370,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/404000000109",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-25"
+  },
+  {
    "id": "390000000115",
    "title": "저소득 장애인 생활안정 지원",
    "category": "임신·출산",
@@ -34097,6 +34226,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "404000000107",
+   "title": "장애인가정 출산지원금 지원",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 1352,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/404000000107",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-25"
   },
   {
    "id": "646000000183",
@@ -36975,6 +37117,19 @@
    "queuedAt": "2026-08-04"
   },
   {
+   "id": "404000000102",
+   "title": "장애인 보조기구 수리비용 지원",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 1267,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/404000000102",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-25"
+  },
+  {
    "id": "B55252900205",
    "title": "손해금(지연배상금) 감면",
    "category": "생활안정",
@@ -37457,6 +37612,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "349000000111",
+   "title": "돌봄플러그 설치 지원",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 1255,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/349000000111",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-25"
   },
   {
    "id": "487000000109",
@@ -47926,6 +48094,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "349000000108",
+   "title": "저소득 노인 부분틀니 지대치 비용 지원",
+   "category": "보건·의료",
+   "region": "인천",
+   "views": 1040,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/349000000108",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-25"
+  },
+  {
    "id": "423000000470",
    "title": "마을 특화작물 포장재 지원",
    "category": "농림축산어업",
@@ -52998,6 +53179,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "349000000101",
+   "title": "저소득층 국민건강보험료 지원",
+   "category": "보건·의료",
+   "region": "인천",
+   "views": 967,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/349000000101",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-25"
   },
   {
    "id": "507000000757",
@@ -59986,6 +60180,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "517000000113",
+   "title": "가뭄대책 소형 양수장비 지원",
+   "category": "농림축산어업",
+   "region": "경북",
+   "views": 875,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/517000000113",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-25"
   },
   {
    "id": "308000000124",
@@ -83830,6 +84037,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "O00011800005",
+   "title": "장사시설 이용요금 감면",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 623,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00011800005",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-25"
+  },
+  {
    "id": "476000000111",
    "title": "논콩 수매장려금 지급",
    "category": "농림축산어업",
@@ -86788,6 +87008,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "349000000121",
+   "title": "국가보훈대상자 지원",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 582,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/349000000121",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-25"
   },
   {
    "id": "474000000149",
@@ -107942,6 +108175,6 @@
    "queuedAt": "2026-08-22"
   }
  ],
- "updated": "2026-08-22",
- "count": 8267
+ "updated": "2026-08-25",
+ "count": 8285
 }
