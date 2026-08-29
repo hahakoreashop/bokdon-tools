@@ -3772,6 +3772,19 @@
    "queuedAt": "2026-08-10"
   },
   {
+   "id": "631000000139",
+   "title": "산후조리비 지원",
+   "category": "임신·출산",
+   "region": "울산",
+   "views": 9476,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/631000000139",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "538000000103",
    "title": "기초생활보장수급자 명절위문금 지급",
    "category": "보호·돌봄",
@@ -4100,6 +4113,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "611000000128",
+   "title": "서울형 기초보장제도 생계급여 등 지원",
+   "category": "생활안정",
+   "region": "서울",
+   "views": 8628,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/611000000128",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "149200000040",
    "title": "외국인 고용허가제",
    "category": "고용·창업",
@@ -4191,6 +4217,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "650000001121",
+   "title": "제주 3만원 주택",
+   "category": "주거·자립",
+   "region": "제주",
+   "views": 8474,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/650000001121",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "O00015000012",
@@ -4412,6 +4451,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "631000000712",
+   "title": "울산광역시 산모신생아 재가돌봄 서비스 지원",
+   "category": "임신·출산",
+   "region": "울산",
+   "views": 8037,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/631000000712",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "154300000127",
@@ -6832,6 +6884,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "631000000108",
+   "title": "저소득시민 건강검진 지원",
+   "category": "보건·의료",
+   "region": "울산",
+   "views": 5152,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/631000000108",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "648000001022",
    "title": "경상남도 대학생 학자금 이자 지원",
    "category": "보육·교육",
@@ -8225,6 +8290,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "O00007100011",
+   "title": "문화시설 이용요금 감면(갯골캠핑장)",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 4310,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00007100011",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "642000000703",
@@ -12971,6 +13049,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "641000000121",
+   "title": "택시 카드결제 수수료 지원",
+   "category": "고용·창업",
+   "region": "경기",
+   "views": 2913,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/641000000121",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "B46001400001",
    "title": "사회복지 자원봉사",
    "category": "보호·돌봄",
@@ -13361,6 +13452,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-07"
+  },
+  {
+   "id": "401000000103",
+   "title": "노인일자리 지원",
+   "category": "고용·창업",
+   "region": "경기",
+   "views": 2845,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000103",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "352000000106",
@@ -13910,6 +14014,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "B55206100004",
+   "title": "어린이 교통안전체험관",
+   "category": "행정·안전",
+   "region": "전국",
+   "views": 2757,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55206100004",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "137100000032",
    "title": "문화로 치유 지원",
    "category": "문화·환경",
@@ -13974,6 +14091,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "401000000102",
+   "title": "시흥시 보훈(참전) 명예수당",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 2739,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000102",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "119200000136",
@@ -15416,6 +15546,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-10"
+  },
+  {
+   "id": "401000000107",
+   "title": "시흥 효도수당",
+   "category": "보호·돌봄",
+   "region": "경기",
+   "views": 2549,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000107",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "119200000056",
@@ -17672,6 +17815,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "631000000127",
+   "title": "모자보건(임산부 건강검진 지원)",
+   "category": "보건·의료",
+   "region": "울산",
+   "views": 2257,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/631000000127",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "B50000100003",
    "title": "K-water 사랑샘터",
    "category": "보호·돌봄",
@@ -18130,6 +18286,20 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "O00007100014",
+   "title": "체육시설 이용요금 감면(시흥어울림국민체육센터)",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 2218,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00007100014",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "O00021500001",
@@ -19545,6 +19715,20 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "626000000623",
+   "title": "부산 공공예식장 작은 결혼식 지원",
+   "category": "생활안정",
+   "region": "부산",
+   "views": 2099,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/626000000623",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "397000000104",
    "title": "과천시 청년 면접 모두드림(면접 정장, 헤어메이크업, 이력서 사진 지원)",
    "category": "고용·창업",
@@ -20119,6 +20303,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "401000000111",
+   "title": "시흥시 국가유공자 생활보조수당",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 2061,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000111",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "548000000124",
    "title": "합천군 인구증가시책 지원",
    "category": "임신·출산",
@@ -20131,6 +20328,19 @@
     "수정일"
    ],
    "queuedAt": "2026-07-31"
+  },
+  {
+   "id": "401000000110",
+   "title": "외국인아동보육료 지원",
+   "category": "보육·교육",
+   "region": "경기",
+   "views": 2060,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000110",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "352000000101",
@@ -21907,6 +22117,19 @@
    "queuedAt": "2026-08-19"
   },
   {
+   "id": "O00007300001",
+   "title": "상하수도요금 감면",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 1927,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00007300001",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "629000000185",
    "title": "입원아동 돌봄서비스",
    "category": "보건·의료",
@@ -23414,6 +23637,20 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "481000000106",
+   "title": "축사 환풍기 설치 지원",
+   "category": "농림축산어업",
+   "region": "전국",
+   "views": 1824,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/481000000106",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "148000000036",
    "title": "한강수계 주민지원(특별지원사업)",
    "category": "문화·환경",
@@ -23713,6 +23950,19 @@
     "수정일"
    ],
    "queuedAt": "2026-07-28"
+  },
+  {
+   "id": "O00007100019",
+   "title": "공영주차장 이용요금 감면",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 1804,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00007100019",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "O00033300017",
@@ -25603,6 +25853,19 @@
    "queuedAt": "2026-07-31"
   },
   {
+   "id": "O00051500001",
+   "title": "청소년 무료 개인상담 및 심리검사",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 1693,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00051500001",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "524000000140",
    "title": "장애인 복지콜",
    "category": "생활안정",
@@ -27353,6 +27616,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "641000000113",
+   "title": "택시 카드단말기 통신료 지원",
+   "category": "고용·창업",
+   "region": "경기",
+   "views": 1629,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/641000000113",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "391000000108",
    "title": "참전유공자수당",
    "category": "생활안정",
@@ -28503,6 +28779,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "641000000118",
+   "title": "일반택시 장기무사고 근속자 융자 이차보전금 지원",
+   "category": "고용·창업",
+   "region": "경기",
+   "views": 1584,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/641000000118",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "B55263500001",
    "title": "퇴직예정 교직원 퇴임대비 연수",
    "category": "보육·교육",
@@ -29041,6 +29330,20 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "O00011400002",
+   "title": "상수도요금 감면",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 1563,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00011400002",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "506000000130",
    "title": "중·고등학교 신입생 교복구입비 지원",
    "category": "보육·교육",
@@ -29092,6 +29395,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "O00007100015",
+   "title": "체육시설 이용요금 감면(국민체육센터)",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 1559,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00007100015",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "644000000224",
@@ -29931,6 +30247,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "O00007100010",
+   "title": "문화시설 이용요금 감면(능곡어울림센터)",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 1516,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00007100010",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "453000000202",
    "title": "서산시 전입대학생 지원",
    "category": "주거·자립",
@@ -29981,6 +30310,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-07"
+  },
+  {
+   "id": "631000000104",
+   "title": "풍진 및 기형아 검사",
+   "category": "임신·출산",
+   "region": "울산",
+   "views": 1513,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/631000000104",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "300000000127",
@@ -32164,6 +32506,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "O00007100006",
+   "title": "체육시설 이용요금 감면(인조잔디구장)",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 1426,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00007100006",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "538000000108",
    "title": "태아 기형아검사비 지원",
    "category": "임신·출산",
@@ -34121,6 +34476,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-07"
+  },
+  {
+   "id": "641000000178",
+   "title": "일산대교 택시 통행료 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 1358,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/641000000178",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "O00023700001",
@@ -36105,6 +36473,20 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "O00007100018",
+   "title": "문화시설 이용요금 감면(정왕평생학습관)",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 1295,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00007100018",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "O00027100001",
@@ -39064,6 +39446,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "O00007100001",
+   "title": "공영주차장 야간 무료개방",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 1221,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00007100001",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "350000000115",
    "title": "중소기업 및 소상공인 특례보증 지원사업",
    "category": "생활안정",
@@ -40749,6 +41144,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "O00007100002",
+   "title": "공공체육시설 사용료 감면",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 1185,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00007100002",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "461000000108",
@@ -43882,6 +44290,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "O00007100003",
+   "title": "갯골생태공원 이용요금 감면(염전체험, 전기차, 해수체험, 다인승 자전거, 수상자전거체험)",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 1115,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00007100003",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "451000000112",
    "title": "효도수당",
    "category": "보호·돌봄",
@@ -45938,6 +46359,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "401000000121",
+   "title": "시흥시 국가보훈대상자 사망위로금",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 1077,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000121",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "304000000140",
    "title": "안전카시트 대여",
    "category": "행정·안전",
@@ -46420,6 +46854,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "631000000120",
+   "title": "취약계층 아동청소년 구강주치의",
+   "category": "보건·의료",
+   "region": "울산",
+   "views": 1068,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/631000000120",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "348000000382",
    "title": "달성군 향토생활관 입사생 선발",
    "category": "생활안정",
@@ -46562,6 +47009,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "401000000122",
+   "title": "시흥시 사망 참전유공자 배우자 수당",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 1065,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000122",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "350000000109",
@@ -53390,6 +53850,20 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "O00007100021",
+   "title": "문화시설 이용요금 감면(은계1어울림센터 시흥아이꿈터)",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 963,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00007100021",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "348000000369",
    "title": "아기사랑 유모차 대여 서비스",
    "category": "보육·교육",
@@ -53688,6 +54162,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "537000000124",
+   "title": "단독주택 도시가스 공급배관 설치 지원",
+   "category": "행정·안전",
+   "region": "경남",
+   "views": 959,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/537000000124",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "454000000131",
@@ -57207,6 +57694,20 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "O00007100020",
+   "title": "체육시설 이용요금 감면(은계1어울림센터 수영장)",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 911,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00007100020",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "323000000115",
    "title": "(송파구)장애인활동지원 송파구 추가지원 사업",
    "category": "보호·돌봄",
@@ -60651,6 +61152,20 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "481000000119",
+   "title": "귀농인 정착금 지원",
+   "category": "주거·자립",
+   "region": "전국",
+   "views": 869,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/481000000119",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "300000000139",
@@ -68651,6 +69166,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "O00051300004",
+   "title": "지역상생 장학생",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 780,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00051300004",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "486000000130",
    "title": "신규농업인(귀농귀촌) 현장실습 교육",
    "category": "보육·교육",
@@ -69355,6 +69883,20 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "481000000109",
+   "title": "귀농인 농가주택 수리비 지원",
+   "category": "주거·자립",
+   "region": "전국",
+   "views": 774,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/481000000109",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "461000000125",
@@ -73680,6 +74222,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "540000000113",
+   "title": "장애인 의치보철 지원",
+   "category": "보건·의료",
+   "region": "경남",
+   "views": 734,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/540000000113",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "731000000004",
    "title": "사회통합전형대상자 교육경비 지원",
    "category": "보육·교육",
@@ -77525,6 +78080,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "O00051300006",
+   "title": "예체능 장학생",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 699,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00051300006",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "724000000011",
    "title": "건강장애학생 원격수업 지원",
    "category": "보육·교육",
@@ -80544,6 +81112,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "485000000135",
+   "title": "담양군 출생기본소득 지원",
+   "category": "임신·출산",
+   "region": "전국",
+   "views": 669,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/485000000135",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "O00032900001",
@@ -93026,6 +93607,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "401000000499",
+   "title": "동네관리소 공구 대여 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 407,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000499",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "O00074000008",
    "title": "대구시 달성군 중소기업 경영안정자금(이차보전) 지원",
    "category": "고용·창업",
@@ -93349,6 +93943,20 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "519000000151",
+   "title": "청도군 산후조리비지원",
+   "category": "임신·출산",
+   "region": "경북",
+   "views": 398,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/519000000151",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "303000000314",
@@ -95570,6 +96178,20 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "477100000002",
+   "title": "(순창군)장애인 평생교육이용권 지원",
+   "category": "생활안정",
+   "region": "전북",
+   "views": 320,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/477100000002",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "646000000218",
    "title": "전라남도 독립유공자 유족 보훈명예수당",
    "category": "생활안정",
@@ -96142,6 +96764,19 @@
    "type": "new",
    "changed": null,
    "queuedAt": "2026-08-22"
+  },
+  {
+   "id": "401000000484",
+   "title": "출생 미등록 아동 발굴 및 지원 사업",
+   "category": "보호·돌봄",
+   "region": "경기",
+   "views": 303,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000484",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "627000000735",
@@ -98117,6 +98752,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "631000000717",
+   "title": "한방 난임 치료비 지원",
+   "category": "임신·출산",
+   "region": "울산",
+   "views": 236,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/631000000717",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "641000000835",
    "title": "소부장 기업 육성 지원",
    "category": "고용·창업",
@@ -99339,6 +99987,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "401000000514",
+   "title": "시흥형 집수리 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 205,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000514",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "357000000124",
@@ -100725,6 +101386,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "401000000503",
+   "title": "자활참여자 건강검진 지원사업",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 178,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000503",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "475100000001",
    "title": "장수군 군민안전보험",
    "category": "행정·안전",
@@ -100762,6 +101436,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "401000000498",
+   "title": "동네관리소 간단 집수리 지원",
+   "category": "주거·자립",
+   "region": "경기",
+   "views": 177,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000498",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "305000000286",
@@ -101024,6 +101711,20 @@
    "queuedAt": "2026-08-07"
   },
   {
+   "id": "O00051300015",
+   "title": "시흥시인재양성재단 장학생 선발 안내",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 172,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00051300015",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "627000000749",
    "title": "24시간 AI돌보미",
    "category": "생활안정",
@@ -101178,6 +101879,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "401000000502",
+   "title": "1~3호 숨쉬는놀이터(대야동, 정왕동, 하중동) 운영 지원",
+   "category": "문화·환경",
+   "region": "경기",
+   "views": 170,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000502",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "183000000018",
@@ -101909,6 +102623,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "O00051300017",
+   "title": "기능인재 장학생",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 156,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00051300017",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "401000000512",
    "title": "시흥시 어르신 기본교통비 지원",
    "category": "생활안정",
@@ -102336,6 +103063,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "O00051300016",
+   "title": "추천 장학생",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 150,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00051300016",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "314000000264",
@@ -107117,6 +107857,17 @@
    "queuedAt": "2026-07-31"
   },
   {
+   "id": "304000000243",
+   "title": "(광진구)가족관계등록 상담의 날 운영",
+   "category": "행정·안전",
+   "region": "서울",
+   "views": 68,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/304000000243",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "507000000789",
    "title": "다자녀가정 상수도사용료 감면",
    "category": "생활안정",
@@ -107386,6 +108137,17 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "391000000554",
+   "title": "국가보훈대상자 명절위로금",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 23,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/391000000554",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "145000000107",
    "title": "저소득층 에너지효율개선(냉방지원)",
    "category": "주거·자립",
@@ -107522,6 +108284,17 @@
    "queuedAt": "2026-08-10"
   },
   {
+   "id": "304000000245",
+   "title": "(광진구) 공중선 정비 서비스",
+   "category": "행정·안전",
+   "region": "서울",
+   "views": 10,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/304000000245",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "135200005029",
    "title": "자활근로 참여확인서 발급",
    "category": "고용·창업",
@@ -107623,6 +108396,28 @@
    "queuedAt": "2026-08-10"
   },
   {
+   "id": "481000000358",
+   "title": "곡물 건조기용 집진기 지원",
+   "category": "농림축산어업",
+   "region": "전국",
+   "views": 6,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/481000000358",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-08-29"
+  },
+  {
+   "id": "582500000001",
+   "title": "장수축하물품지원",
+   "category": "보호·돌봄",
+   "region": "전국",
+   "views": 6,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/582500000001",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "321000000143",
    "title": "서초구 무료법률상담 지원",
    "category": "행정·안전",
@@ -107709,6 +108504,28 @@
    "type": "new",
    "changed": null,
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "304000000237",
+   "title": "부동산 개별공시지가 문자발송 서비스",
+   "category": "주거·자립",
+   "region": "서울",
+   "views": 4,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/304000000237",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-08-29"
+  },
+  {
+   "id": "578500000003",
+   "title": "여수시 법정민원 사전심사청구",
+   "category": "행정·안전",
+   "region": "전국",
+   "views": 4,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/578500000003",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "445000000255",
@@ -107856,6 +108673,28 @@
    "queuedAt": "2026-08-22"
   },
   {
+   "id": "304000000244",
+   "title": "(광진구) 사회적 약자를 위한 여권민원 원스톱 서비스",
+   "category": "행정·안전",
+   "region": "서울",
+   "views": 2,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/304000000244",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-08-29"
+  },
+  {
+   "id": "304000000246",
+   "title": "(광진구) 민원취약계층 정보공개신청서 작성 구술대필 서비스",
+   "category": "행정·안전",
+   "region": "서울",
+   "views": 2,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/304000000246",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-08-29"
+  },
+  {
    "id": "313000000168",
    "title": "2026년 마포구 구민안전보험",
    "category": "행정·안전",
@@ -107953,6 +108792,28 @@
    "type": "new",
    "changed": null,
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "578500000001",
+   "title": "여수시 민원 사전 상담 예약",
+   "category": "행정·안전",
+   "region": "전국",
+   "views": 1,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/578500000001",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-08-29"
+  },
+  {
+   "id": "582500000002",
+   "title": "아픈아이긴급병원동행서비스",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 1,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/582500000002",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-08-29"
   },
   {
    "id": "370000000132",
@@ -108175,6 +109036,6 @@
    "queuedAt": "2026-08-22"
   }
  ],
- "updated": "2026-08-25",
- "count": 8285
+ "updated": "2026-08-29",
+ "count": 8352
 }
