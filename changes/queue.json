@@ -2605,6 +2605,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "647000000176",
+   "title": "2026년 다자녀 가정 이사비 지원",
+   "category": "주거·자립",
+   "region": "경북",
+   "views": 14387,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/647000000176",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-31"
+  },
+  {
    "id": "627000000113",
    "title": "대구광역시 다자녀가정 고등학교 입학축하금 지원",
    "category": "임신·출산",
@@ -8015,6 +8028,19 @@
    "queuedAt": "2026-08-07"
   },
   {
+   "id": "482000000108",
+   "title": "출산장려금 지원",
+   "category": "임신·출산",
+   "region": "전국",
+   "views": 4487,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/482000000108",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-31"
+  },
+  {
    "id": "391000000152",
    "title": "청년 전월세보증금 대출이자 지원",
    "category": "생활안정",
@@ -10337,6 +10363,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "647000000108",
+   "title": "세자녀이상가족진료비지원(모자보건)",
+   "category": "임신·출산",
+   "region": "경북",
+   "views": 3511,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/647000000108",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-31"
   },
   {
    "id": "154300000331",
@@ -24621,6 +24660,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "401000000112",
+   "title": "대안교육기관 등 신입생 교복비 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 1767,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000112",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-31"
+  },
+  {
    "id": "383000000125",
    "title": "저소득주민 생활안정지원",
    "category": "생활안정",
@@ -25969,6 +26021,20 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "O00011400001",
+   "title": "하수도요금 감면",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 1688,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00011400001",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-08-31"
   },
   {
    "id": "148000000034",
@@ -40020,6 +40086,20 @@
    "queuedAt": "2026-08-07"
   },
   {
+   "id": "407000000106",
+   "title": "농기계 종합보험 및 농업인 안전재해보험 지원",
+   "category": "농림축산어업",
+   "region": "경기",
+   "views": 1208,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/407000000106",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-08-31"
+  },
+  {
    "id": "394000000105",
    "title": "폭염대비 등 면역증강제 지원",
    "category": "농림축산어업",
@@ -43938,6 +44018,20 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "481000000113",
+   "title": "난임 기초 검진비 지원",
+   "category": "임신·출산",
+   "region": "전국",
+   "views": 1121,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/481000000113",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-08-31"
+  },
+  {
    "id": "334000000301",
    "title": "사하구 구민안전보험",
    "category": "생활안정",
@@ -46252,6 +46346,17 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "349000000115",
+   "title": "인천e음 상생가맹점 지원",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 1078,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/349000000115",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-08-31"
   },
   {
    "id": "319000000122",
@@ -55433,6 +55538,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "519000000129",
+   "title": "농업용 중장비 면허취득 지원",
+   "category": "농림축산어업",
+   "region": "경북",
+   "views": 942,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/519000000129",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-31"
   },
   {
    "id": "398000000298",
@@ -68066,6 +68184,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-19"
+  },
+  {
+   "id": "431000000120",
+   "title": "화천군 에티오피아 장학사업 장학금 지원",
+   "category": "보육·교육",
+   "region": "강원",
+   "views": 792,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/431000000120",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-31"
   },
   {
    "id": "425000000644",
@@ -86849,6 +86980,17 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "O00072800005",
+   "title": "광주광역시 청년창업 특례보증 안내",
+   "category": "고용·창업",
+   "region": "전국",
+   "views": 594,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00072800005",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-08-31"
+  },
+  {
    "id": "442000000114",
    "title": "시설 재배농가 양액비료 지원",
    "category": "농림축산어업",
@@ -89859,6 +90001,19 @@
    "queuedAt": "2026-08-10"
   },
   {
+   "id": "647000000190",
+   "title": "20대 결혼 축하 혼수 비용 지원",
+   "category": "생활안정",
+   "region": "경북",
+   "views": 534,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/647000000190",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-31"
+  },
+  {
    "id": "338000000396",
    "title": "수영구민 안전보험",
    "category": "생활안정",
@@ -92716,6 +92871,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "419100000003",
+   "title": "(강원 원주시)장애인 평생교육이용권(바우처) 지원",
+   "category": "보육·교육",
+   "region": "강원",
+   "views": 441,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/419100000003",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-31"
+  },
+  {
    "id": "142100000071",
    "title": "녹색기업지원 특례보증",
    "category": "고용·창업",
@@ -93422,6 +93590,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-07"
+  },
+  {
+   "id": "360000000259",
+   "title": "소상공인 카드수수료 지원",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 414,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/360000000259",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-31"
   },
   {
    "id": "403000000158",
@@ -95092,6 +95273,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "360000000256",
+   "title": "소상공인 임차료 지원",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 358,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/360000000256",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-31"
   },
   {
    "id": "O00019800003",
@@ -102050,6 +102244,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "360000000257",
+   "title": "소상공인 희망길라잡이 운영",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 167,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/360000000257",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-31"
+  },
+  {
    "id": "315000000291",
    "title": "안심장비 지원",
    "category": "생활안정",
@@ -102167,6 +102374,32 @@
    "queuedAt": "2026-08-19"
   },
   {
+   "id": "542000000651",
+   "title": "고성군 전입축하금 등 지원(경남)",
+   "category": "생활안정",
+   "region": "경남",
+   "views": 165,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/542000000651",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-31"
+  },
+  {
+   "id": "O00388400007",
+   "title": "2026년 강원특별자치도 장애인 평생교육이용권(2차)",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 165,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00388400007",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-31"
+  },
+  {
    "id": "302000000126",
    "title": "임산부 및 배우자 백일해 예방접종 지원",
    "category": "보건·의료",
@@ -102217,6 +102450,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "360000000258",
+   "title": "소상공인 특례보증 대출이자 지원",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 164,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/360000000258",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-31"
   },
   {
    "id": "316000000149",
@@ -103078,6 +103324,19 @@
    "queuedAt": "2026-08-29"
   },
   {
+   "id": "O00408400005",
+   "title": "2026년 경상북도 장애인 평생교육이용권 2차",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 150,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00408400005",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-31"
+  },
+  {
    "id": "314000000264",
    "title": "장기요양기관 요양보호사 처우개선 수당 지원",
    "category": "보호·돌봄",
@@ -103912,6 +104171,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "542000000644",
+   "title": "고성군 대상포진 예방접종 지원",
+   "category": "보건·의료",
+   "region": "경남",
+   "views": 140,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/542000000644",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-31"
+  },
+  {
    "id": "315000000290",
    "title": "한의약 치매 건강증진서비스",
    "category": "보건·의료",
@@ -104353,6 +104625,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-10"
+  },
+  {
+   "id": "416000000267",
+   "title": "[가평군] 난임부부 시술비 약제비 지원(난임시술 이후 원외 약제비 청구)",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 133,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/416000000267",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-31"
   },
   {
    "id": "448000000661",
@@ -106369,6 +106654,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "647000000195",
+   "title": "다자녀 가정 농수산물 구입 지원",
+   "category": "생활안정",
+   "region": "경북",
+   "views": 105,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/647000000195",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-31"
+  },
+  {
    "id": "476100000029",
    "title": "젖소 착유우 생산성 향상제 지원",
    "category": "농림축산어업",
@@ -107113,6 +107411,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "525000000143",
+   "title": "울진군 초중고 입학축하금 지원",
+   "category": "보육·교육",
+   "region": "경북",
+   "views": 93,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/525000000143",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-31"
+  },
+  {
    "id": "351050000121",
    "title": "인천 미추홀구 청년 커뮤니티 활성화 지원",
    "category": "주거·자립",
@@ -107765,6 +108076,19 @@
    "queuedAt": "2026-08-07"
   },
   {
+   "id": "O00388400008",
+   "title": "2026년 강원특별자치도 장애인 평생교육이용권(3차)",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 79,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00388400008",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-31"
+  },
+  {
    "id": "510000000378",
    "title": "하수도요금 감면(수급자)",
    "category": "생활안정",
@@ -107816,6 +108140,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-07"
+  },
+  {
+   "id": "O00408400006",
+   "title": "2026년 경상북도 장애인 평생교육이용권 3차",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 71,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00408400006",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-08-31"
   },
   {
    "id": "507000000790",
@@ -108192,6 +108529,17 @@
     "수정일"
    ],
    "queuedAt": "2026-08-04"
+  },
+  {
+   "id": "522000000296",
+   "title": "칠곡군 가족 백일해 예방접종 지원사업",
+   "category": "보건·의료",
+   "region": "경북",
+   "views": 18,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/522000000296",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-08-31"
   },
   {
    "id": "544000000142",
@@ -109034,8 +109382,41 @@
    "type": "new",
    "changed": null,
    "queuedAt": "2026-08-22"
+  },
+  {
+   "id": "399000000398",
+   "title": "남양주시 청년 이사비 지원",
+   "category": "주거·자립",
+   "region": "경기",
+   "views": 0,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/399000000398",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-08-31"
+  },
+  {
+   "id": "522000000297",
+   "title": "칠곡군 헌혈자 인플루엔자 예방접종 지원사업",
+   "category": "생활안정",
+   "region": "경북",
+   "views": 0,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/522000000297",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-08-31"
+  },
+  {
+   "id": "O00049300010",
+   "title": "사회복지종사자 힐링 프로그램 「쓰담Day」",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 0,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00049300010",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-08-31"
   }
  ],
- "updated": "2026-08-29",
- "count": 8352
+ "updated": "2026-08-31",
+ "count": 8382
 }
