@@ -17963,6 +17963,17 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "365000000390",
+   "title": "임신부 및 배우자 백일해 접종비 지원",
+   "category": "보건·의료",
+   "region": "대전",
+   "views": 2298,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/365000000390",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-09-22"
+  },
+  {
    "id": "135200000089",
    "title": "마약류 중독자 치료보호 지원",
    "category": "보건·의료",
@@ -20424,6 +20435,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-19"
+  },
+  {
+   "id": "419100000013",
+   "title": "원주시 산후조리비 지원",
+   "category": "임신·출산",
+   "region": "강원",
+   "views": 2093,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/419100000013",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-09-22"
   },
   {
    "id": "648000001023",
@@ -24001,6 +24025,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-04"
+  },
+  {
+   "id": "359000000102",
+   "title": "동구 출산축하금",
+   "category": "임신·출산",
+   "region": "전국",
+   "views": 1847,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/359000000102",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-09-22"
   },
   {
    "id": "148000000035",
@@ -29305,6 +29342,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "B55139800007",
+   "title": "계측장비 SOS서비스",
+   "category": "행정·안전",
+   "region": "전국",
+   "views": 1597,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55139800007",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-09-22"
   },
   {
    "id": "627000000111",
@@ -35400,6 +35450,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "359000000108",
+   "title": "영유아 건강수당",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 1361,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/359000000108",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-09-22"
+  },
+  {
    "id": "319000000104",
    "title": "아동복지시설 보호아동지원",
    "category": "생활안정",
@@ -39980,6 +40043,19 @@
    "queuedAt": "2026-08-19"
   },
   {
+   "id": "359000000110",
+   "title": "동구인재육성장학회 장학금 지원",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 1237,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/359000000110",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-09-22"
+  },
+  {
    "id": "409000000114",
    "title": "북부지역 찾아가는 인지선별검사",
    "category": "보건·의료",
@@ -43114,6 +43190,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "359000000105",
+   "title": "위기청소년 특별지원",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 1169,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/359000000105",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-09-22"
+  },
+  {
    "id": "628000000768",
    "title": "아이모아카드",
    "category": "보호·돌봄",
@@ -44277,6 +44366,17 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "358000000107",
+   "title": "저소득 취약계층 의치보철임플란트 지원",
+   "category": "보건·의료",
+   "region": "인천",
+   "views": 1142,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000107",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-09-22"
   },
   {
    "id": "491000000122",
@@ -50005,6 +50105,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "359000000104",
+   "title": "청소년 방과후 아카데미 운영",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 1042,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/359000000104",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-09-22"
   },
   {
    "id": "569000000350",
@@ -74440,6 +74553,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "359000000106",
+   "title": "학교 밖 청소년지원(급식지원)",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 759,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/359000000106",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-09-22"
+  },
+  {
    "id": "427000000239",
    "title": "소상공인 경영환경 개선지원",
    "category": "고용·창업",
@@ -88567,6 +88693,17 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "479000000101",
+   "title": "GAP 인증 농가수수료 지원",
+   "category": "농림축산어업",
+   "region": "전북",
+   "views": 620,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/479000000101",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-09-22"
+  },
+  {
    "id": "O00025600006",
    "title": "울주군청소년상담복지센터 서비스 이용",
    "category": "보건·의료",
@@ -97027,6 +97164,20 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "358000000142",
+   "title": "인천광역시 옹진군 군민안전보험",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 425,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000142",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-09-22"
+  },
+  {
    "id": "311000000143",
    "title": "가정위탁아동 보호지원",
    "category": "보호·돌봄",
@@ -104244,6 +104395,19 @@
    "queuedAt": "2026-09-16"
   },
   {
+   "id": "359000000450",
+   "title": "무료 법률·세무 상담서비스",
+   "category": "행정·안전",
+   "region": "전국",
+   "views": 204,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/359000000450",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-09-22"
+  },
+  {
    "id": "O00045700023",
    "title": "정책 역량강화",
    "category": "보육·교육",
@@ -105871,6 +106035,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "O00007100023",
+   "title": "체육시설 이용요금 감면(장곡동생활체육시설)",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 176,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00007100023",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-09-22"
+  },
+  {
    "id": "330000000132",
    "title": "초등학교 입학생 입학축하금 지원",
    "category": "보육·교육",
@@ -106312,6 +106489,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "O00007100022",
+   "title": "체육시설 이용요금 감면(목감2어울림센터)",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 168,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00007100022",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-09-22"
   },
   {
    "id": "314000000259",
@@ -113415,6 +113605,17 @@
    "queuedAt": "2026-08-29"
   },
   {
+   "id": "358000000140",
+   "title": "인천광역시 옹진군 청년 자격증 응시료 지원",
+   "category": "보육·교육",
+   "region": "인천",
+   "views": 1,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000140",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-09-22"
+  },
+  {
    "id": "370000000132",
    "title": "층간소음 저감매트 지원사업",
    "category": "주거·자립",
@@ -113756,6 +113957,6 @@
    "queuedAt": "2026-09-10"
   }
  ],
- "updated": "2026-09-19",
- "count": 8713
+ "updated": "2026-09-22",
+ "count": 8729
 }
