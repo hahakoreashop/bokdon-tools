@@ -1,0 +1,370 @@
+{
+ "date": "2026-09-25",
+ "baseline": false,
+ "total": 10941,
+ "newCount": 10,
+ "modifiedCount": 24,
+ "removedCount": 2,
+ "new": [
+  {
+   "id": "401000000109",
+   "title": "신혼부부 전세대출금 이자 지원",
+   "category": "주거·자립",
+   "region": "경기",
+   "registered": "20210923",
+   "views": 4626,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000109"
+  },
+  {
+   "id": "B55365500002",
+   "title": "저소득층 치과치료비 지원",
+   "category": "보건·의료",
+   "region": "전국",
+   "registered": "20220715",
+   "views": 3069,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55365500002"
+  },
+  {
+   "id": "O00378400006",
+   "title": "2026년 부산광역시 장애인 평생교육이용권 지원(2차)",
+   "category": "보육·교육",
+   "region": "전국",
+   "registered": "20260602",
+   "views": 114,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00378400006"
+  },
+  {
+   "id": "358000000148",
+   "title": "보훈대상자 사망위로금 지급 신청",
+   "category": "생활안정",
+   "region": "인천",
+   "registered": "20250723",
+   "views": 10,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000148"
+  },
+  {
+   "id": "358000000152",
+   "title": "사회복지시설 종사자 주거비 지원",
+   "category": "고용·창업",
+   "region": "인천",
+   "registered": "20250724",
+   "views": 8,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000152"
+  },
+  {
+   "id": "358000000144",
+   "title": "저소득층 국민건강보험료 지원",
+   "category": "보건·의료",
+   "region": "인천",
+   "registered": "20250723",
+   "views": 7,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000144"
+  },
+  {
+   "id": "358000000149",
+   "title": "참전유공자 명예수당 신청",
+   "category": "생활안정",
+   "region": "인천",
+   "registered": "20250723",
+   "views": 7,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000149"
+  },
+  {
+   "id": "358000000150",
+   "title": "참전유공자 배우자 수당 신청",
+   "category": "생활안정",
+   "region": "인천",
+   "registered": "20250723",
+   "views": 6,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000150"
+  },
+  {
+   "id": "358000000151",
+   "title": "참전유공자 사망위로금 지급 신청",
+   "category": "생활안정",
+   "region": "인천",
+   "registered": "20250723",
+   "views": 6,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000151"
+  },
+  {
+   "id": "358000000147",
+   "title": "보훈예우수당 신청",
+   "category": "생활안정",
+   "region": "인천",
+   "registered": "20250723",
+   "views": 5,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000147"
+  }
+ ],
+ "modified": [
+  {
+   "id": "174100000034",
+   "title": "온라인 신청 시연 테스트(운영)",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 1228,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/174100000034"
+  },
+  {
+   "id": "311000000231",
+   "title": "찾아가는 「감정평가사 상담제」 운영",
+   "category": "주거·자립",
+   "region": "서울",
+   "views": 560,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/311000000231"
+  },
+  {
+   "id": "313000000155",
+   "title": "(마포구)청년 면접정장 대여사업",
+   "category": "생활안정",
+   "region": "서울",
+   "views": 426,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/313000000155"
+  },
+  {
+   "id": "352000000116",
+   "title": "국가보훈대상자 수당 및 사망위로금 지원",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 626,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/352000000116"
+  },
+  {
+   "id": "352000000122",
+   "title": "참전유공자수당 및 사망위로금 지원",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 345,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/352000000122"
+  },
+  {
+   "id": "358000000106",
+   "title": "저소득층 특별 지원",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 2068,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000106"
+  },
+  {
+   "id": "358000000114",
+   "title": "저소득주민자녀 장학생 선발",
+   "category": "보육·교육",
+   "region": "인천",
+   "views": 895,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000114"
+  },
+  {
+   "id": "358000000140",
+   "title": "인천광역시 옹진군 청년 자격증 응시료 지원",
+   "category": "보육·교육",
+   "region": "인천",
+   "views": 12,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000140"
+  },
+  {
+   "id": "401000000112",
+   "title": "대안교육기관 등 신입생 교복비 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 1858,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000112"
+  },
+  {
+   "id": "401000000113",
+   "title": "출생축하금 지원",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 5209,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000113"
+  },
+  {
+   "id": "401000000114",
+   "title": "농기계 구입비 지원",
+   "category": "농림축산어업",
+   "region": "경기",
+   "views": 1829,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000114"
+  },
+  {
+   "id": "401000000489",
+   "title": "시흥시 산후조리비 지원",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 489,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000489"
+  },
+  {
+   "id": "401000000496",
+   "title": "소규모 점포 경영개선 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 917,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000496"
+  },
+  {
+   "id": "401000000497",
+   "title": "시흥맞춤 명품점포 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 438,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000497"
+  },
+  {
+   "id": "401000000500",
+   "title": "시흥시 소상공인 특례보증 및 이차보전 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 536,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000500"
+  },
+  {
+   "id": "453000000175",
+   "title": "서산시 둘째이후 영유아 양육비 지원",
+   "category": "보육·교육",
+   "region": "충남",
+   "views": 1383,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/453000000175"
+  },
+  {
+   "id": "457000000103",
+   "title": "부여군 전입세대 지원",
+   "category": "행정·안전",
+   "region": "충남",
+   "views": 1752,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/457000000103"
+  },
+  {
+   "id": "457000000104",
+   "title": "부여군 출산·육아지원금",
+   "category": "임신·출산",
+   "region": "충남",
+   "views": 2838,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/457000000104"
+  },
+  {
+   "id": "457000000105",
+   "title": "다태아 출산축하금 지원",
+   "category": "임신·출산",
+   "region": "충남",
+   "views": 1196,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/457000000105"
+  },
+  {
+   "id": "457000000140",
+   "title": "부여군 전입학생 생활용품구입비 지원",
+   "category": "생활안정",
+   "region": "충남",
+   "views": 1107,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/457000000140"
+  },
+  {
+   "id": "457000000147",
+   "title": "결혼정착지원금 지원",
+   "category": "생활안정",
+   "region": "충남",
+   "views": 2971,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/457000000147"
+  },
+  {
+   "id": "457000000157",
+   "title": "부여군 청년셰어하우스 운영",
+   "category": "주거·자립",
+   "region": "충남",
+   "views": 489,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/457000000157"
+  },
+  {
+   "id": "627000000120",
+   "title": "대구형 산모 건강관리사 지원",
+   "category": "임신·출산",
+   "region": "대구",
+   "views": 38785,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/627000000120"
+  },
+  {
+   "id": "650000001086",
+   "title": "제주 청년 이사비 지원",
+   "category": "주거·자립",
+   "region": "제주",
+   "views": 18816,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/650000001086"
+  }
+ ]
+}

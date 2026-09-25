@@ -7097,6 +7097,19 @@
    "queuedAt": "2026-08-04"
   },
   {
+   "id": "401000000113",
+   "title": "출생축하금 지원",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 5209,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000113",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-09-25"
+  },
+  {
    "id": "650000000263",
    "title": "해피아이 육아지원금 지원",
    "category": "보육·교육",
@@ -12736,6 +12749,17 @@
     "수정일"
    ],
    "queuedAt": "2026-08-04"
+  },
+  {
+   "id": "B55365500002",
+   "title": "저소득층 치과치료비 지원",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 3069,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55365500002",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-09-25"
   },
   {
    "id": "B41000200020",
@@ -20840,6 +20864,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "358000000106",
+   "title": "저소득층 특별 지원",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 2068,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000106",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-09-25"
   },
   {
    "id": "445000000250",
@@ -61408,6 +61445,19 @@
    "queuedAt": "2026-09-07"
   },
   {
+   "id": "358000000114",
+   "title": "저소득주민자녀 장학생 선발",
+   "category": "보육·교육",
+   "region": "인천",
+   "views": 895,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000114",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-09-25"
+  },
+  {
    "id": "307000000160",
    "title": "성북건강관리센터 운영",
    "category": "생활안정",
@@ -95280,6 +95330,19 @@
    "queuedAt": "2026-08-19"
   },
   {
+   "id": "401000000489",
+   "title": "시흥시 산후조리비 지원",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 489,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000489",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-09-25"
+  },
+  {
    "id": "301000000141",
    "title": "서울특별시 중구 구민 생활안전보험",
    "category": "행정·안전",
@@ -113018,6 +113081,17 @@
    "queuedAt": "2026-08-29"
   },
   {
+   "id": "358000000148",
+   "title": "보훈대상자 사망위로금 지급 신청",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 10,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000148",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-09-25"
+  },
+  {
    "id": "135200005029",
    "title": "자활근로 참여확인서 발급",
    "category": "고용·창업",
@@ -113084,6 +113158,17 @@
    "queuedAt": "2026-09-13"
   },
   {
+   "id": "358000000152",
+   "title": "사회복지시설 종사자 주거비 지원",
+   "category": "고용·창업",
+   "region": "인천",
+   "views": 8,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000152",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-09-25"
+  },
+  {
    "id": "386000000145",
    "title": "부천시 초등학생 입학준비금 지원",
    "category": "보육·교육",
@@ -113117,6 +113202,28 @@
    "type": "new",
    "changed": null,
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "358000000144",
+   "title": "저소득층 국민건강보험료 지원",
+   "category": "보건·의료",
+   "region": "인천",
+   "views": 7,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000144",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-09-25"
+  },
+  {
+   "id": "358000000149",
+   "title": "참전유공자 명예수당 신청",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 7,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000149",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-09-25"
   },
   {
    "id": "406000000526",
@@ -113172,6 +113279,28 @@
    "type": "new",
    "changed": null,
    "queuedAt": "2026-09-13"
+  },
+  {
+   "id": "358000000150",
+   "title": "참전유공자 배우자 수당 신청",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 6,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000150",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-09-25"
+  },
+  {
+   "id": "358000000151",
+   "title": "참전유공자 사망위로금 지급 신청",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 6,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000151",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-09-25"
   },
   {
    "id": "321000000143",
@@ -113271,6 +113400,17 @@
    "type": "new",
    "changed": null,
    "queuedAt": "2026-09-19"
+  },
+  {
+   "id": "358000000147",
+   "title": "보훈예우수당 신청",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 5,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000147",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-09-25"
   },
   {
    "id": "316000000163",
@@ -113957,6 +114097,6 @@
    "queuedAt": "2026-09-10"
   }
  ],
- "updated": "2026-09-22",
- "count": 8729
+ "updated": "2026-09-25",
+ "count": 8741
 }
