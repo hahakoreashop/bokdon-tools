@@ -851,6 +851,20 @@
    "queuedAt": "2026-08-01"
   },
   {
+   "id": "WII000001340",
+   "title": "장애인 자립자금 대여",
+   "category": "주거·자립",
+   "region": "전국",
+   "views": 55467,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001340",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-09-28"
+  },
+  {
    "id": "149200000147",
    "title": "구직자 취업역량강화 프로그램",
    "category": "고용·창업",
@@ -114097,6 +114111,6 @@
    "queuedAt": "2026-09-10"
   }
  ],
- "updated": "2026-09-25",
- "count": 8741
+ "updated": "2026-09-28",
+ "count": 8742
 }

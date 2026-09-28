@@ -1,0 +1,224 @@
+{
+ "date": "2026-09-28",
+ "baseline": false,
+ "total": 10941,
+ "newCount": 0,
+ "modifiedCount": 19,
+ "removedCount": 0,
+ "new": [],
+ "modified": [
+  {
+   "id": "311000000146",
+   "title": "은평구 무료법률상담서비스 제공",
+   "category": "생활안정",
+   "region": "서울",
+   "views": 3847,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/311000000146"
+  },
+  {
+   "id": "312000000315",
+   "title": "서대문구 아빠 육아휴직장려금",
+   "category": "보육·교육",
+   "region": "서울",
+   "views": 3302,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/312000000315"
+  },
+  {
+   "id": "324000000110",
+   "title": "명절맞이 위문물품 지원(양로시설)",
+   "category": "보호·돌봄",
+   "region": "서울",
+   "views": 1284,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/324000000110"
+  },
+  {
+   "id": "358000000144",
+   "title": "저소득층 국민건강보험료 지원",
+   "category": "보건·의료",
+   "region": "인천",
+   "views": 12,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000144"
+  },
+  {
+   "id": "358000000147",
+   "title": "보훈예우수당 신청",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 8,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000147"
+  },
+  {
+   "id": "358000000148",
+   "title": "보훈대상자 사망위로금 지급 신청",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 15,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000148"
+  },
+  {
+   "id": "358000000149",
+   "title": "참전유공자 명예수당 신청",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 10,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000149"
+  },
+  {
+   "id": "358000000150",
+   "title": "참전유공자 배우자 수당 신청",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 7,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000150"
+  },
+  {
+   "id": "358000000151",
+   "title": "참전유공자 사망위로금 지급 신청",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 9,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000151"
+  },
+  {
+   "id": "358000000152",
+   "title": "사회복지시설 종사자 주거비 지원",
+   "category": "고용·창업",
+   "region": "인천",
+   "views": 12,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000152"
+  },
+  {
+   "id": "399000000396",
+   "title": "북한이탈주민 정착지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 74,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/399000000396"
+  },
+  {
+   "id": "513000000353",
+   "title": "보훈예우수당 지원",
+   "category": "생활안정",
+   "region": "경북",
+   "views": 891,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/513000000353"
+  },
+  {
+   "id": "559000000431",
+   "title": "양주시 산후조리비 지원",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 1859,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/559000000431"
+  },
+  {
+   "id": "627000000717",
+   "title": "대구형 난임부부 시술비 지원",
+   "category": "임신·출산",
+   "region": "대구",
+   "views": 23996,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/627000000717"
+  },
+  {
+   "id": "753000000229",
+   "title": "고교 무상교육 지원",
+   "category": "보육·교육",
+   "region": "경기",
+   "views": 2684,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/753000000229"
+  },
+  {
+   "id": "B55371400002",
+   "title": "녹색장학사업",
+   "category": "농림축산어업",
+   "region": "전국",
+   "views": 2219,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55371400002"
+  },
+  {
+   "id": "GKE000000070",
+   "title": "고효율조명기기 무상교체 지원 (취약계층 에너지복지사업)",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 128074,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/GKE000000070"
+  },
+  {
+   "id": "O00043900003",
+   "title": "2026년 경기도 장애인 평생교육이용권 지원(추가모집)",
+   "category": "보육·교육",
+   "region": "경기",
+   "views": 15410,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00043900003"
+  },
+  {
+   "id": "WII000001340",
+   "title": "장애인 자립자금 대여",
+   "category": "주거·자립",
+   "region": "전국",
+   "views": 55467,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/WII000001340"
+  }
+ ]
+}
