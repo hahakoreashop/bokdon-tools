@@ -2280,6 +2280,17 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "490000000279",
+   "title": "(재)화순장학회 장학금(다자녀)",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 18449,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/490000000279",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-01"
+  },
+  {
    "id": "352000000102",
    "title": "지역화폐(연수e음)",
    "category": "행정·안전",
@@ -6574,6 +6585,17 @@
     "수정일"
    ],
    "queuedAt": "2026-08-07"
+  },
+  {
+   "id": "O00100100001",
+   "title": "(재)화순장학회 장학금",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 5630,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00100100001",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-01"
   },
   {
    "id": "B55271100009",
@@ -93315,6 +93337,17 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "452000000327",
+   "title": "아산시 관내 기업 기숙사 임차지원",
+   "category": "고용·창업",
+   "region": "충남",
+   "views": 547,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/452000000327",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-01"
+  },
+  {
    "id": "142100000050",
    "title": "혁신 소상공인 투자연계지원",
    "category": "고용·창업",
@@ -95786,6 +95819,20 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "481000000368",
+   "title": "청년부부 결혼축하금 지원",
+   "category": "주거·자립",
+   "region": "전국",
+   "views": 478,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/481000000368",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-10-01"
   },
   {
    "id": "454000000103",
@@ -113016,6 +113063,28 @@
    "queuedAt": "2026-08-07"
   },
   {
+   "id": "179038700014",
+   "title": "잠복결핵감염 검진 확인서 발급",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 14,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/179038700014",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-01"
+  },
+  {
+   "id": "179038700015",
+   "title": "잠복결핵감염 검진 결과서 발급",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 14,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/179038700015",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-01"
+  },
+  {
    "id": "650000001116",
    "title": "청년농업인 영농정착지원",
    "category": "농림축산어업",
@@ -113025,6 +113094,17 @@
    "type": "new",
    "changed": null,
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "179038700010",
+   "title": "희귀질환자 의료비 지원사업 지원대상자 증명서발급",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 12,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/179038700010",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-01"
   },
   {
    "id": "445000000256",
@@ -113060,6 +113140,17 @@
    "type": "new",
    "changed": null,
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "409000000160",
+   "title": "김포시 백일해 예방접종 지원",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 11,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/409000000160",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-01"
   },
   {
    "id": "524000000193",
@@ -114111,6 +114202,6 @@
    "queuedAt": "2026-09-10"
   }
  ],
- "updated": "2026-09-28",
- "count": 8742
+ "updated": "2026-10-01",
+ "count": 8750
 }

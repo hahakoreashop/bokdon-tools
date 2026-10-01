@@ -1,0 +1,340 @@
+{
+ "date": "2026-10-01",
+ "baseline": false,
+ "total": 10949,
+ "newCount": 12,
+ "modifiedCount": 19,
+ "removedCount": 4,
+ "new": [
+  {
+   "id": "490000000279",
+   "title": "(재)화순장학회 장학금(다자녀)",
+   "category": "보육·교육",
+   "region": "전국",
+   "registered": "20240924",
+   "views": 18449,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/490000000279"
+  },
+  {
+   "id": "O00100100001",
+   "title": "(재)화순장학회 장학금",
+   "category": "보육·교육",
+   "region": "전국",
+   "registered": "20220715",
+   "views": 5630,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00100100001"
+  },
+  {
+   "id": "313000000127",
+   "title": "(마포구)청년 취업준비 비용 지원사업",
+   "category": "고용·창업",
+   "region": "서울",
+   "registered": "20241220",
+   "views": 1169,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/313000000127"
+  },
+  {
+   "id": "401000000485",
+   "title": "시흥시 구직 청년 면접정장 대여사업「면접 흥하시흥」 운영",
+   "category": "고용·창업",
+   "region": "경기",
+   "registered": "20241220",
+   "views": 623,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000485"
+  },
+  {
+   "id": "452000000327",
+   "title": "아산시 관내 기업 기숙사 임차지원",
+   "category": "고용·창업",
+   "region": "충남",
+   "registered": "20251211",
+   "views": 547,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/452000000327"
+  },
+  {
+   "id": "O00378400005",
+   "title": "2026년 부산광역시 장애인 평생교육이용권 지원",
+   "category": "보육·교육",
+   "region": "전국",
+   "registered": "20260203",
+   "views": 268,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00378400005"
+  },
+  {
+   "id": "522000000297",
+   "title": "칠곡군 헌혈자 인플루엔자 예방접종 지원사업",
+   "category": "생활안정",
+   "region": "경북",
+   "registered": "20260813",
+   "views": 49,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/522000000297"
+  },
+  {
+   "id": "641000000874",
+   "title": "플랫폼노동자 산재보험료 지원",
+   "category": "행정·안전",
+   "region": "경기",
+   "registered": "20260716",
+   "views": 25,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/641000000874"
+  },
+  {
+   "id": "179038700014",
+   "title": "잠복결핵감염 검진 확인서 발급",
+   "category": "보건·의료",
+   "region": "전국",
+   "registered": "20260923",
+   "views": 14,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/179038700014"
+  },
+  {
+   "id": "179038700015",
+   "title": "잠복결핵감염 검진 결과서 발급",
+   "category": "보건·의료",
+   "region": "전국",
+   "registered": "20260923",
+   "views": 14,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/179038700015"
+  },
+  {
+   "id": "179038700010",
+   "title": "희귀질환자 의료비 지원사업 지원대상자 증명서발급",
+   "category": "보건·의료",
+   "region": "전국",
+   "registered": "20260819",
+   "views": 12,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/179038700010"
+  },
+  {
+   "id": "409000000160",
+   "title": "김포시 백일해 예방접종 지원",
+   "category": "보건·의료",
+   "region": "경기",
+   "registered": "20260803",
+   "views": 11,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/409000000160"
+  }
+ ],
+ "modified": [
+  {
+   "id": "383000000145",
+   "title": "노인 개안수술 지원",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 1840,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/383000000145"
+  },
+  {
+   "id": "401000000507",
+   "title": "시흥시 관내 대학생 지원금",
+   "category": "보육·교육",
+   "region": "경기",
+   "views": 151,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/401000000507"
+  },
+  {
+   "id": "420100000007",
+   "title": "2026년 강릉시 초·중·고 입학준비금 지원",
+   "category": "보육·교육",
+   "region": "강원",
+   "views": 733,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/420100000007"
+  },
+  {
+   "id": "445000000255",
+   "title": "진천군 어린이집 입학준비금 지원",
+   "category": "보육·교육",
+   "region": "충북",
+   "views": 72,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/445000000255"
+  },
+  {
+   "id": "447000000143",
+   "title": "음성군 입학축하금 지원",
+   "category": "보육·교육",
+   "region": "충북",
+   "views": 3870,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/447000000143"
+  },
+  {
+   "id": "452000000353",
+   "title": "아산시 대체인력 근로자 인센티브 지원사업",
+   "category": "고용·창업",
+   "region": "충남",
+   "views": 147,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/452000000353"
+  },
+  {
+   "id": "457000000147",
+   "title": "결혼정착지원금 지원",
+   "category": "생활안정",
+   "region": "충남",
+   "views": 2999,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/457000000147"
+  },
+  {
+   "id": "481000000368",
+   "title": "청년부부 결혼축하금 지원",
+   "category": "주거·자립",
+   "region": "전국",
+   "views": 478,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/481000000368"
+  },
+  {
+   "id": "484000000387",
+   "title": "산모·신생아 건강관리 본인부담금 환급 신청",
+   "category": "임신·출산",
+   "region": "전국",
+   "views": 822,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/484000000387"
+  },
+  {
+   "id": "490000000275",
+   "title": "화순군 결혼장려금 지원",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 389,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/490000000275"
+  },
+  {
+   "id": "490000000282",
+   "title": "화순군 전입장려금 및 전입세대 이사비용 지원사업",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 1686,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/490000000282"
+  },
+  {
+   "id": "513000000353",
+   "title": "경산시 보훈예우수당 지원",
+   "category": "생활안정",
+   "region": "경북",
+   "views": 899,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/513000000353"
+  },
+  {
+   "id": "522000000295",
+   "title": "칠곡군 다자녀 가구 인플루엔자 예방접종 지원",
+   "category": "보건·의료",
+   "region": "경북",
+   "views": 109,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/522000000295"
+  },
+  {
+   "id": "537000001436",
+   "title": "거제시 청년 스펙-UP 지원",
+   "category": "고용·창업",
+   "region": "경남",
+   "views": 9168,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/537000001436"
+  },
+  {
+   "id": "569000000393",
+   "title": "청년월세 지원사업 변경신청(세종시 거주)",
+   "category": "주거·자립",
+   "region": "세종",
+   "views": 6806,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/569000000393"
+  },
+  {
+   "id": "650000001089",
+   "title": "제주 플랫폼 배달 및 이동노동자 산재보험료 지원",
+   "category": "행정·안전",
+   "region": "제주",
+   "views": 3714,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/650000001089"
+  },
+  {
+   "id": "O00043900003",
+   "title": "2026년 경기도 장애인 평생교육이용권 지원(추가모집)",
+   "category": "보육·교육",
+   "region": "경기",
+   "views": 15428,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00043900003"
+  },
+  {
+   "id": "O00059700008",
+   "title": "2026년 경상남도 장애인 평생교육이용권 지원(우수이용자)",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 89,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00059700008"
+  },
+  {
+   "id": "O00093700014",
+   "title": "2026년 전남광주통합특별시(구 전남) 장애인 평생교육이용권 우수이용자 신청 접수 공고",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 42,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00093700014"
+  }
+ ]
+}
