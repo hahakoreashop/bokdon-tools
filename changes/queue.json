@@ -112947,6 +112947,17 @@
    "queuedAt": "2026-08-04"
   },
   {
+   "id": "643000000766",
+   "title": "2026년 충북 장애인 평생교육이용권 우수 이용자 신청 접수",
+   "category": "보육·교육",
+   "region": "충북",
+   "views": 29,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/643000000766",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-04"
+  },
+  {
    "id": "370000000127",
    "title": "생활민원 전문가 무료상담실 안내",
    "category": "생활안정",
@@ -114202,6 +114213,6 @@
    "queuedAt": "2026-09-10"
   }
  ],
- "updated": "2026-10-01",
- "count": 8750
+ "updated": "2026-10-04",
+ "count": 8751
 }

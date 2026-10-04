@@ -1,0 +1,142 @@
+{
+ "date": "2026-10-04",
+ "baseline": false,
+ "total": 10950,
+ "newCount": 3,
+ "modifiedCount": 9,
+ "removedCount": 2,
+ "new": [
+  {
+   "id": "627000000113",
+   "title": "대구광역시 다자녀가정 고등학교 입학축하금 지원",
+   "category": "임신·출산",
+   "region": "대구",
+   "registered": "20210923",
+   "views": 14519,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/627000000113"
+  },
+  {
+   "id": "408000000560",
+   "title": "다함께돌봄센터 냉난방비 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "registered": "20231207",
+   "views": 106,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/408000000560"
+  },
+  {
+   "id": "643000000766",
+   "title": "2026년 충북 장애인 평생교육이용권 우수 이용자 신청 접수",
+   "category": "보육·교육",
+   "region": "충북",
+   "registered": "20261002",
+   "views": 29,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/643000000766"
+  }
+ ],
+ "modified": [
+  {
+   "id": "174100000034",
+   "title": "온라인 신청 시연 테스트(운영)",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 1362,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/174100000034"
+  },
+  {
+   "id": "320000000299",
+   "title": "관악구 깡충깡충 성장양육지원금",
+   "category": "임신·출산",
+   "region": "서울",
+   "views": 25740,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/320000000299"
+  },
+  {
+   "id": "449000000144",
+   "title": "참전유공자 명예(복지)수당",
+   "category": "생활안정",
+   "region": "충남",
+   "views": 558,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/449000000144"
+  },
+  {
+   "id": "513000000353",
+   "title": "경산시 보훈예우수당 지원",
+   "category": "생활안정",
+   "region": "경북",
+   "views": 912,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/513000000353"
+  },
+  {
+   "id": "647000000156",
+   "title": "경상북도 산모신생아 건강관리 서비스 본인부담금 지원(사후청구)",
+   "category": "생활안정",
+   "region": "경북",
+   "views": 12630,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/647000000156"
+  },
+  {
+   "id": "647000000171",
+   "title": "경상북도 난임부부 시술비 확대 지원",
+   "category": "보건·의료",
+   "region": "경북",
+   "views": 11754,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/647000000171"
+  },
+  {
+   "id": "647000000188",
+   "title": "경상북도 남성 난임시술 지원",
+   "category": "보건·의료",
+   "region": "경북",
+   "views": 497,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/647000000188"
+  },
+  {
+   "id": "650000001086",
+   "title": "제주 청년 이사비 지원",
+   "category": "주거·자립",
+   "region": "제주",
+   "views": 19047,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/650000001086"
+  },
+  {
+   "id": "O00059700008",
+   "title": "2026년 경상남도 장애인 평생교육이용권 지원(우수이용자)",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 93,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00059700008"
+  }
+ ]
+}
