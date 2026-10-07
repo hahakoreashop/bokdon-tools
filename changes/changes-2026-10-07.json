@@ -1,0 +1,252 @@
+{
+ "date": "2026-10-07",
+ "baseline": false,
+ "total": 10950,
+ "newCount": 2,
+ "modifiedCount": 20,
+ "removedCount": 2,
+ "new": [
+  {
+   "id": "569000000412",
+   "title": "청년월세 지원사업 중지신청(세종시 거주)",
+   "category": "주거·자립",
+   "region": "세종",
+   "registered": "20260901",
+   "views": 3,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/569000000412"
+  },
+  {
+   "id": "O00148800003",
+   "title": "2026년 대구광역시장애인 평생교육이용권 2차 신청",
+   "category": "보육·교육",
+   "region": "대구",
+   "registered": "20260923",
+   "views": 0,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00148800003"
+  }
+ ],
+ "modified": [
+  {
+   "id": "313000000127",
+   "title": "(마포구)청년 취업준비 비용 지원사업",
+   "category": "고용·창업",
+   "region": "서울",
+   "views": 1213,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/313000000127"
+  },
+  {
+   "id": "315000000106",
+   "title": "강서구 국가보훈대상 보훈예우수당 지급",
+   "category": "생활안정",
+   "region": "서울",
+   "views": 1341,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/315000000106"
+  },
+  {
+   "id": "365000000390",
+   "title": "임신부 및 배우자 백일해 접종비 지원",
+   "category": "보건·의료",
+   "region": "대전",
+   "views": 2452,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/365000000390"
+  },
+  {
+   "id": "374000000121",
+   "title": "수원시 효사랑 지원금 지원",
+   "category": "보호·돌봄",
+   "region": "경기",
+   "views": 2269,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/374000000121"
+  },
+  {
+   "id": "374000000146",
+   "title": "수원시 효도수당",
+   "category": "보호·돌봄",
+   "region": "경기",
+   "views": 4098,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/374000000146"
+  },
+  {
+   "id": "400000000128",
+   "title": "35세 이상 고위험 임산부 기형아 검사비 지원",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 416,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/400000000128"
+  },
+  {
+   "id": "408000000539",
+   "title": "장애인가정 출산지원금 지원",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 1460,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/408000000539"
+  },
+  {
+   "id": "409000000105",
+   "title": "출산축하금 지원 (둘째자녀부터 적용)",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 3681,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/409000000105"
+  },
+  {
+   "id": "409000000160",
+   "title": "김포시 백일해 예방접종 지원",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 50,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/409000000160"
+  },
+  {
+   "id": "498000000115",
+   "title": "양돈농가 사양관리개선제 지원",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 817,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/498000000115"
+  },
+  {
+   "id": "498000000128",
+   "title": "꿀벌 기자재 지원",
+   "category": "농림축산어업",
+   "region": "전국",
+   "views": 805,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/498000000128"
+  },
+  {
+   "id": "498000000472",
+   "title": "청년 전세보증금반환보증 보증료 지원",
+   "category": "주거·자립",
+   "region": "전국",
+   "views": 5865,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/498000000472"
+  },
+  {
+   "id": "500000000128",
+   "title": "2026년 진도군 하반기 지역 인재육성 장학금 지급(학업성적 우수자)",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 1547,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/500000000128"
+  },
+  {
+   "id": "626000000622",
+   "title": "부산형 산후조리비 지원",
+   "category": "임신·출산",
+   "region": "부산",
+   "views": 23197,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/626000000622"
+  },
+  {
+   "id": "627000000115",
+   "title": "도시가스 수요가시설분담금 지원",
+   "category": "행정·안전",
+   "region": "대구",
+   "views": 3483,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/627000000115"
+  },
+  {
+   "id": "647000000171",
+   "title": "경상북도 난임부부 시술비 확대 지원",
+   "category": "보건·의료",
+   "region": "경북",
+   "views": 11784,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/647000000171"
+  },
+  {
+   "id": "647000000188",
+   "title": "경상북도 남성 난임시술 지원",
+   "category": "보건·의료",
+   "region": "경북",
+   "views": 509,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/647000000188"
+  },
+  {
+   "id": "647000000193",
+   "title": "경상북도 산모신생아 건강관리 서비스 본인부담금 사전 신청",
+   "category": "보건·의료",
+   "region": "경북",
+   "views": 587,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/647000000193"
+  },
+  {
+   "id": "743000000022",
+   "title": "특수교육대상자 통학비 지원(대전동부)",
+   "category": "보육·교육",
+   "region": "대전",
+   "views": 692,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/743000000022"
+  },
+  {
+   "id": "743000000023",
+   "title": "특수교육대상자 방과후교육활동비 지원(대전동부)",
+   "category": "보육·교육",
+   "region": "대전",
+   "views": 1120,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/743000000023"
+  }
+ ]
+}

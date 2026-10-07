@@ -10943,6 +10943,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "627000000115",
+   "title": "도시가스 수요가시설분담금 지원",
+   "category": "행정·안전",
+   "region": "대구",
+   "views": 3483,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/627000000115",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-07"
+  },
+  {
    "id": "409000000110",
    "title": "노인 보청기 지원",
    "category": "보건·의료",
@@ -97529,6 +97542,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "400000000128",
+   "title": "35세 이상 고위험 임산부 기형아 검사비 지원",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 416,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/400000000128",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-07"
+  },
+  {
    "id": "476000000171",
    "title": "양돈농가 분뇨처리비 지원",
    "category": "농림축산어업",
@@ -113608,6 +113634,17 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "569000000412",
+   "title": "청년월세 지원사업 중지신청(세종시 거주)",
+   "category": "주거·자립",
+   "region": "세종",
+   "views": 3,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/569000000412",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-07"
+  },
+  {
    "id": "478100000017",
    "title": "농촌유학 유학경비 지원",
    "category": "보육·교육",
@@ -114211,8 +114248,19 @@
    "type": "new",
    "changed": null,
    "queuedAt": "2026-09-10"
+  },
+  {
+   "id": "O00148800003",
+   "title": "2026년 대구광역시장애인 평생교육이용권 2차 신청",
+   "category": "보육·교육",
+   "region": "대구",
+   "views": 0,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00148800003",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-07"
   }
  ],
- "updated": "2026-10-04",
- "count": 8751
+ "updated": "2026-10-07",
+ "count": 8755
 }
