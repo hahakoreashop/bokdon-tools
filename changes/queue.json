@@ -52715,6 +52715,20 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "343000000122",
+   "title": "참전유공자 사망위로금 지원",
+   "category": "생활안정",
+   "region": "대구",
+   "views": 1006,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/343000000122",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-10-10"
+  },
+  {
    "id": "355000000123",
    "title": "[계양구]산모신생아 건강관리서비스 본인부담금 지원",
    "category": "임신·출산",
@@ -113054,6 +113068,17 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "644000000863",
+   "title": "2026년 충청남도 청년 주택임차보증금 이자 지원(신규 신청자 대상)",
+   "category": "주거·자립",
+   "region": "충남",
+   "views": 20,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/644000000863",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-10"
+  },
+  {
    "id": "313000000158",
    "title": "마포구 평생교육이용권 지원",
    "category": "보육·교육",
@@ -114261,6 +114286,6 @@
    "queuedAt": "2026-10-07"
   }
  ],
- "updated": "2026-10-07",
- "count": 8755
+ "updated": "2026-10-10",
+ "count": 8757
 }
