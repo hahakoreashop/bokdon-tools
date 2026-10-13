@@ -6143,6 +6143,19 @@
    "queuedAt": "2026-08-07"
   },
   {
+   "id": "400000000125",
+   "title": "오산시 초등학교 입학축하금 지원",
+   "category": "보육·교육",
+   "region": "경기",
+   "views": 6151,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/400000000125",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-13"
+  },
+  {
    "id": "308000000113",
    "title": "저소득구민 명절위문금 지원",
    "category": "보호·돌봄",
@@ -35432,6 +35445,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "514000000122",
+   "title": "출산양육비 지원",
+   "category": "보육·교육",
+   "region": "대구",
+   "views": 1366,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/514000000122",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-13"
+  },
+  {
    "id": "569000000362",
    "title": "여성장애인 출산지원금 지급",
    "category": "임신·출산",
@@ -42943,6 +42969,19 @@
    "queuedAt": "2026-09-16"
   },
   {
+   "id": "358000000125",
+   "title": "중소기업 및 소상공인 특례보증 대상 이차보전",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 1176,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000125",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-13"
+  },
+  {
    "id": "348000000410",
    "title": "부모와 함께하는 체성분 검사",
    "category": "보건·의료",
@@ -49744,6 +49783,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-19"
+  },
+  {
+   "id": "358000000105",
+   "title": "효행수당",
+   "category": "보호·돌봄",
+   "region": "인천",
+   "views": 1047,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000105",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-13"
   },
   {
    "id": "476000000109",
@@ -65702,6 +65754,19 @@
     "수정일"
    ],
    "queuedAt": "2026-09-16"
+  },
+  {
+   "id": "435000000129",
+   "title": "임산부 영양제 지원",
+   "category": "임신·출산",
+   "region": "강원",
+   "views": 847,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/435000000129",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-13"
   },
   {
    "id": "646000000195",
@@ -97107,6 +97172,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "358000000104",
+   "title": "실버보행기 지원운영 지원",
+   "category": "보건·의료",
+   "region": "인천",
+   "views": 434,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/358000000104",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-13"
+  },
+  {
    "id": "448000000654",
    "title": "단양군 군민안전보험",
    "category": "행정·안전",
@@ -113470,6 +113548,17 @@
    "queuedAt": "2026-09-25"
   },
   {
+   "id": "O00059700009",
+   "title": "2026년 경상남도 장애인 평생교육이용권 지원(우수이용자 2차)",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 6,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00059700009",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-13"
+  },
+  {
    "id": "321000000143",
    "title": "서초구 무료법률상담 지원",
    "category": "행정·안전",
@@ -114284,8 +114373,19 @@
    "type": "new",
    "changed": null,
    "queuedAt": "2026-10-07"
+  },
+  {
+   "id": "O00408400007",
+   "title": "2026년 경상북도 장애인 평생교육이용권 우수이용자",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 0,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00408400007",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-13"
   }
  ],
- "updated": "2026-10-10",
- "count": 8757
+ "updated": "2026-10-13",
+ "count": 8765
 }
