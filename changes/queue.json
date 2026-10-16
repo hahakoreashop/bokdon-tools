@@ -638,6 +638,17 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "628000000176",
+   "title": "인천 전세보증금반환보증 보증료 지원",
+   "category": "주거·자립",
+   "region": "인천",
+   "views": 70777,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/628000000176",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-16"
+  },
+  {
    "id": "B55121000003",
    "title": "사회적 배려대상자 도시가스요금 경감",
    "category": "생활안정",
@@ -8659,6 +8670,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "424100000003",
+   "title": "삼척시 미취업 청년 자격증 응시료 지원사업",
+   "category": "고용·창업",
+   "region": "강원",
+   "views": 4328,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/424100000003",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-16"
+  },
+  {
    "id": "119200000001",
    "title": "친환경 에너지절감장비 보급",
    "category": "농림축산어업",
@@ -11882,6 +11906,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "642000000680",
+   "title": "가축 재해보험 지원",
+   "category": "농림축산어업",
+   "region": "강원",
+   "views": 3272,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/642000000680",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-16"
   },
   {
    "id": "323000000117",
@@ -25122,6 +25159,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "B55271900001",
+   "title": "세븐럭 카지노 사업장 현장 견학",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 1790,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/B55271900001",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-16"
   },
   {
    "id": "355000000108",
@@ -69273,6 +69323,17 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "O00049700021",
+   "title": "전통시장 안전환경 조성 지원",
+   "category": "행정·안전",
+   "region": "전국",
+   "views": 809,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/O00049700021",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-16"
+  },
+  {
    "id": "474000000126",
    "title": "무사마귀병 약제 지원",
    "category": "농림축산어업",
@@ -83963,6 +84024,19 @@
     "수정일"
    ],
    "queuedAt": "2026-09-04"
+  },
+  {
+   "id": "513000000355",
+   "title": "유가족 명예수당 지원",
+   "category": "생활안정",
+   "region": "경북",
+   "views": 679,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/513000000355",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-16"
   },
   {
    "id": "433000000125",
@@ -113359,6 +113433,17 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "386000000147",
+   "title": "부천시 취약계층 아동치과주치의사업",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 9,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/386000000147",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-16"
+  },
+  {
    "id": "537000001450",
    "title": "거제시 중장년 재취업 자격증 응시료 지원사업",
    "category": "보육·교육",
@@ -113412,6 +113497,17 @@
    "type": "new",
    "changed": null,
    "queuedAt": "2026-09-25"
+  },
+  {
+   "id": "386000000149",
+   "title": "부모채무 대물림 방지 법률지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 8,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/386000000149",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-16"
   },
   {
    "id": "386000000145",
@@ -113667,6 +113763,17 @@
    "type": "new",
    "changed": null,
    "queuedAt": "2026-09-25"
+  },
+  {
+   "id": "647000000196",
+   "title": "다자녀 가정 큰 집 마련 이자 지원",
+   "category": "주거·자립",
+   "region": "경북",
+   "views": 5,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/647000000196",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-16"
   },
   {
    "id": "316000000163",
@@ -114386,6 +114493,6 @@
    "queuedAt": "2026-10-13"
   }
  ],
- "updated": "2026-10-13",
- "count": 8765
+ "updated": "2026-10-16",
+ "count": 8774
 }
