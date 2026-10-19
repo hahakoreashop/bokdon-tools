@@ -532,6 +532,19 @@
    "queuedAt": "2026-08-07"
   },
   {
+   "id": "628000000744",
+   "title": "맘편한 산후조리비 지원",
+   "category": "임신·출산",
+   "region": "인천",
+   "views": 85379,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/628000000744",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-19"
+  },
+  {
    "id": "337000000013",
    "title": "의료급여 (의료급여 건강생활 유지비)",
    "category": "보건·의료",
@@ -5097,6 +5110,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "753000000227",
+   "title": "중·고등학교 신입생 교복 지원",
+   "category": "보육·교육",
+   "region": "경기",
+   "views": 7446,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/753000000227",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-19"
+  },
+  {
    "id": "409000000104",
    "title": "임신축하금 지원",
    "category": "임신·출산",
@@ -7051,6 +7077,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "535000000188",
+   "title": "(경남 김해시)산모·신생아 건강관리 본인부담금 지원",
+   "category": "임신·출산",
+   "region": "경남",
+   "views": 5301,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/535000000188",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-19"
   },
   {
    "id": "627000000126",
@@ -19892,6 +19931,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "753000000225",
+   "title": "저소득층 자녀 교육정보화 지원",
+   "category": "보육·교육",
+   "region": "경기",
+   "views": 2148,
+   "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/753000000225",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-19"
   },
   {
    "id": "500000000134",
@@ -114493,6 +114545,6 @@
    "queuedAt": "2026-10-13"
   }
  ],
- "updated": "2026-10-16",
- "count": 8774
+ "updated": "2026-10-19",
+ "count": 8778
 }
