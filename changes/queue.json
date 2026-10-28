@@ -915,6 +915,19 @@
    "queuedAt": "2026-09-28"
   },
   {
+   "id": "WII000001320",
+   "title": "국가보훈대상자 취업지원",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 52863,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=730957&bnefType=all&svcId=WII000001320",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "149200000147",
    "title": "구직자 취업역량강화 프로그램",
    "category": "고용·창업",
@@ -1069,6 +1082,19 @@
     "수정일"
    ],
    "queuedAt": "2026-07-31"
+  },
+  {
+   "id": "116010000001",
+   "title": "주택금융공사 월세자금보증",
+   "category": "주거·자립",
+   "region": "전국",
+   "views": 44838,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=754881&bnefType=all&svcId=116010000001",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "B41000200041",
@@ -2901,6 +2927,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "B55288100003",
+   "title": "학부모온누리",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 13818,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2002089&bnefType=all&svcId=B55288100003",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "453000000196",
    "title": "지역사랑상품권(서산사랑상품권)",
    "category": "생활안정",
@@ -4699,6 +4738,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "B55273500003",
+   "title": "재도전성공패키지",
+   "category": "고용·창업",
+   "region": "전국",
+   "views": 8148,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2002185&bnefType=all&svcId=B55273500003",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "GPV000000070",
    "title": "제대군인 교육지원",
    "category": "생활안정",
@@ -4762,6 +4814,20 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "386000000122",
+   "title": "지역화폐(부천페이)",
+   "category": "행정·안전",
+   "region": "경기",
+   "views": 8019,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1003868&bnefType=all&svcId=386000000122",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "B41000200008",
@@ -5186,6 +5252,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "402000000123",
+   "title": "군포시 초등학교 입학축하금 지원",
+   "category": "보육·교육",
+   "region": "경기",
+   "views": 7384,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2110602&bnefType=all&svcId=402000000123",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "SD0000002951",
@@ -6088,6 +6167,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "SD0000003173",
+   "title": "주택금융공사 주택담보 노후연금 보증 지원",
+   "category": "주거·자립",
+   "region": "전국",
+   "views": 6270,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=999081&bnefType=all&svcId=SD0000003173",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "304000000172",
    "title": "갑상선 기능 검사 서비스",
    "category": "보건·의료",
@@ -6112,6 +6204,19 @@
     "수정일"
    ],
    "queuedAt": "2026-07-31"
+  },
+  {
+   "id": "B55353000223",
+   "title": "지역냉방 보조금 지원",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 6224,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2001235&bnefType=all&svcId=B55353000223",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "B55370100008",
@@ -6685,6 +6790,19 @@
    "type": "new",
    "changed": null,
    "queuedAt": "2026-10-01"
+  },
+  {
+   "id": "452000000306",
+   "title": "아산시 아빠 육아휴직장려금 지원",
+   "category": "보호·돌봄",
+   "region": "충남",
+   "views": 5617,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2114605&bnefType=all&svcId=452000000306",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "B55271100009",
@@ -9205,6 +9323,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "O00082800001",
+   "title": "소상공인 신용보증 지원",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 4114,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2000325&bnefType=all&svcId=O00082800001",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "154300000383",
    "title": "조사료생산 기계장비 구입 지원",
    "category": "농림축산어업",
@@ -10210,6 +10341,19 @@
    "queuedAt": "2026-08-07"
   },
   {
+   "id": "B55285400001",
+   "title": "극장 용 기획공연 관람료 할인",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 3739,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2001006&bnefType=all&svcId=B55285400001",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "310000000109",
    "title": "장애인 명절위문금 지원",
    "category": "보호·돌봄",
@@ -10376,6 +10520,19 @@
     "수정일"
    ],
    "queuedAt": "2026-07-28"
+  },
+  {
+   "id": "402000000119",
+   "title": "출생축하금 지원",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 3678,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=806314&bnefType=all&svcId=402000000119",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "559000000122",
@@ -11085,6 +11242,19 @@
    "queuedAt": "2026-08-19"
   },
   {
+   "id": "569000000383",
+   "title": "세종특별자치시 다자녀 가정 입학지원금 지원",
+   "category": "임신·출산",
+   "region": "세종",
+   "views": 3489,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2120405&bnefType=all&svcId=569000000383",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "154300000407",
    "title": "외식업체 육성자금(융자)",
    "category": "문화·환경",
@@ -11135,6 +11305,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "402000000117",
+   "title": "지역화폐(군포시)",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 3477,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1006632&bnefType=all&svcId=402000000117",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "SD0000009104",
@@ -12472,6 +12655,19 @@
    "queuedAt": "2026-08-07"
   },
   {
+   "id": "419000000120",
+   "title": "산후 건강관리 지원",
+   "category": "임신·출산",
+   "region": "강원",
+   "views": 3162,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001898&bnefType=all&svcId=419000000120",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "390000000107",
    "title": "광명시 초ㆍ중ㆍ고등학생 입학 축하금 지원",
    "category": "보육·교육",
@@ -13740,6 +13936,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "423000000481",
+   "title": "속초시 출산장려금 및 출산축하물품 지원",
+   "category": "임신·출산",
+   "region": "강원",
+   "views": 2923,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1003852&bnefType=all&svcId=423000000481",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "O00026200007",
    "title": "기존주택 임대주택 지원(전세)",
    "category": "주거·자립",
@@ -13830,6 +14039,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-29"
+  },
+  {
+   "id": "452000000108",
+   "title": "아산시 출생축하금 지원",
+   "category": "임신·출산",
+   "region": "충남",
+   "views": 2913,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000634&bnefType=all&svcId=452000000108",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "B46001400001",
@@ -15006,6 +15228,19 @@
    "queuedAt": "2026-08-10"
   },
   {
+   "id": "537000000192",
+   "title": "임신부 교통비 등 지원사업",
+   "category": "생활안정",
+   "region": "경남",
+   "views": 2720,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=806028&bnefType=all&svcId=537000000192",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "O00033300020",
    "title": "국민여가캠핑장 이용요금 감면",
    "category": "문화·환경",
@@ -16105,6 +16340,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "135200000087",
+   "title": "아동복지시설 아동 맞춤형 서비스 지원",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 2584,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=584606&bnefType=all&svcId=135200000087",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "316000000102",
@@ -17261,6 +17509,19 @@
     "수정일"
    ],
    "queuedAt": "2026-09-13"
+  },
+  {
+   "id": "452000000162",
+   "title": "신혼부부 주택자금 대출이자 지원",
+   "category": "주거·자립",
+   "region": "충남",
+   "views": 2418,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1005046&bnefType=all&svcId=452000000162",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "611000000164",
@@ -20246,6 +20507,19 @@
    "queuedAt": "2026-08-07"
   },
   {
+   "id": "402000000104",
+   "title": "모자건강지원",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 2136,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001396&bnefType=all&svcId=402000000104",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "B55201400001",
    "title": "다문화가정 청소년 직업교육훈련(다솜고등학교)",
    "category": "보육·교육",
@@ -20466,6 +20740,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-01"
+  },
+  {
+   "id": "814000000006",
+   "title": "다자녀학생 수학여행비 지원",
+   "category": "보육·교육",
+   "region": "충남",
+   "views": 2119,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2000833&bnefType=all&svcId=814000000006",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "119200000153",
@@ -22402,6 +22689,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "537000000104",
+   "title": "산후조리비 지원",
+   "category": "임신·출산",
+   "region": "경남",
+   "views": 1979,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000839&bnefType=all&svcId=537000000104",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "O00022300006",
    "title": "오동골프클럽 사용료 감면",
    "category": "문화·환경",
@@ -22768,6 +23068,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "426000000112",
+   "title": "출산장려금 및 산후관리비 지원",
+   "category": "임신·출산",
+   "region": "강원",
+   "views": 1952,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1002170&bnefType=all&svcId=426000000112",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "536000000107",
    "title": "밀양형 청년내일채움공제",
    "category": "고용·창업",
@@ -22898,6 +23211,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "402000000110",
+   "title": "어린이집 생애 최초 입학준비금 지원",
+   "category": "보육·교육",
+   "region": "경기",
+   "views": 1941,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1004880&bnefType=all&svcId=402000000110",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "B55265700001",
    "title": "참전용사 진료비 감면",
    "category": "보건·의료",
@@ -22989,6 +23315,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "402000000114",
+   "title": "보훈 명예수당(보훈 생계지원수당)및 사망위로금 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 1937,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1005658&bnefType=all&svcId=402000000114",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "348000000404",
@@ -23704,6 +24043,20 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "135200005048",
+   "title": "위기임신 및 보호출산 지원",
+   "category": "임신·출산",
+   "region": "전국",
+   "views": 1897,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2156121&bnefType=all&svcId=135200005048",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "422000000118",
@@ -25397,6 +25750,19 @@
    "queuedAt": "2026-10-16"
   },
   {
+   "id": "B55273500013",
+   "title": "초기창업패키지",
+   "category": "고용·창업",
+   "region": "전국",
+   "views": 1789,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2150417&bnefType=all&svcId=B55273500013",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "355000000108",
    "title": "출산입양 장려금 지원",
    "category": "임신·출산",
@@ -26788,6 +27154,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "402000000122",
+   "title": "저소득층 교육바우처 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 1712,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=810367&bnefType=all&svcId=402000000122",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "346000000109",
    "title": "복지시설 및 수급자 종량제봉투 지원",
    "category": "행정·안전",
@@ -27322,6 +27701,19 @@
     "수정일"
    ],
    "queuedAt": "2026-07-31"
+  },
+  {
+   "id": "402000000111",
+   "title": "외국인자녀 보육료 추가 지원",
+   "category": "보육·교육",
+   "region": "경기",
+   "views": 1683,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1005251&bnefType=all&svcId=402000000111",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "154300000377",
@@ -28748,6 +29140,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "537000000126",
+   "title": "태아 기형아검사비 지원",
+   "category": "임신·출산",
+   "region": "경남",
+   "views": 1635,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1005821&bnefType=all&svcId=537000000126",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "142000000062",
    "title": "맞춤형 기술파트너 지원",
    "category": "고용·창업",
@@ -28917,6 +29322,20 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "B55273500016",
+   "title": "팁스",
+   "category": "고용·창업",
+   "region": "전국",
+   "views": 1627,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2150421&bnefType=all&svcId=B55273500016",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "490000000127",
@@ -29808,6 +30227,19 @@
    "queuedAt": "2026-07-31"
   },
   {
+   "id": "402000000105",
+   "title": "저소득 취약계층 국민건강보험료 지원",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 1596,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001397&bnefType=all&svcId=402000000105",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "650000000257",
    "title": "국가유공자 상수도사용료 감면",
    "category": "생활안정",
@@ -30015,6 +30447,19 @@
     "수정일"
    ],
    "queuedAt": "2026-09-04"
+  },
+  {
+   "id": "814000000010",
+   "title": "다자녀학생 수련활동비 지원",
+   "category": "보육·교육",
+   "region": "충남",
+   "views": 1589,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2001575&bnefType=all&svcId=814000000010",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "510000000108",
@@ -30987,6 +31432,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "402000000109",
+   "title": "장애인 생활안정 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 1548,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1004863&bnefType=all&svcId=402000000109",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "498000000126",
    "title": "지역화폐(장성사랑상품권)",
    "category": "행정·안전",
@@ -31182,6 +31640,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "B55273500010",
+   "title": "메이커 활성화 지원",
+   "category": "고용·창업",
+   "region": "전국",
+   "views": 1538,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2002229&bnefType=all&svcId=B55273500010",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "386000000135",
@@ -31639,6 +32110,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-04"
+  },
+  {
+   "id": "402000000107",
+   "title": "저소득 한부모가정 건강검진 지원",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 1515,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1003865&bnefType=all&svcId=402000000107",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "154300000076",
@@ -32318,6 +32802,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "386000000115",
+   "title": "저소득 장애인 휠체어 수리 지원",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 1487,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001266&bnefType=all&svcId=386000000115",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "142100000026",
    "title": "글로벌 강소기업 1,000+ 프로젝트",
    "category": "고용·창업",
@@ -32486,6 +32983,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "417000000124",
+   "title": "로컬푸드 직매장 및 농가 생산 및 가공 지원",
+   "category": "농림축산어업",
+   "region": "경기",
+   "views": 1478,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1004669&bnefType=all&svcId=417000000124",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "569000000346",
@@ -32814,6 +33324,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "545000000115",
+   "title": "산청사랑상품권 발행지원",
+   "category": "행정·안전",
+   "region": "경남",
+   "views": 1466,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1004638&bnefType=all&svcId=545000000115",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "O00019100006",
@@ -33572,6 +34095,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "402000000103",
+   "title": "장애인 자립생활 정착금 지원",
+   "category": "주거·자립",
+   "region": "경기",
+   "views": 1437,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001216&bnefType=all&svcId=402000000103",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "O00029000001",
@@ -34555,6 +35091,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "B55273500006",
+   "title": "온라인 법인설립 지원",
+   "category": "고용·창업",
+   "region": "전국",
+   "views": 1412,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2002221&bnefType=all&svcId=B55273500006",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "630000000104",
    "title": "중증장애인 자립생활지원",
    "category": "주거·자립",
@@ -34566,6 +35115,32 @@
     "수정일"
    ],
    "queuedAt": "2026-08-10"
+  },
+  {
+   "id": "832000000009",
+   "title": "초중고 교육정보화 지원",
+   "category": "보육·교육",
+   "region": "전북",
+   "views": 1411,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2002136&bnefType=all&svcId=832000000009",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
+   "id": "B55273500009",
+   "title": "글로벌기업 협업을 통한 창업기업 지원",
+   "category": "고용·창업",
+   "region": "전국",
+   "views": 1411,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2002224&bnefType=all&svcId=B55273500009",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "311000000133",
@@ -35808,6 +36383,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "B55151000068",
+   "title": "나눔티켓",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 1367,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2155417&bnefType=all&svcId=B55151000068",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "O00019400014",
@@ -37342,6 +37930,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "O00035300001",
+   "title": "각종시설 이용요금 감면",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 1323,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2000647&bnefType=all&svcId=O00035300001",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "304000000118",
    "title": "저소득 국민건강보험료 및 장기요양보험료 지원",
    "category": "생활안정",
@@ -37984,6 +38585,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "402000000102",
+   "title": "축산농가지원",
+   "category": "농림축산어업",
+   "region": "경기",
+   "views": 1302,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000022&bnefType=all&svcId=402000000102",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "338000000117",
@@ -38910,6 +39524,19 @@
    "queuedAt": "2026-09-10"
   },
   {
+   "id": "B55151000066",
+   "title": "통합문화이용권(문화누리카드) 서비스",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 1276,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2150117&bnefType=all&svcId=B55151000066",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "338000000408",
    "title": "출생아 기본증명서 및 출산축하문 우편송부 서비스 제공",
    "category": "행정·안전",
@@ -39339,6 +39966,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-25"
+  },
+  {
+   "id": "B01000300008",
+   "title": "저신용기업 담보부사채 발행지원",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 1267,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2001135&bnefType=all&svcId=B01000300008",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "B55252900205",
@@ -40609,6 +41249,19 @@
    "queuedAt": "2026-08-19"
   },
   {
+   "id": "402000000127",
+   "title": "군포시 시민안전보험",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 1238,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2128490&bnefType=all&svcId=402000000127",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "443000000103",
    "title": "장수수당",
    "category": "보호·돌봄",
@@ -41470,6 +42123,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "537000000208",
+   "title": "어린이집 생애최초 입학축하금 지원",
+   "category": "보호·돌봄",
+   "region": "경남",
+   "views": 1217,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=806162&bnefType=all&svcId=537000000208",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "627000000140",
    "title": "농기계구입비지원",
    "category": "생활안정",
@@ -41651,6 +42317,19 @@
     "수정일"
    ],
    "queuedAt": "2026-07-28"
+  },
+  {
+   "id": "B55396800002",
+   "title": "수산공익직접지불제도 교육",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 1213,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2002239&bnefType=all&svcId=B55396800002",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "315000000106",
@@ -42832,6 +43511,19 @@
    "queuedAt": "2026-09-10"
   },
   {
+   "id": "426000000120",
+   "title": "고혈압·당뇨 등록관리 지원",
+   "category": "보건·의료",
+   "region": "강원",
+   "views": 1191,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1003501&bnefType=all&svcId=426000000120",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "321000000120",
    "title": "서초구 정신건강 의료비 지원",
    "category": "보건·의료",
@@ -43514,6 +44206,20 @@
    "queuedAt": "2026-10-22"
   },
   {
+   "id": "537000000210",
+   "title": "어린이집 이용 아동 급간식비 지원",
+   "category": "보육·교육",
+   "region": "경남",
+   "views": 1176,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=806168&bnefType=all&svcId=537000000210",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "348000000410",
    "title": "부모와 함께하는 체성분 검사",
    "category": "보건·의료",
@@ -44068,6 +44774,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "452000000142",
+   "title": "부산물 비료(퇴비) 구입지원",
+   "category": "농림축산어업",
+   "region": "충남",
+   "views": 1165,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1003486&bnefType=all&svcId=452000000142",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "569000000371",
    "title": "노란우산공제 희망장려금 지원",
    "category": "고용·창업",
@@ -44222,6 +44941,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "360000000103",
+   "title": "장애인가정출산 지원",
+   "category": "임신·출산",
+   "region": "전국",
+   "views": 1161,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001566&bnefType=all&svcId=360000000103",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "355000000118",
@@ -44419,6 +45151,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "B01000300011",
+   "title": "동산담보물 직접매입(S&LB) 프로그램",
+   "category": "고용·창업",
+   "region": "전국",
+   "views": 1156,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2105750&bnefType=all&svcId=B01000300011",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "331000000127",
@@ -44644,6 +45389,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "470000000106",
+   "title": "결혼이민자 구강 예방진료 지원",
+   "category": "보건·의료",
+   "region": "전북",
+   "views": 1150,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000267&bnefType=all&svcId=470000000106",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "O00045400025",
    "title": "경기도 의사상자 의료비 감면",
    "category": "보건·의료",
@@ -44786,6 +45544,32 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "423000000487",
+   "title": "국가보훈대상자 수당",
+   "category": "생활안정",
+   "region": "강원",
+   "views": 1147,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1005983&bnefType=all&svcId=423000000487",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
+   "id": "545000000104",
+   "title": "가정위탁양육 지원",
+   "category": "보육·교육",
+   "region": "경남",
+   "views": 1147,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000801&bnefType=all&svcId=545000000104",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "484000000149",
@@ -45883,6 +46667,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-07"
+  },
+  {
+   "id": "426000000110",
+   "title": "선택 예방접종 비용 지원",
+   "category": "보건·의료",
+   "region": "강원",
+   "views": 1126,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1002144&bnefType=all&svcId=426000000110",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "324000000319",
@@ -47346,6 +48143,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "360000000111",
+   "title": "발달장애인 재가방문서비스",
+   "category": "보호·돌봄",
+   "region": "전국",
+   "views": 1101,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1004145&bnefType=all&svcId=360000000111",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "338000000121",
    "title": "저소득세대 국민건강보험료 지원",
    "category": "보건·의료",
@@ -47699,6 +48509,20 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "315000000107",
+   "title": "장애인 이동보조기기 수리비 지원",
+   "category": "보건·의료",
+   "region": "서울",
+   "views": 1094,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001762&bnefType=all&svcId=315000000107",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "445000000122",
    "title": "국가예방접종 지원",
    "category": "보건·의료",
@@ -47974,6 +48798,19 @@
    "queuedAt": "2026-09-07"
   },
   {
+   "id": "832000000004",
+   "title": "찾아가는 한국어교육",
+   "category": "보육·교육",
+   "region": "전북",
+   "views": 1089,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2001737&bnefType=all&svcId=832000000004",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "B55284500009",
    "title": "농식품 수출업체 현지화 지원",
    "category": "농림축산어업",
@@ -48196,6 +49033,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "348000000387",
+   "title": "농약안전 사용장비 지원사업",
+   "category": "생활안정",
+   "region": "대구",
+   "views": 1084,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=809815&bnefType=all&svcId=348000000387",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "142100000051",
    "title": "우리동네 크라우드펀딩",
    "category": "고용·창업",
@@ -48274,6 +49124,19 @@
     "수정일"
    ],
    "queuedAt": "2026-09-01"
+  },
+  {
+   "id": "814000000004",
+   "title": "저소득층 수련활동비 지원",
+   "category": "보육·교육",
+   "region": "충남",
+   "views": 1083,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2000831&bnefType=all&svcId=814000000004",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "449000000508",
@@ -51951,6 +52814,19 @@
    "queuedAt": "2026-10-22"
   },
   {
+   "id": "814000000005",
+   "title": "저소득층 수학여행비 지원",
+   "category": "보육·교육",
+   "region": "충남",
+   "views": 1030,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2000832&bnefType=all&svcId=814000000005",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "627000000150",
    "title": "맞춤형 채소류 토양비료 지원",
    "category": "농림축산어업",
@@ -52250,6 +53126,32 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "537000000127",
+   "title": "임산부 영양제(철분제 외 2종) 지원",
+   "category": "임신·출산",
+   "region": "경남",
+   "views": 1026,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1006026&bnefType=all&svcId=537000000127",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
+   "id": "832000000003",
+   "title": "중고 신입생 교복비 지원",
+   "category": "보육·교육",
+   "region": "전북",
+   "views": 1026,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2001736&bnefType=all&svcId=832000000003",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "448000000116",
@@ -53046,6 +53948,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "O00117300001",
+   "title": "기획 공연 관람료 감면",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 1012,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2002219&bnefType=all&svcId=O00117300001",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "469000000110",
@@ -54225,6 +55140,19 @@
    "queuedAt": "2026-09-01"
   },
   {
+   "id": "348000000338",
+   "title": "힘겨루기 소 육성 지원",
+   "category": "농림축산어업",
+   "region": "대구",
+   "views": 997,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000191&bnefType=all&svcId=348000000338",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "452000000172",
    "title": "저소득층 국민건강보험료 지원",
    "category": "보건·의료",
@@ -54524,6 +55452,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-19"
+  },
+  {
+   "id": "183000000004",
+   "title": "국가보훈대상자 취업능력개발비용(취업수강료) 지원",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 994,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2147822&bnefType=all&svcId=183000000004",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "901000000003",
@@ -55295,6 +56236,20 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "513000000110",
+   "title": "보육아동 급간식비 지원",
+   "category": "보육·교육",
+   "region": "경북",
+   "views": 982,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1004117&bnefType=all&svcId=513000000110",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "452000000124",
@@ -56611,6 +57566,19 @@
    "queuedAt": "2026-09-07"
   },
   {
+   "id": "B55273500014",
+   "title": "창업도약패키지",
+   "category": "고용·창업",
+   "region": "전국",
+   "views": 964,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2150419&bnefType=all&svcId=B55273500014",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "461000000142",
    "title": "GAP 및 친환경인증농가 직거래 택배비 지원",
    "category": "생활안정",
@@ -57133,6 +58101,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-19"
+  },
+  {
+   "id": "832000000006",
+   "title": "초중고 현장체험학습비 지원",
+   "category": "보육·교육",
+   "region": "전북",
+   "views": 958,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2001740&bnefType=all&svcId=832000000006",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "489000000118",
@@ -58225,6 +59206,19 @@
    "queuedAt": "2026-10-25"
   },
   {
+   "id": "537000000175",
+   "title": "응급분만 이송비용 지원",
+   "category": "생활안정",
+   "region": "경남",
+   "views": 944,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=806125&bnefType=all&svcId=537000000175",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "350000000104",
    "title": "자활지원",
    "category": "고용·창업",
@@ -58406,6 +59400,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "814000000003",
+   "title": "고등학교 저소득층 학생 급식비 지원",
+   "category": "보육·교육",
+   "region": "충남",
+   "views": 941,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2000767&bnefType=all&svcId=814000000003",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "648000001076",
@@ -58993,6 +60000,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "452000000155",
+   "title": "친환경 시설채소 농가 농업자재 지원",
+   "category": "생활안정",
+   "region": "충남",
+   "views": 934,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1004349&bnefType=all&svcId=452000000155",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "731000000006",
@@ -60299,6 +61319,19 @@
     "수정일"
    ],
    "queuedAt": "2026-09-16"
+  },
+  {
+   "id": "423000000482",
+   "title": "신장장애인 혈액 및 복막투석비 지원",
+   "category": "보건·의료",
+   "region": "강원",
+   "views": 918,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1004707&bnefType=all&svcId=423000000482",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "464000000120",
@@ -62455,6 +63488,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-10"
+  },
+  {
+   "id": "426000000123",
+   "title": "노인 의치보철 지원",
+   "category": "보건·의료",
+   "region": "강원",
+   "views": 893,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1003882&bnefType=all&svcId=426000000123",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "O00027100013",
@@ -64770,6 +65816,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "426000000109",
+   "title": "보훈대상자 지원",
+   "category": "생활안정",
+   "region": "강원",
+   "views": 866,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1002143&bnefType=all&svcId=426000000109",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "507000000760",
    "title": "임산부 및 영유아 영양제 지원",
    "category": "임신·출산",
@@ -65464,6 +66523,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "545000000101",
+   "title": "여성결혼이민자 기능취득비 지원",
+   "category": "고용·창업",
+   "region": "경남",
+   "views": 859,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000301&bnefType=all&svcId=545000000101",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "454000000144",
    "title": "참전유공자 지원수당",
    "category": "생활안정",
@@ -65776,6 +66848,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "832000000002",
+   "title": "자해잔여흔 치료비 지원",
+   "category": "보건·의료",
+   "region": "전북",
+   "views": 855,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2001735&bnefType=all&svcId=832000000002",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "425000000626",
@@ -67149,6 +68234,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "508000000669",
+   "title": "풍진검사 지원",
+   "category": "임신·출산",
+   "region": "경북",
+   "views": 840,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000808&bnefType=all&svcId=508000000669",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "350000000108",
    "title": "장애인 유료방송 시청 지원",
    "category": "생활안정",
@@ -68181,6 +69279,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "452000000143",
+   "title": "친환경 벼농가 병충해방제약 지원",
+   "category": "농림축산어업",
+   "region": "충남",
+   "views": 829,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1003505&bnefType=all&svcId=452000000143",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "526000000114",
@@ -69481,6 +70592,19 @@
    "queuedAt": "2026-09-19"
   },
   {
+   "id": "832000000007",
+   "title": "직업계고 취업플러스+ 지원",
+   "category": "보육·교육",
+   "region": "전북",
+   "views": 815,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2001741&bnefType=all&svcId=832000000007",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "370000000106",
    "title": "한센환자 이동진료 지원",
    "category": "보건·의료",
@@ -70400,6 +71524,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "452000000153",
+   "title": "친환경농가(수도작/과수) 유기질비료 지원",
+   "category": "농림축산어업",
+   "region": "충남",
+   "views": 806,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1004309&bnefType=all&svcId=452000000153",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "460000000166",
@@ -71393,6 +72530,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "452000000144",
+   "title": "친환경농가 규산질비료 지원",
+   "category": "농림축산어업",
+   "region": "충남",
+   "views": 797,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1003507&bnefType=all&svcId=452000000144",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "724000000026",
@@ -72546,6 +73696,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "832000000001",
+   "title": "특수교육대상학생 관련 서비스 지원",
+   "category": "보육·교육",
+   "region": "전북",
+   "views": 784,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2001738&bnefType=all&svcId=832000000001",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "425000000637",
@@ -78593,6 +79756,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "514000000117",
+   "title": "친환경 농업자재 지원",
+   "category": "농림축산어업",
+   "region": "대구",
+   "views": 733,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1004248&bnefType=all&svcId=514000000117",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "421000000627",
    "title": "임산부 및 영유아 관리 지원",
    "category": "임신·출산",
@@ -80006,6 +81182,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "748000000210",
+   "title": "특수교육대상 유아 의무교육비 지원",
+   "category": "보육·교육",
+   "region": "울산",
+   "views": 721,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2000809&bnefType=all&svcId=748000000210",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "548000000123",
@@ -83617,6 +84806,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "832000000005",
+   "title": "북한이탈학생 맞춤형 교육 지원",
+   "category": "보육·교육",
+   "region": "전북",
+   "views": 691,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2001739&bnefType=all&svcId=832000000005",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "433000000142",
@@ -88658,6 +89860,20 @@
    "queuedAt": "2026-09-04"
   },
   {
+   "id": "426100000001",
+   "title": "응급환자의 구급차 이용 경비 지원",
+   "category": "보건·의료",
+   "region": "강원",
+   "views": 634,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2108703&bnefType=all&svcId=426100000001",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "476000000127",
    "title": "열매채소 시설재배 농자재 지원",
    "category": "농림축산어업",
@@ -91078,6 +92294,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "545000000194",
+   "title": "산청군 군민안전보험",
+   "category": "생활안정",
+   "region": "경남",
+   "views": 605,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2128463&bnefType=all&svcId=545000000194",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "518000000102",
@@ -93870,6 +95099,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "402000000130",
+   "title": "청년날개 면접정장 무료대여",
+   "category": "고용·창업",
+   "region": "경기",
+   "views": 561,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2129044&bnefType=all&svcId=402000000130",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "475000000192",
    "title": "고품질 양파재배 지원",
    "category": "농림축산어업",
@@ -95632,6 +96874,19 @@
    "queuedAt": "2026-08-10"
   },
   {
+   "id": "B55273500017",
+   "title": "창업에듀",
+   "category": "고용·창업",
+   "region": "전국",
+   "views": 514,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2150422&bnefType=all&svcId=B55273500017",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "346000000101",
    "title": "중증장애인 자립생활가정(주택) 지원",
    "category": "주거·자립",
@@ -95880,6 +97135,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "B55273500019",
+   "title": "스타트업 온라인 법률지원",
+   "category": "고용·창업",
+   "region": "전국",
+   "views": 505,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2150424&bnefType=all&svcId=B55273500019",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "316000000129",
@@ -96796,6 +98064,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "402000000133",
+   "title": "군포시 무료 생활법률상담 서비스",
+   "category": "행정·안전",
+   "region": "경기",
+   "views": 481,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2168916&bnefType=all&svcId=402000000133",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "349000000126",
    "title": "아빠 육아휴직 장려금",
    "category": "임신·출산",
@@ -97413,6 +98694,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "402000000156",
+   "title": "이동도서관 운영",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 459,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2171317&bnefType=all&svcId=402000000156",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "475000000237",
@@ -98171,6 +99465,19 @@
     "수정일"
    ],
    "queuedAt": "2026-10-13"
+  },
+  {
+   "id": "B55273500018",
+   "title": "지역창업특화지원",
+   "category": "고용·창업",
+   "region": "전국",
+   "views": 434,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2150423&bnefType=all&svcId=B55273500018",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "448000000654",
@@ -99094,6 +100401,19 @@
    "queuedAt": "2026-08-07"
   },
   {
+   "id": "402000000140",
+   "title": "군포시 어르신 교통비 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 403,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2169695&bnefType=all&svcId=402000000140",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "401000000497",
    "title": "시흥맞춤 명품점포 지원",
    "category": "생활안정",
@@ -99537,6 +100857,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "B55273500015",
+   "title": "특화창업패키지",
+   "category": "고용·창업",
+   "region": "전국",
+   "views": 390,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2150420&bnefType=all&svcId=B55273500015",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "654000000013",
    "title": "농촌 찾아가는 왕진버스",
    "category": "농림축산어업",
@@ -99928,6 +101261,19 @@
    "queuedAt": "2026-08-10"
   },
   {
+   "id": "402000000158",
+   "title": "생애주기 인구정책 통합안내 파일 제공",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 378,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2171322&bnefType=all&svcId=402000000158",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "356000000236",
    "title": "청년센터 서해구1939 공간 대관",
    "category": "생활안정",
@@ -100254,6 +101600,19 @@
    "queuedAt": "2026-09-10"
   },
   {
+   "id": "402000000145",
+   "title": "어르신 장수축하금 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 368,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2170323&bnefType=all&svcId=402000000145",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "183000000014",
    "title": "국가유공자 등 간호수당",
    "category": "생활안정",
@@ -100371,6 +101730,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "402000000141",
+   "title": "안질환 합병증 검사비 지원",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 364,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2170217&bnefType=all&svcId=402000000141",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "648000001156",
@@ -100818,6 +102190,19 @@
    "queuedAt": "2026-09-13"
   },
   {
+   "id": "402000000134",
+   "title": "북한이탈주민 자격증 취득 지원",
+   "category": "주거·자립",
+   "region": "경기",
+   "views": 350,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2169417&bnefType=all&svcId=402000000134",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "O00101000005",
    "title": "전북사랑 장학금",
    "category": "보육·교육",
@@ -101075,6 +102460,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-04"
+  },
+  {
+   "id": "402000000144",
+   "title": "군포시 내 생애 첫 도서관 운영",
+   "category": "보육·교육",
+   "region": "경기",
+   "views": 342,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2169699&bnefType=all&svcId=402000000144",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "140000000223",
@@ -101469,6 +102867,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "402000000143",
+   "title": "군포시 청소년 영어캠프 운영",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 327,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2169697&bnefType=all&svcId=402000000143",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "626000000629",
    "title": "청년 신용회복 지원(희망신용상담센터)",
    "category": "생활안정",
@@ -101506,6 +102917,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "402000000138",
+   "title": "군포시 시민정보화교육 운영",
+   "category": "보육·교육",
+   "region": "경기",
+   "views": 326,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2170144&bnefType=all&svcId=402000000138",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "442000000651",
@@ -101902,6 +103326,32 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "402000000148",
+   "title": "국가보훈대상 교통약자 택시바우처 지원",
+   "category": "보호·돌봄",
+   "region": "경기",
+   "views": 315,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2170522&bnefType=all&svcId=402000000148",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
+   "id": "402000000150",
+   "title": "영구피임 복원시술비 지원",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 315,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2170441&bnefType=all&svcId=402000000150",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "516000000121",
    "title": "고추육묘지원사업 참여육묘장 지원",
    "category": "농림축산어업",
@@ -101939,6 +103389,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "402000000146",
+   "title": "청년 학자금대출 장기연체자 학자금상환 지원",
+   "category": "보육·교육",
+   "region": "경기",
+   "views": 314,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2170518&bnefType=all&svcId=402000000146",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "B55307700027",
@@ -102332,6 +103795,32 @@
    "queuedAt": "2026-08-10"
   },
   {
+   "id": "402000000142",
+   "title": "취약계층 무료 독감 예방접종 서비스",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 302,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2169696&bnefType=all&svcId=402000000142",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
+   "id": "402000000147",
+   "title": "청년 학자금대출 장기연체자 신용회복 지원",
+   "category": "주거·자립",
+   "region": "경기",
+   "views": 302,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2170519&bnefType=all&svcId=402000000147",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "508000000696",
    "title": "구미시 아토피피부염 환아 보습제 지원",
    "category": "보건·의료",
@@ -102540,6 +104029,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "402000000155",
+   "title": "동네서점 바로대출 서비스 운영",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 297,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2171316&bnefType=all&svcId=402000000155",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "303000000323",
    "title": "실내공기질 측정기 대여",
    "category": "문화·환경",
@@ -102616,6 +104118,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "402000000154",
+   "title": "군포 소식지 신청",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 295,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2170926&bnefType=all&svcId=402000000154",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "319000000144",
@@ -102984,6 +104499,20 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "490000000295",
+   "title": "장애인활동지원사 처우개선 수당 지원",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 286,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2167118&bnefType=all&svcId=490000000295",
+   "type": "modified",
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "183000000017",
    "title": "무공영예수당",
    "category": "생활안정",
@@ -103193,6 +104722,19 @@
    "queuedAt": "2026-08-07"
   },
   {
+   "id": "402000000153",
+   "title": "개별주택가격 카카오톡 알리미 서비스 신청",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 273,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2170925&bnefType=all&svcId=402000000153",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "363000000237",
    "title": "천원한끼 식당",
    "category": "보호·돌봄",
@@ -103231,6 +104773,19 @@
     "수정일"
    ],
    "queuedAt": "2026-08-16"
+  },
+  {
+   "id": "402000000157",
+   "title": "1일 도서관 학교 운영",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 271,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2171318&bnefType=all&svcId=402000000157",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "O00019800002",
@@ -114208,6 +115763,17 @@
    "queuedAt": "2026-10-10"
   },
   {
+   "id": "513000000366",
+   "title": "둘째아 이상 출생아 건강보험 지원",
+   "category": "임신·출산",
+   "region": "경북",
+   "views": 20,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2186417&bnefType=all&svcId=513000000366",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "313000000158",
    "title": "마포구 평생교육이용권 지원",
    "category": "보육·교육",
@@ -114243,6 +115809,17 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "419100000014",
+   "title": "중소기업 육성자금 지원",
+   "category": "고용·창업",
+   "region": "강원",
+   "views": 16,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2189220&bnefType=all&svcId=419100000014",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "328000000132",
    "title": "어린이집 안전공제회 단체가입 지원",
    "category": "보육·교육",
@@ -114252,6 +115829,17 @@
    "type": "new",
    "changed": null,
    "queuedAt": "2026-10-22"
+  },
+  {
+   "id": "403000000188",
+   "title": "경기도 의왕시 시민안전보험",
+   "category": "행정·안전",
+   "region": "경기",
+   "views": 15,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2188517&bnefType=all&svcId=403000000188",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "524000000192",
@@ -114298,6 +115886,17 @@
    "queuedAt": "2026-10-25"
   },
   {
+   "id": "382000000173",
+   "title": "강남구청 인터넷수능방송 온라인 학습 수강권 지원",
+   "category": "보육·교육",
+   "region": "경기",
+   "views": 14,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2153117&bnefType=all&svcId=382000000173",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "650000001116",
    "title": "청년농업인 영농정착지원",
    "category": "농림축산어업",
@@ -114309,6 +115908,17 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "536000000616",
+   "title": "에이즈 및 성병 검사",
+   "category": "보건·의료",
+   "region": "경남",
+   "views": 13,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2190521&bnefType=all&svcId=536000000616",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "179038700010",
    "title": "희귀질환자 의료비 지원사업 지원대상자 증명서발급",
    "category": "보건·의료",
@@ -114318,6 +115928,17 @@
    "type": "new",
    "changed": null,
    "queuedAt": "2026-10-01"
+  },
+  {
+   "id": "526000000130",
+   "title": "청소년센터프로그램운영",
+   "category": "보육·교육",
+   "region": "경북",
+   "views": 12,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2137922&bnefType=all&svcId=526000000130",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "445000000256",
@@ -114432,6 +116053,17 @@
    "queuedAt": "2026-10-25"
   },
   {
+   "id": "408000000567",
+   "title": "여성장애인 출산비용 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 10,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2190021&bnefType=all&svcId=408000000567",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "135200005029",
    "title": "자활근로 참여확인서 발급",
    "category": "고용·창업",
@@ -114463,6 +116095,17 @@
    "type": "new",
    "changed": null,
    "queuedAt": "2026-10-16"
+  },
+  {
+   "id": "453000000446",
+   "title": "가축 전염병 예방 관리",
+   "category": "농림축산어업",
+   "region": "충남",
+   "views": 9,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2188618&bnefType=all&svcId=453000000446",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "537000001450",
@@ -114887,6 +116530,17 @@
    "queuedAt": "2026-10-07"
   },
   {
+   "id": "403000000177",
+   "title": "파상풍 및 백일해 예방접종 사업",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 3,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2170219&bnefType=all&svcId=403000000177",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-28"
+  },
+  {
    "id": "478100000017",
    "title": "농촌유학 유학경비 지원",
    "category": "보육·교육",
@@ -115028,6 +116682,50 @@
    "type": "new",
    "changed": null,
    "queuedAt": "2026-10-22"
+  },
+  {
+   "id": "559000000449",
+   "title": "국내 전시회(박람회) 참가기업 지원",
+   "category": "고용·창업",
+   "region": "경기",
+   "views": 2,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2169317&bnefType=all&svcId=559000000449",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-28"
+  },
+  {
+   "id": "559000000454",
+   "title": "중소기업 노동자 기숙사 임차비 지원",
+   "category": "고용·창업",
+   "region": "경기",
+   "views": 2,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2169421&bnefType=all&svcId=559000000454",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-28"
+  },
+  {
+   "id": "650000001127",
+   "title": "어선자동화시설 지원사업",
+   "category": "농림축산어업",
+   "region": "제주",
+   "views": 2,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2152562&bnefType=all&svcId=650000001127",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-28"
+  },
+  {
+   "id": "650000001128",
+   "title": "노후기관대체 지원사업",
+   "category": "농림축산어업",
+   "region": "제주",
+   "views": 2,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2152564&bnefType=all&svcId=650000001128",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-10-28"
   },
   {
    "id": "313000000168",
@@ -115536,6 +117234,6 @@
    "queuedAt": "2026-10-22"
   }
  ],
- "updated": "2026-10-25",
- "count": 8855
+ "updated": "2026-10-28",
+ "count": 8987
 }
