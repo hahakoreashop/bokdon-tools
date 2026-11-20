@@ -1,0 +1,1871 @@
+{
+ "date": "2026-11-20",
+ "baseline": false,
+ "total": 10891,
+ "newCount": 7,
+ "modifiedCount": 163,
+ "removedCount": 3,
+ "new": [
+  {
+   "id": "O00108600005",
+   "title": "치매조기검진사업",
+   "category": "보건·의료",
+   "region": "충남",
+   "registered": "20220715",
+   "views": 1285,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2001904&bnefType=all&svcId=O00108600005"
+  },
+  {
+   "id": "O00108600001",
+   "title": "만성질환관리사업(당뇨)",
+   "category": "보건·의료",
+   "region": "충남",
+   "registered": "20220715",
+   "views": 983,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2001896&bnefType=all&svcId=O00108600001"
+  },
+  {
+   "id": "O00108600002",
+   "title": "취약계층 의료지원사업",
+   "category": "보건·의료",
+   "region": "충남",
+   "registered": "20220715",
+   "views": 895,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2001899&bnefType=all&svcId=O00108600002"
+  },
+  {
+   "id": "O00108600004",
+   "title": "취약계층 시니어 건강검진 건강하세효",
+   "category": "보건·의료",
+   "region": "충남",
+   "registered": "20220715",
+   "views": 781,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2001903&bnefType=all&svcId=O00108600004"
+  },
+  {
+   "id": "O00027400004",
+   "title": "진도 청년드림 만원주택 공급(공공임대주택)",
+   "category": "주거·자립",
+   "region": "전국",
+   "registered": "20260930",
+   "views": 13,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2189720&bnefType=all&svcId=O00027400004"
+  },
+  {
+   "id": "544000000153",
+   "title": "주민주도 귀농귀촌 행복마을",
+   "category": "행정·안전",
+   "region": "경남",
+   "registered": "20251231",
+   "views": 9,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2171336&bnefType=all&svcId=544000000153"
+  },
+  {
+   "id": "626000000680",
+   "title": "동백전 카드수수료 지원",
+   "category": "고용·창업",
+   "region": "부산",
+   "registered": "20261119",
+   "views": 0,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2191522&bnefType=all&svcId=626000000680"
+  }
+ ],
+ "modified": [
+  {
+   "id": "135200000112",
+   "title": "생활터 금연환경조성",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 2883,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=999164&bnefType=all&svcId=135200000112"
+  },
+  {
+   "id": "135200005058",
+   "title": "2025 영구 불임예상 난자·정자 냉동 지원",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 1251,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2156131&bnefType=all&svcId=135200005058"
+  },
+  {
+   "id": "138300000016",
+   "title": "가정폭력피해자 국민임대주택 우선 입주권 부여",
+   "category": "주거·자립",
+   "region": "전국",
+   "views": 3288,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=724938&bnefType=all&svcId=138300000016"
+  },
+  {
+   "id": "149200000029",
+   "title": "광업 종사 근로자 건강진단 지원",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 2075,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=740236&bnefType=all&svcId=149200000029"
+  },
+  {
+   "id": "149200005026",
+   "title": "난임치료휴가 급여",
+   "category": "임신·출산",
+   "region": "전국",
+   "views": 3980,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2140716&bnefType=all&svcId=149200005026"
+  },
+  {
+   "id": "154300000008",
+   "title": "쌀 가공산업 육성 지원 사업",
+   "category": "농림축산어업",
+   "region": "전국",
+   "views": 2322,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=591390&bnefType=all&svcId=154300000008"
+  },
+  {
+   "id": "154300000072",
+   "title": "고품질쌀유통활성화사업",
+   "category": "농림축산어업",
+   "region": "전국",
+   "views": 2064,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=717917&bnefType=all&svcId=154300000072"
+  },
+  {
+   "id": "154300000073",
+   "title": "미곡종합처리장 벼 매입자금 지원",
+   "category": "농림축산어업",
+   "region": "전국",
+   "views": 2174,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=717916&bnefType=all&svcId=154300000073"
+  },
+  {
+   "id": "183000000008",
+   "title": "국가유공상이자 등 교통시설 이용지원",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 1365,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2153120&bnefType=all&svcId=183000000008"
+  },
+  {
+   "id": "303000000311",
+   "title": "(성동구) 난임부부 시술비 약제비 지원",
+   "category": "임신·출산",
+   "region": "서울",
+   "views": 1191,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2118901&bnefType=all&svcId=303000000311"
+  },
+  {
+   "id": "306000000210",
+   "title": "[중랑구]난임부부 약제비 지원(난임시술 이후 원외약제비 청구)",
+   "category": "임신·출산",
+   "region": "서울",
+   "views": 2628,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2117202&bnefType=all&svcId=306000000210"
+  },
+  {
+   "id": "312000000318",
+   "title": "(서대문구)난임부부 지원(시술 후 원외약제비 청구)",
+   "category": "보건·의료",
+   "region": "서울",
+   "views": 2780,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2122103&bnefType=all&svcId=312000000318"
+  },
+  {
+   "id": "313000000131",
+   "title": "(마포구)난임부부 시술비 약제비 지원(시술 후 원외약제비 청구)",
+   "category": "보건·의료",
+   "region": "서울",
+   "views": 877,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2147216&bnefType=all&svcId=313000000131"
+  },
+  {
+   "id": "313000000168",
+   "title": "2026년 마포구 구민안전보험",
+   "category": "행정·안전",
+   "region": "서울",
+   "views": 172,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2184616&bnefType=all&svcId=313000000168"
+  },
+  {
+   "id": "315000000288",
+   "title": "(강서구)난임부부 지원(시술 후 원외약제비 청구)",
+   "category": "보건·의료",
+   "region": "서울",
+   "views": 400,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2169516&bnefType=all&svcId=315000000288"
+  },
+  {
+   "id": "316000000124",
+   "title": "(구로구)난임부부 지원(시술 후 원외약제비 청구)",
+   "category": "보건·의료",
+   "region": "서울",
+   "views": 12147,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2101303&bnefType=all&svcId=316000000124"
+  },
+  {
+   "id": "319000000122",
+   "title": "자체 예방접종",
+   "category": "보건·의료",
+   "region": "서울",
+   "views": 1348,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1005243&bnefType=all&svcId=319000000122"
+  },
+  {
+   "id": "321000000107",
+   "title": "아빠육아 휴직 장려금 지원",
+   "category": "보육·교육",
+   "region": "서울",
+   "views": 1873,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001753&bnefType=all&svcId=321000000107"
+  },
+  {
+   "id": "322000000108",
+   "title": "남성 난임 지원",
+   "category": "임신·출산",
+   "region": "서울",
+   "views": 2312,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001751&bnefType=all&svcId=322000000108"
+  },
+  {
+   "id": "322000000125",
+   "title": "아빠 육아휴직장려금 지원",
+   "category": "보육·교육",
+   "region": "서울",
+   "views": 448,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2163816&bnefType=all&svcId=322000000125"
+  },
+  {
+   "id": "338000000108",
+   "title": "아빠 육아휴직 장려금 지원",
+   "category": "보육·교육",
+   "region": "부산",
+   "views": 1884,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001500&bnefType=all&svcId=338000000108"
+  },
+  {
+   "id": "351050000129",
+   "title": "[미추홀구] 한의약 난임치료 지원",
+   "category": "보건·의료",
+   "region": "인천",
+   "views": 369,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2179019&bnefType=all&svcId=351050000129"
+  },
+  {
+   "id": "351050000130",
+   "title": "[미추홀구] 난임부부 시술 개인약제비 지원(시술 후 원외약제비 청구)",
+   "category": "보건·의료",
+   "region": "인천",
+   "views": 407,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2179117&bnefType=all&svcId=351050000130"
+  },
+  {
+   "id": "352000000106",
+   "title": "아빠 육아휴직 장려금 지원",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 3206,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1004388&bnefType=all&svcId=352000000106"
+  },
+  {
+   "id": "352000000117",
+   "title": "[연수구] 난임부부 시술 개인약제비 지원(시술 후 원외약제비 청구)",
+   "category": "보건·의료",
+   "region": "인천",
+   "views": 4214,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2119301&bnefType=all&svcId=352000000117"
+  },
+  {
+   "id": "356000000106",
+   "title": "아빠 육아휴직 장려금 지원",
+   "category": "보육·교육",
+   "region": "인천",
+   "views": 4023,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1002926&bnefType=all&svcId=356000000106"
+  },
+  {
+   "id": "358000000138",
+   "title": "난임부부 약제비 지원",
+   "category": "임신·출산",
+   "region": "인천",
+   "views": 2191,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2114520&bnefType=all&svcId=358000000138"
+  },
+  {
+   "id": "370000000131",
+   "title": "행려자 지원 서비스",
+   "category": "보호·돌봄",
+   "region": "울산",
+   "views": 297,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2185416&bnefType=all&svcId=370000000131"
+  },
+  {
+   "id": "374000000556",
+   "title": "수원시 난임부부 원외처방 약제비 지원(장안구)",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 1047,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2125401&bnefType=all&svcId=374000000556"
+  },
+  {
+   "id": "374000000557",
+   "title": "수원시 난임부부 원외처방 약제비 지원(팔달구)",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 1148,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2125501&bnefType=all&svcId=374000000557"
+  },
+  {
+   "id": "374000000558",
+   "title": "수원시 난임부부 원외처방 약제비 지원(영통구)",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 1963,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2125606&bnefType=all&svcId=374000000558"
+  },
+  {
+   "id": "374000000559",
+   "title": "수원시 난임부부 원외처방 약제비 지원(권선구)",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 1581,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2125610&bnefType=all&svcId=374000000559"
+  },
+  {
+   "id": "390000000129",
+   "title": "아이소망 지원사업",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 1427,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2104579&bnefType=all&svcId=390000000129"
+  },
+  {
+   "id": "390000000429",
+   "title": "광명시 입영지원금 지급",
+   "category": "행정·안전",
+   "region": "경기",
+   "views": 1702,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2120302&bnefType=all&svcId=390000000429"
+  },
+  {
+   "id": "390000000436",
+   "title": "광명시 난임부부 시술비 약제비 지원(난임시술 이후 원외처방 약제비 청구)",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 643,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2152418&bnefType=all&svcId=390000000436"
+  },
+  {
+   "id": "391000000550",
+   "title": "평택시 난임부부 약제비 지원(평택보건소)",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 400,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2163231&bnefType=all&svcId=391000000550"
+  },
+  {
+   "id": "392000000169",
+   "title": "[경기도 동두천시] 난임부부 시술 약제비 지원",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 218,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2184116&bnefType=all&svcId=392000000169"
+  },
+  {
+   "id": "397000000130",
+   "title": "과천시 입영지원금 지급",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 2401,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=810311&bnefType=all&svcId=397000000130"
+  },
+  {
+   "id": "398000000123",
+   "title": "구리시 입영지원금 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 3705,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=804301&bnefType=all&svcId=398000000123"
+  },
+  {
+   "id": "404000000130",
+   "title": "하남시 아빠 육아휴직 장려금",
+   "category": "보호·돌봄",
+   "region": "경기",
+   "views": 1557,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2133719&bnefType=all&svcId=404000000130"
+  },
+  {
+   "id": "405000000679",
+   "title": "용인시 난임부부 시술비 추가 지원 (기흥구)",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 3815,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2115808&bnefType=all&svcId=405000000679"
+  },
+  {
+   "id": "405000000687",
+   "title": "용인시 난임부부 시술비 약제비 지원 (기흥구)",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 1845,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2121305&bnefType=all&svcId=405000000687"
+  },
+  {
+   "id": "407000000518",
+   "title": "이천시 난임부부 시술비 약제비 지원",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 836,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2126801&bnefType=all&svcId=407000000518"
+  },
+  {
+   "id": "409000000160",
+   "title": "김포시 백일해 예방접종 지원",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 186,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2186616&bnefType=all&svcId=409000000160"
+  },
+  {
+   "id": "416000000267",
+   "title": "[가평군] 난임부부 시술비 약제비 지원(난임시술 이후 원외 약제비 청구)",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 311,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2179816&bnefType=all&svcId=416000000267"
+  },
+  {
+   "id": "417000000144",
+   "title": "아빠육아휴직 장려금 지원",
+   "category": "보호·돌봄",
+   "region": "경기",
+   "views": 1427,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2104528&bnefType=all&svcId=417000000144"
+  },
+  {
+   "id": "418100000003",
+   "title": "한방난임 지원",
+   "category": "임신·출산",
+   "region": "강원",
+   "views": 395,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2153325&bnefType=all&svcId=418100000003"
+  },
+  {
+   "id": "419000000120",
+   "title": "산후 건강관리 지원",
+   "category": "임신·출산",
+   "region": "강원",
+   "views": 3239,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001898&bnefType=all&svcId=419000000120"
+  },
+  {
+   "id": "419100000013",
+   "title": "원주시 산후조리비 지원",
+   "category": "임신·출산",
+   "region": "강원",
+   "views": 2430,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2140817&bnefType=all&svcId=419100000013"
+  },
+  {
+   "id": "432000000232",
+   "title": "난임부부 시술비 지원",
+   "category": "임신·출산",
+   "region": "강원",
+   "views": 1212,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1002076&bnefType=all&svcId=432000000232"
+  },
+  {
+   "id": "442000000101",
+   "title": "자립준비청년 자립수당 지급",
+   "category": "주거·자립",
+   "region": "충북",
+   "views": 1449,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000250&bnefType=all&svcId=442000000101"
+  },
+  {
+   "id": "442000000106",
+   "title": "가정위탁아동 양육보조금 지급",
+   "category": "생활안정",
+   "region": "충북",
+   "views": 1138,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1003152&bnefType=all&svcId=442000000106"
+  },
+  {
+   "id": "444000000103",
+   "title": "어린이 예방접종비 지원",
+   "category": "보건·의료",
+   "region": "충북",
+   "views": 1403,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000570&bnefType=all&svcId=444000000103"
+  },
+  {
+   "id": "444000000116",
+   "title": "스마트농업특화지구육성사업(군비추가분)",
+   "category": "농림축산어업",
+   "region": "충북",
+   "views": 817,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1003946&bnefType=all&svcId=444000000116"
+  },
+  {
+   "id": "444000000117",
+   "title": "과수생산지원",
+   "category": "농림축산어업",
+   "region": "충북",
+   "views": 1095,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1004161&bnefType=all&svcId=444000000117"
+  },
+  {
+   "id": "444000000120",
+   "title": "시설하우스 설치 지원",
+   "category": "농림축산어업",
+   "region": "충북",
+   "views": 1057,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1004188&bnefType=all&svcId=444000000120"
+  },
+  {
+   "id": "449000000140",
+   "title": "천안시 아빠육아휴직장려금 지원",
+   "category": "생활안정",
+   "region": "충남",
+   "views": 2783,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=812700&bnefType=all&svcId=449000000140"
+  },
+  {
+   "id": "449000000508",
+   "title": "(충남 천안시 서북구)난임부부 시술비 원외약제비 지원",
+   "category": "임신·출산",
+   "region": "충남",
+   "views": 1390,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2113226&bnefType=all&svcId=449000000508"
+  },
+  {
+   "id": "449000000513",
+   "title": "(충남 천안시 동남구)난임부부 시술비 원외약제비 지원",
+   "category": "임신·출산",
+   "region": "충남",
+   "views": 866,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2121205&bnefType=all&svcId=449000000513"
+  },
+  {
+   "id": "452000000126",
+   "title": "난임부부 엽산 영양제 지원",
+   "category": "임신·출산",
+   "region": "충남",
+   "views": 1361,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1002620&bnefType=all&svcId=452000000126"
+  },
+  {
+   "id": "452000000322",
+   "title": "아산시 난임부부 시술비 약제비 지원",
+   "category": "보건·의료",
+   "region": "충남",
+   "views": 1291,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2148628&bnefType=all&svcId=452000000322"
+  },
+  {
+   "id": "460000000134",
+   "title": "난임부부 시술비 확대 지원",
+   "category": "임신·출산",
+   "region": "충남",
+   "views": 1367,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1002316&bnefType=all&svcId=460000000134"
+  },
+  {
+   "id": "468000000109",
+   "title": "한방 난임부부 지원",
+   "category": "생활안정",
+   "region": "전북",
+   "views": 1107,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1002632&bnefType=all&svcId=468000000109"
+  },
+  {
+   "id": "468000000118",
+   "title": "난임부부 시술비 지원",
+   "category": "임신·출산",
+   "region": "전북",
+   "views": 1292,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1002660&bnefType=all&svcId=468000000118"
+  },
+  {
+   "id": "470000000110",
+   "title": "한방 난임 치료 지원",
+   "category": "임신·출산",
+   "region": "전북",
+   "views": 921,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000645&bnefType=all&svcId=470000000110"
+  },
+  {
+   "id": "473000000101",
+   "title": "산모·신생아 건강관리 본인부담금 지원",
+   "category": "임신·출산",
+   "region": "전북",
+   "views": 950,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000180&bnefType=all&svcId=473000000101"
+  },
+  {
+   "id": "473000000102",
+   "title": "노후하우스 비닐교체 지원",
+   "category": "농림축산어업",
+   "region": "전북",
+   "views": 866,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000478&bnefType=all&svcId=473000000102"
+  },
+  {
+   "id": "473000000109",
+   "title": "청년농업인 영농정착 지원",
+   "category": "주거·자립",
+   "region": "전북",
+   "views": 1391,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1002354&bnefType=all&svcId=473000000109"
+  },
+  {
+   "id": "473000000113",
+   "title": "농산물 가격안정 지원",
+   "category": "농림축산어업",
+   "region": "전북",
+   "views": 474,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1002358&bnefType=all&svcId=473000000113"
+  },
+  {
+   "id": "473000000123",
+   "title": "수몰민 자녀 장학지원금",
+   "category": "보육·교육",
+   "region": "전북",
+   "views": 726,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1004449&bnefType=all&svcId=473000000123"
+  },
+  {
+   "id": "473000000128",
+   "title": "산모·신생아 건강관리 서비스",
+   "category": "임신·출산",
+   "region": "전북",
+   "views": 1155,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1005466&bnefType=all&svcId=473000000128"
+  },
+  {
+   "id": "473000000130",
+   "title": "치매 치료관리비 본인부담금 확대 지원",
+   "category": "보건·의료",
+   "region": "전북",
+   "views": 850,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1005881&bnefType=all&svcId=473000000130"
+  },
+  {
+   "id": "473000000131",
+   "title": "치매조기 검진비 지원",
+   "category": "보건·의료",
+   "region": "전북",
+   "views": 968,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1005913&bnefType=all&svcId=473000000131"
+  },
+  {
+   "id": "473100000005",
+   "title": "진안군 군민안전보험/상해보험",
+   "category": "행정·안전",
+   "region": "전북",
+   "views": 522,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2128807&bnefType=all&svcId=473100000005"
+  },
+  {
+   "id": "474100000015",
+   "title": "한방 난임치료 지원",
+   "category": "보건·의료",
+   "region": "전북",
+   "views": 307,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2167923&bnefType=all&svcId=474100000015"
+  },
+  {
+   "id": "474100000025",
+   "title": "난임 진단 검사비 지원",
+   "category": "보건·의료",
+   "region": "전북",
+   "views": 311,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2170021&bnefType=all&svcId=474100000025"
+  },
+  {
+   "id": "478100000003",
+   "title": "(고창군) 장애인 평생교육이용권 지원",
+   "category": "생활안정",
+   "region": "전북",
+   "views": 654,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2121103&bnefType=all&svcId=478100000003"
+  },
+  {
+   "id": "480000000110",
+   "title": "난임 진단 검진비 지원",
+   "category": "임신·출산",
+   "region": "전국",
+   "views": 1321,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1006153&bnefType=all&svcId=480000000110"
+  },
+  {
+   "id": "481000000113",
+   "title": "난임 기초 검진비 지원",
+   "category": "임신·출산",
+   "region": "전국",
+   "views": 1311,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1002686&bnefType=all&svcId=481000000113"
+  },
+  {
+   "id": "484000000374",
+   "title": "아빠 육아휴직 장려금 지원",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 1406,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2117024&bnefType=all&svcId=484000000374"
+  },
+  {
+   "id": "484000000396",
+   "title": "난임부부 교통비 등 지원",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 345,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2172417&bnefType=all&svcId=484000000396"
+  },
+  {
+   "id": "484000000398",
+   "title": "난임부부 시술비 본인부담금 확대지원",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 340,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2172419&bnefType=all&svcId=484000000398"
+  },
+  {
+   "id": "485000000120",
+   "title": "가정폭력피해자 의료비 지원",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 1122,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1003432&bnefType=all&svcId=485000000120"
+  },
+  {
+   "id": "490000000289",
+   "title": "화순군 난임진단비 지원",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 325,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2164728&bnefType=all&svcId=490000000289"
+  },
+  {
+   "id": "491000000108",
+   "title": "난임부부 시술비 본인부담금 지원",
+   "category": "임신·출산",
+   "region": "전국",
+   "views": 893,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1002692&bnefType=all&svcId=491000000108"
+  },
+  {
+   "id": "493000000118",
+   "title": "난임부부 진단비 지원",
+   "category": "임신·출산",
+   "region": "전국",
+   "views": 1045,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1003721&bnefType=all&svcId=493000000118"
+  },
+  {
+   "id": "495000000426",
+   "title": "난임부부 시술비 지원(추가)",
+   "category": "임신·출산",
+   "region": "전국",
+   "views": 1395,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1004428&bnefType=all&svcId=495000000426"
+  },
+  {
+   "id": "497000000102",
+   "title": "임신부(해피맘) 교통카드 지원",
+   "category": "임신·출산",
+   "region": "전국",
+   "views": 1407,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000263&bnefType=all&svcId=497000000102"
+  },
+  {
+   "id": "497000000105",
+   "title": "난임부부 시술비 본인부담금 지원(추가)",
+   "category": "임신·출산",
+   "region": "전국",
+   "views": 1092,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1002785&bnefType=all&svcId=497000000105"
+  },
+  {
+   "id": "497000000107",
+   "title": "영광군 신생아 양육비 지원",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 1886,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1002882&bnefType=all&svcId=497000000107"
+  },
+  {
+   "id": "497000000111",
+   "title": "영광군 결혼장려금 지원",
+   "category": "주거·자립",
+   "region": "전국",
+   "views": 3437,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1004482&bnefType=all&svcId=497000000111"
+  },
+  {
+   "id": "497000000116",
+   "title": "출산축하용품 구입비 지원",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 1620,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1005717&bnefType=all&svcId=497000000116"
+  },
+  {
+   "id": "497000000124",
+   "title": "아빠 육아휴직 장려금",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 2533,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=810326&bnefType=all&svcId=497000000124"
+  },
+  {
+   "id": "500000000143",
+   "title": "진도군 초·중·고등학교 입학축하금 지원",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 610,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2133716&bnefType=all&svcId=500000000143"
+  },
+  {
+   "id": "505000000159",
+   "title": "영구적 불임예상 생식세포 동결보존 지원",
+   "category": "임신·출산",
+   "region": "경북",
+   "views": 362,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2135416&bnefType=all&svcId=505000000159"
+  },
+  {
+   "id": "505000000160",
+   "title": "냉동난자사용 보조생식술 지원",
+   "category": "임신·출산",
+   "region": "경북",
+   "views": 693,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2135616&bnefType=all&svcId=505000000160"
+  },
+  {
+   "id": "506000000139",
+   "title": "김천시 난임부부 시술비 지원",
+   "category": "보건·의료",
+   "region": "경북",
+   "views": 987,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2143216&bnefType=all&svcId=506000000139"
+  },
+  {
+   "id": "506000000140",
+   "title": "김천시 정관·난관 복원 시술비 지원",
+   "category": "임신·출산",
+   "region": "경북",
+   "views": 778,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2144120&bnefType=all&svcId=506000000140"
+  },
+  {
+   "id": "506000000141",
+   "title": "김천시 난자 냉동 시술비 지원",
+   "category": "보건·의료",
+   "region": "경북",
+   "views": 812,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2144617&bnefType=all&svcId=506000000141"
+  },
+  {
+   "id": "506000000142",
+   "title": "김천시 난임부부 시술 약제비 지원",
+   "category": "임신·출산",
+   "region": "경북",
+   "views": 719,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2144620&bnefType=all&svcId=506000000142"
+  },
+  {
+   "id": "508000000694",
+   "title": "구미시 난임극복 마음건강 지원",
+   "category": "보건·의료",
+   "region": "경북",
+   "views": 6090,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2127102&bnefType=all&svcId=508000000694"
+  },
+  {
+   "id": "511000000116",
+   "title": "난임 시술 관련 교통비 지원",
+   "category": "임신·출산",
+   "region": "경북",
+   "views": 2188,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001365&bnefType=all&svcId=511000000116"
+  },
+  {
+   "id": "513000000103",
+   "title": "차상위계층 주거환경개선 지원",
+   "category": "주거·자립",
+   "region": "경북",
+   "views": 1037,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001295&bnefType=all&svcId=513000000103"
+  },
+  {
+   "id": "514000000105",
+   "title": "난임부부 지원",
+   "category": "임신·출산",
+   "region": "대구",
+   "views": 1436,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1002123&bnefType=all&svcId=514000000105"
+  },
+  {
+   "id": "519000000107",
+   "title": "국가예방접종 실시",
+   "category": "보건·의료",
+   "region": "경북",
+   "views": 1146,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1002068&bnefType=all&svcId=519000000107"
+  },
+  {
+   "id": "519000000156",
+   "title": "청도군 백일해 예방접종지원",
+   "category": "보건·의료",
+   "region": "경북",
+   "views": 501,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2148718&bnefType=all&svcId=519000000156"
+  },
+  {
+   "id": "523000000186",
+   "title": "시설과채류 화분매개 곤충 수정벌 공급",
+   "category": "농림축산어업",
+   "region": "경북",
+   "views": 867,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1006037&bnefType=all&svcId=523000000186"
+  },
+  {
+   "id": "523000000556",
+   "title": "과채류 엽채류 품질향상기술 현장실증",
+   "category": "농림축산어업",
+   "region": "경북",
+   "views": 316,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2116003&bnefType=all&svcId=523000000556"
+  },
+  {
+   "id": "531000000105",
+   "title": "난임부부 격려금 지원",
+   "category": "임신·출산",
+   "region": "경남",
+   "views": 6870,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001183&bnefType=all&svcId=531000000105"
+  },
+  {
+   "id": "531000000126",
+   "title": "(경상남도 진주시) 난임부부 시술비 본인부담금 전액 지원",
+   "category": "임신·출산",
+   "region": "경남",
+   "views": 12370,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1006053&bnefType=all&svcId=531000000126"
+  },
+  {
+   "id": "531000000132",
+   "title": "(경상남도 진주시) 난임부부 약제비(시술비) 지원",
+   "category": "임신·출산",
+   "region": "경남",
+   "views": 3628,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2105404&bnefType=all&svcId=531000000132"
+  },
+  {
+   "id": "531000000133",
+   "title": "(경상남도 진주시)난임부부 한의치료 확대 지원사업 신청",
+   "category": "임신·출산",
+   "region": "경남",
+   "views": 2147,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2106301&bnefType=all&svcId=531000000133"
+  },
+  {
+   "id": "531000000134",
+   "title": "(경상남도 진주시)난임부부 진단비 온라인 지원",
+   "category": "임신·출산",
+   "region": "경남",
+   "views": 8250,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2106401&bnefType=all&svcId=531000000134"
+  },
+  {
+   "id": "535000000612",
+   "title": "(김해시보건소)난임부부시술 약제비 지원(난임시술 후 원외처방 약제비청구)",
+   "category": "보건·의료",
+   "region": "경남",
+   "views": 17,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2191230&bnefType=all&svcId=535000000612"
+  },
+  {
+   "id": "536000000611",
+   "title": "밀양시 난임부부 시술비 추가 지원(시비)",
+   "category": "임신·출산",
+   "region": "경남",
+   "views": 325,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2160072&bnefType=all&svcId=536000000611"
+  },
+  {
+   "id": "537000000114",
+   "title": "아빠 육아휴직 장려금 지원",
+   "category": "보육·교육",
+   "region": "경남",
+   "views": 1446,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001152&bnefType=all&svcId=537000000114"
+  },
+  {
+   "id": "538000000656",
+   "title": "(경상남도 양산시보건소)난임부부 난임시술 약제비 지원",
+   "category": "보건·의료",
+   "region": "경남",
+   "views": 348,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2168936&bnefType=all&svcId=538000000656"
+  },
+  {
+   "id": "540000000106",
+   "title": "난임부부 검사비 지원",
+   "category": "임신·출산",
+   "region": "경남",
+   "views": 1364,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001078&bnefType=all&svcId=540000000106"
+  },
+  {
+   "id": "543000000120",
+   "title": "가정위탁아동 양육보조금 지원",
+   "category": "보육·교육",
+   "region": "경남",
+   "views": 883,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1005364&bnefType=all&svcId=543000000120"
+  },
+  {
+   "id": "553000000588",
+   "title": "(화성시 동탄구)난임부부 시술 약제비 지원",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 963,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2144418&bnefType=all&svcId=553000000588"
+  },
+  {
+   "id": "553000000589",
+   "title": "(화성시 병점구) 난임부부 시술 약제비 지원",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 342,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2144516&bnefType=all&svcId=553000000589"
+  },
+  {
+   "id": "553000000591",
+   "title": "(화성시효행구)난임부부 시술 약제비 지원 신청",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 402,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2174416&bnefType=all&svcId=553000000591"
+  },
+  {
+   "id": "554000000205",
+   "title": "다태임신 임산부 교통비 지원(광주시)",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 1086,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2168221&bnefType=all&svcId=554000000205"
+  },
+  {
+   "id": "559000000434",
+   "title": "양주시 난임부부 원외처방 약제비 지원",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 2008,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2150343&bnefType=all&svcId=559000000434"
+  },
+  {
+   "id": "560000000142",
+   "title": "난임시술 약제비 지원",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 329,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2143318&bnefType=all&svcId=560000000142"
+  },
+  {
+   "id": "560000000143",
+   "title": "포천시 청년·신혼부부 공공임대주택 주거비 지원(임대보증금)",
+   "category": "주거·자립",
+   "region": "경기",
+   "views": 430,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2168016&bnefType=all&svcId=560000000143"
+  },
+  {
+   "id": "560000000144",
+   "title": "포천시 청년·신혼부부 공공임대주택 주거비 지원(월 임대료)",
+   "category": "주거·자립",
+   "region": "경기",
+   "views": 205,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2179119&bnefType=all&svcId=560000000144"
+  },
+  {
+   "id": "571000000105",
+   "title": "난임 한방치료비 지원",
+   "category": "임신·출산",
+   "region": "충북",
+   "views": 1645,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000442&bnefType=all&svcId=571000000105"
+  },
+  {
+   "id": "611000000123",
+   "title": "서울시한의약난임치료지원",
+   "category": "임신·출산",
+   "region": "서울",
+   "views": 3803,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001732&bnefType=all&svcId=611000000123"
+  },
+  {
+   "id": "611000000159",
+   "title": "서울시 난임부부 시술비 지원",
+   "category": "임신·출산",
+   "region": "서울",
+   "views": 9204,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1005917&bnefType=all&svcId=611000000159"
+  },
+  {
+   "id": "626000000135",
+   "title": "한방 난임 시술비 지원",
+   "category": "임신·출산",
+   "region": "부산",
+   "views": 3089,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1004701&bnefType=all&svcId=626000000135"
+  },
+  {
+   "id": "626000000640",
+   "title": "난임부부 시술비 지원",
+   "category": "임신·출산",
+   "region": "부산",
+   "views": 2105,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2152529&bnefType=all&svcId=626000000640"
+  },
+  {
+   "id": "626000000679",
+   "title": "(부산)난임부부시술 약제비 지원",
+   "category": "임신·출산",
+   "region": "부산",
+   "views": 824,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2177116&bnefType=all&svcId=626000000679"
+  },
+  {
+   "id": "627000000109",
+   "title": "한방 난임부부 지원",
+   "category": "임신·출산",
+   "region": "대구",
+   "views": 1867,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000784&bnefType=all&svcId=627000000109"
+  },
+  {
+   "id": "627000000717",
+   "title": "대구형 난임부부 시술비 지원",
+   "category": "임신·출산",
+   "region": "대구",
+   "views": 24748,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2113305&bnefType=all&svcId=627000000717"
+  },
+  {
+   "id": "627000000757",
+   "title": "대구광역시 난임부부 난임시술 약제비 지원(난임시술 후 원외약제비 신청)",
+   "category": "임신·출산",
+   "region": "대구",
+   "views": 1463,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2172838&bnefType=all&svcId=627000000757"
+  },
+  {
+   "id": "628000000102",
+   "title": "한의약 난임 치료 지원",
+   "category": "임신·출산",
+   "region": "인천",
+   "views": 2814,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000563&bnefType=all&svcId=628000000102"
+  },
+  {
+   "id": "628000000781",
+   "title": "2026년 천사지원금 지급",
+   "category": "임신·출산",
+   "region": "인천",
+   "views": 1771,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2171418&bnefType=all&svcId=628000000781"
+  },
+  {
+   "id": "629000000102",
+   "title": "한방 난임 치료비 지원",
+   "category": "임신·출산",
+   "region": "전국",
+   "views": 1292,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000472&bnefType=all&svcId=629000000102"
+  },
+  {
+   "id": "629000000158",
+   "title": "난임부부 확대 지원",
+   "category": "임신·출산",
+   "region": "전국",
+   "views": 3766,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1004237&bnefType=all&svcId=629000000158"
+  },
+  {
+   "id": "630000000158",
+   "title": "대전시 한방난임 치료비 지원",
+   "category": "임신·출산",
+   "region": "대전",
+   "views": 2396,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1006381&bnefType=all&svcId=630000000158"
+  },
+  {
+   "id": "631000000723",
+   "title": "난임부부 시술비 지원사업",
+   "category": "임신·출산",
+   "region": "울산",
+   "views": 514,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2159541&bnefType=all&svcId=631000000723"
+  },
+  {
+   "id": "641000000175",
+   "title": "한방난임사업 지원",
+   "category": "임신·출산",
+   "region": "경기",
+   "views": 4813,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1006171&bnefType=all&svcId=641000000175"
+  },
+  {
+   "id": "643000000736",
+   "title": "난임부부 시술비 지원",
+   "category": "임신·출산",
+   "region": "충북",
+   "views": 691,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2131716&bnefType=all&svcId=643000000736"
+  },
+  {
+   "id": "644000000175",
+   "title": "난임부부 한방치료비 지원",
+   "category": "임신·출산",
+   "region": "충남",
+   "views": 1913,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000577&bnefType=all&svcId=644000000175"
+  },
+  {
+   "id": "644000000864",
+   "title": "2026년 하반기 충청남도 청년 주택임차보증금 이자 지원(2025년 선정자 대상)",
+   "category": "주거·자립",
+   "region": "충남",
+   "views": 26,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2190223&bnefType=all&svcId=644000000864"
+  },
+  {
+   "id": "646000000143",
+   "title": "한방 난임 치료 지원",
+   "category": "임신·출산",
+   "region": "전국",
+   "views": 1424,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1002997&bnefType=all&svcId=646000000143"
+  },
+  {
+   "id": "646000000188",
+   "title": "전남형 난임부부 시술비 지원",
+   "category": "임신·출산",
+   "region": "전국",
+   "views": 1983,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1005517&bnefType=all&svcId=646000000188"
+  },
+  {
+   "id": "654000000003",
+   "title": "전북형 난임 시술비 지원",
+   "category": "임신·출산",
+   "region": "전북",
+   "views": 624,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2118303&bnefType=all&svcId=654000000003"
+  },
+  {
+   "id": "654000000004",
+   "title": "난임 진단 검사비 지원",
+   "category": "임신·출산",
+   "region": "전북",
+   "views": 924,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2118304&bnefType=all&svcId=654000000004"
+  },
+  {
+   "id": "654000000011",
+   "title": "한방 난임부부 지원",
+   "category": "임신·출산",
+   "region": "전북",
+   "views": 459,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2148716&bnefType=all&svcId=654000000011"
+  },
+  {
+   "id": "654000000042",
+   "title": "남성 난임 시술비 지원",
+   "category": "임신·출산",
+   "region": "전북",
+   "views": 313,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2173117&bnefType=all&svcId=654000000042"
+  },
+  {
+   "id": "999000000008",
+   "title": "육아휴직급여",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 577538,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=999029&bnefType=all&svcId=999000000008"
+  },
+  {
+   "id": "999000000017",
+   "title": "국가보훈대상자 주택우선공급",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 20233,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=999065&bnefType=all&svcId=999000000017"
+  },
+  {
+   "id": "B55100100009",
+   "title": "독립기념관 교원직무연수",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 1251,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2000991&bnefType=all&svcId=B55100100009"
+  },
+  {
+   "id": "B55139800001",
+   "title": "긴급출동고충처리 서비스",
+   "category": "행정·안전",
+   "region": "전국",
+   "views": 1729,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2000879&bnefType=all&svcId=B55139800001"
+  },
+  {
+   "id": "B55258400009",
+   "title": "탄소중립포인트제 에너지 분야",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 143506,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=999225&bnefType=all&svcId=B55258400009"
+  },
+  {
+   "id": "O00005600006",
+   "title": "장사시설 사용료 전액 감면",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 2671,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2105827&bnefType=all&svcId=O00005600006"
+  },
+  {
+   "id": "O00022300005",
+   "title": "강북구 공영주차장 감면",
+   "category": "행정·안전",
+   "region": "전국",
+   "views": 1057,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2101416&bnefType=all&svcId=O00022300005"
+  },
+  {
+   "id": "O00066700005",
+   "title": "안동의료원 난임,산전산후여성 우울증검사 및 상담 지원",
+   "category": "임신·출산",
+   "region": "경북",
+   "views": 1016,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2000247&bnefType=all&svcId=O00066700005"
+  },
+  {
+   "id": "O00092800001",
+   "title": "공공보건의료사업 지원",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 1902,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2000860&bnefType=all&svcId=O00092800001"
+  },
+  {
+   "id": "O00178400001",
+   "title": "문화시설 입장료 면제(소래역사관)",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 232,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2168120&bnefType=all&svcId=O00178400001"
+  },
+  {
+   "id": "SSI000000020",
+   "title": "한부모가족 아동양육비 지원",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 108596,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=87903&bnefType=all&svcId=SSI000000020"
+  }
+ ]
+}
