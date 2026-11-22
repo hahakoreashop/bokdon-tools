@@ -1,0 +1,416 @@
+{
+ "date": "2026-11-22",
+ "baseline": false,
+ "total": 10894,
+ "newCount": 4,
+ "modifiedCount": 33,
+ "removedCount": 1,
+ "new": [
+  {
+   "id": "644000000846",
+   "title": "2026년 충남 장애인평생교육이용권 우수이용자 신청접수",
+   "category": "보육·교육",
+   "region": "충남",
+   "registered": "20250416",
+   "views": 5469,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2140319&bnefType=all&svcId=644000000846"
+  },
+  {
+   "id": "O00148800003",
+   "title": "2026년 대구광역시장애인 평생교육이용권 2차 신청",
+   "category": "보육·교육",
+   "region": "대구",
+   "registered": "20260923",
+   "views": 140,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2189321&bnefType=all&svcId=O00148800003"
+  },
+  {
+   "id": "359000000453",
+   "title": "아동치과주치의사업",
+   "category": "보건·의료",
+   "region": "전국",
+   "registered": "20251127",
+   "views": 8,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2167653&bnefType=all&svcId=359000000453"
+  },
+  {
+   "id": "359000000472",
+   "title": "치매 치료관리비 지원",
+   "category": "생활안정",
+   "region": "전국",
+   "registered": "20251231",
+   "views": 8,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2170957&bnefType=all&svcId=359000000472"
+  }
+ ],
+ "modified": [
+  {
+   "id": "149200005025",
+   "title": "산재근로자 특별진찰",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 877,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2126503&bnefType=all&svcId=149200005025"
+  },
+  {
+   "id": "174100000034",
+   "title": "온라인 신청 시연 테스트(운영)",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 1604,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=808591&bnefType=all&svcId=174100000034"
+  },
+  {
+   "id": "352000000101",
+   "title": "기초생활보장수급자 쓰레기 종량제 봉투 지원",
+   "category": "보호·돌봄",
+   "region": "인천",
+   "views": 2336,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000143&bnefType=all&svcId=352000000101"
+  },
+  {
+   "id": "352000000102",
+   "title": "지역화폐(연수e음)",
+   "category": "행정·안전",
+   "region": "인천",
+   "views": 18711,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1002951&bnefType=all&svcId=352000000102"
+  },
+  {
+   "id": "352000000107",
+   "title": "한부모가족 고교생 입학금 및 수업료지원",
+   "category": "보육·교육",
+   "region": "인천",
+   "views": 1315,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1004422&bnefType=all&svcId=352000000107"
+  },
+  {
+   "id": "352000000111",
+   "title": "소상공인 보증지원",
+   "category": "고용·창업",
+   "region": "인천",
+   "views": 2297,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=809017&bnefType=all&svcId=352000000111"
+  },
+  {
+   "id": "352000000113",
+   "title": "(재)연수큰재장학재단 장학생 선발",
+   "category": "보육·교육",
+   "region": "인천",
+   "views": 3589,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=809979&bnefType=all&svcId=352000000113"
+  },
+  {
+   "id": "352000000115",
+   "title": "결식아동 급식지원",
+   "category": "보호·돌봄",
+   "region": "인천",
+   "views": 1379,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=810704&bnefType=all&svcId=352000000115"
+  },
+  {
+   "id": "352000000116",
+   "title": "국가보훈대상자 수당 및 사망위로금 지원",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 769,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2108803&bnefType=all&svcId=352000000116"
+  },
+  {
+   "id": "352000000119",
+   "title": "★[연수구] 산모·신생아 건강관리서비스 본인부담금 지원 신청",
+   "category": "임신·출산",
+   "region": "인천",
+   "views": 5375,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2119703&bnefType=all&svcId=352000000119"
+  },
+  {
+   "id": "352000000120",
+   "title": "[연수구] 영유아 발달장애 정밀검사비 지원",
+   "category": "보건·의료",
+   "region": "인천",
+   "views": 995,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2119704&bnefType=all&svcId=352000000120"
+  },
+  {
+   "id": "352000000122",
+   "title": "참전유공자수당 및 사망위로금 지원",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 480,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2142117&bnefType=all&svcId=352000000122"
+  },
+  {
+   "id": "352000000123",
+   "title": "여성장애인 출산비용 지원",
+   "category": "임신·출산",
+   "region": "인천",
+   "views": 1120,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2142317&bnefType=all&svcId=352000000123"
+  },
+  {
+   "id": "359000000102",
+   "title": "동구 출산축하금",
+   "category": "임신·출산",
+   "region": "전국",
+   "views": 2125,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001718&bnefType=all&svcId=359000000102"
+  },
+  {
+   "id": "359000000108",
+   "title": "영유아 건강수당",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 1526,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1004725&bnefType=all&svcId=359000000108"
+  },
+  {
+   "id": "393000000130",
+   "title": "벼 못자리용 상토 지원",
+   "category": "농림축산어업",
+   "region": "경기",
+   "views": 1202,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1004540&bnefType=all&svcId=393000000130"
+  },
+  {
+   "id": "484000000145",
+   "title": "광양시 초등학교 입학 축하금 지급",
+   "category": "보육·교육",
+   "region": "전국",
+   "views": 1426,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=810011&bnefType=all&svcId=484000000145"
+  },
+  {
+   "id": "502000000209",
+   "title": "출산장려금 지원",
+   "category": "임신·출산",
+   "region": "경북",
+   "views": 5594,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001972&bnefType=all&svcId=502000000209"
+  },
+  {
+   "id": "560000000143",
+   "title": "포천시 청년·신혼부부 공공임대주택 주거비 지원(임대보증금)",
+   "category": "주거·자립",
+   "region": "경기",
+   "views": 440,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2168016&bnefType=all&svcId=560000000143"
+  },
+  {
+   "id": "560000000144",
+   "title": "포천시 청년·신혼부부 공공임대주택 주거비 지원(월 임대료)(신규신청)",
+   "category": "주거·자립",
+   "region": "경기",
+   "views": 211,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2179119&bnefType=all&svcId=560000000144"
+  },
+  {
+   "id": "626000000680",
+   "title": "동백전 카드수수료 지원",
+   "category": "고용·창업",
+   "region": "부산",
+   "views": 35,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2191522&bnefType=all&svcId=626000000680"
+  },
+  {
+   "id": "628000000781",
+   "title": "2026년 천사지원금 지급",
+   "category": "임신·출산",
+   "region": "인천",
+   "views": 1795,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2171418&bnefType=all&svcId=628000000781"
+  },
+  {
+   "id": "644000000229",
+   "title": "소상공인 사회보험료 지원",
+   "category": "고용·창업",
+   "region": "충남",
+   "views": 2373,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1005916&bnefType=all&svcId=644000000229"
+  },
+  {
+   "id": "644000000239",
+   "title": "노란우산 공제 가입 장려금 지원",
+   "category": "생활안정",
+   "region": "충남",
+   "views": 2859,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=808905&bnefType=all&svcId=644000000239"
+  },
+  {
+   "id": "647000000108",
+   "title": "경상북도세자녀이상가족진료비지원(모자보건)",
+   "category": "임신·출산",
+   "region": "경북",
+   "views": 3774,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000843&bnefType=all&svcId=647000000108"
+  },
+  {
+   "id": "B37003100017",
+   "title": "국민체력100",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 23541,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2001194&bnefType=all&svcId=B37003100017"
+  },
+  {
+   "id": "O00027200001",
+   "title": "체육시설 이용요금 감면",
+   "category": "문화·환경",
+   "region": "인천",
+   "views": 934,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2000022&bnefType=all&svcId=O00027200001"
+  },
+  {
+   "id": "O00027200002",
+   "title": "체육시설 이용요금 감면(송도체육센터)",
+   "category": "문화·환경",
+   "region": "인천",
+   "views": 2313,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2000824&bnefType=all&svcId=O00027200002"
+  },
+  {
+   "id": "O00027200003",
+   "title": "문화시설 이용요금 감면",
+   "category": "문화·환경",
+   "region": "인천",
+   "views": 925,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2001762&bnefType=all&svcId=O00027200003"
+  },
+  {
+   "id": "O00027200004",
+   "title": "공영주차장 이용요금 감면",
+   "category": "생활안정",
+   "region": "인천",
+   "views": 1298,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2001785&bnefType=all&svcId=O00027200004"
+  },
+  {
+   "id": "O00027200005",
+   "title": "체육시설 이용요금 감면(옹암체육센터)",
+   "category": "문화·환경",
+   "region": "인천",
+   "views": 313,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2179716&bnefType=all&svcId=O00027200005"
+  },
+  {
+   "id": "O00092100001",
+   "title": "연수예술지원사업",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 713,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2000558&bnefType=all&svcId=O00092100001"
+  },
+  {
+   "id": "O00092100003",
+   "title": "아트플러그 연수 공간 지원 사업 : 연수 체크인",
+   "category": "문화·환경",
+   "region": "전국",
+   "views": 622,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2105515&bnefType=all&svcId=O00092100003"
+  }
+ ]
+}

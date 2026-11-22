@@ -125716,6 +125716,28 @@
    "queuedAt": "2026-11-17"
   },
   {
+   "id": "359000000453",
+   "title": "아동치과주치의사업",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 8,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2167653&bnefType=all&svcId=359000000453",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-11-22"
+  },
+  {
+   "id": "359000000472",
+   "title": "치매 치료관리비 지원",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 8,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2170957&bnefType=all&svcId=359000000472",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-11-22"
+  },
+  {
    "id": "386000000145",
    "title": "부천시 초등학생 입학준비금 지원",
    "category": "보육·교육",
@@ -127249,6 +127271,6 @@
    "queuedAt": "2026-11-20"
   }
  ],
- "updated": "2026-11-20",
- "count": 9759
+ "updated": "2026-11-22",
+ "count": 9761
 }
