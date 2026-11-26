@@ -1,0 +1,579 @@
+{
+ "date": "2026-11-26",
+ "baseline": false,
+ "total": 10898,
+ "newCount": 6,
+ "modifiedCount": 46,
+ "removedCount": 2,
+ "new": [
+  {
+   "id": "383000000554",
+   "title": "경기도 안양시 시민안전보험",
+   "category": "생활안정",
+   "region": "경기",
+   "registered": "20241222",
+   "views": 3290,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2128487&bnefType=all&svcId=383000000554"
+  },
+  {
+   "id": "425100000009",
+   "title": "강원형 공공임대주택(홍천북방) 입주자 모집",
+   "category": "주거·자립",
+   "region": "강원",
+   "registered": "20261123",
+   "views": 8,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2191622&bnefType=all&svcId=425100000009"
+  },
+  {
+   "id": "558000000311",
+   "title": "학습나래(평생학습이용권) 지원",
+   "category": "보육·교육",
+   "region": "충남",
+   "registered": "20261119",
+   "views": 7,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2191523&bnefType=all&svcId=558000000311"
+  },
+  {
+   "id": "558000000312",
+   "title": "청소년 상담 서비스 제공",
+   "category": "보호·돌봄",
+   "region": "충남",
+   "registered": "20261119",
+   "views": 7,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2191524&bnefType=all&svcId=558000000312"
+  },
+  {
+   "id": "448000000683",
+   "title": "출생 축하 기념 아기 주민등록증 제작 지원",
+   "category": "임신·출산",
+   "region": "충북",
+   "registered": "20251208",
+   "views": 1,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2169426&bnefType=all&svcId=448000000683"
+  },
+  {
+   "id": "450000000169",
+   "title": "소상공인 카드가맹점 카드수수료 지원",
+   "category": "생활안정",
+   "region": "충남",
+   "registered": "20261110",
+   "views": 0,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2191225&bnefType=all&svcId=450000000169"
+  }
+ ],
+ "modified": [
+  {
+   "id": "174100000034",
+   "title": "온라인 신청 시연 테스트(운영)",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 1608,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=808591&bnefType=all&svcId=174100000034"
+  },
+  {
+   "id": "311000000146",
+   "title": "은평구 무료법률상담서비스 제공",
+   "category": "생활안정",
+   "region": "서울",
+   "views": 4089,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2100998&bnefType=all&svcId=311000000146"
+  },
+  {
+   "id": "312000000105",
+   "title": "입양가정 입양축하금 지급",
+   "category": "임신·출산",
+   "region": "서울",
+   "views": 1007,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000532&bnefType=all&svcId=312000000105"
+  },
+  {
+   "id": "314000000272",
+   "title": "양천형 밤샘 긴급돌봄 어린이집 운영",
+   "category": "생활안정",
+   "region": "서울",
+   "views": 612,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2165716&bnefType=all&svcId=314000000272"
+  },
+  {
+   "id": "315000000291",
+   "title": "안심장비 지원",
+   "category": "생활안정",
+   "region": "서울",
+   "views": 458,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2168596&bnefType=all&svcId=315000000291"
+  },
+  {
+   "id": "315000000297",
+   "title": "자치회관 프로그램 신청/감면",
+   "category": "생활안정",
+   "region": "서울",
+   "views": 353,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2169628&bnefType=all&svcId=315000000297"
+  },
+  {
+   "id": "359000000453",
+   "title": "아동치과주치의사업",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 14,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2167653&bnefType=all&svcId=359000000453"
+  },
+  {
+   "id": "397000000106",
+   "title": "기초생활보장수급자 쓰레기봉투비 지원",
+   "category": "보호·돌봄",
+   "region": "경기",
+   "views": 1885,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001880&bnefType=all&svcId=397000000106"
+  },
+  {
+   "id": "401000000102",
+   "title": "시흥시 보훈(참전) 명예수당",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 2949,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000716&bnefType=all&svcId=401000000102"
+  },
+  {
+   "id": "401000000103",
+   "title": "노인일자리 지원",
+   "category": "고용·창업",
+   "region": "경기",
+   "views": 3230,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001000&bnefType=all&svcId=401000000103"
+  },
+  {
+   "id": "401000000104",
+   "title": "시흥형 주거비(아동 주거비) 지원",
+   "category": "주거·자립",
+   "region": "경기",
+   "views": 3542,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001424&bnefType=all&svcId=401000000104"
+  },
+  {
+   "id": "401000000107",
+   "title": "시흥 효도수당",
+   "category": "보호·돌봄",
+   "region": "경기",
+   "views": 2757,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001427&bnefType=all&svcId=401000000107"
+  },
+  {
+   "id": "401000000109",
+   "title": "신혼부부 전세대출금 이자 지원",
+   "category": "주거·자립",
+   "region": "경기",
+   "views": 4812,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1001436&bnefType=all&svcId=401000000109"
+  },
+  {
+   "id": "401000000110",
+   "title": "외국인아동보육료 지원",
+   "category": "보육·교육",
+   "region": "경기",
+   "views": 2276,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1003149&bnefType=all&svcId=401000000110"
+  },
+  {
+   "id": "401000000111",
+   "title": "시흥시 국가유공자 생활보조수당",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 2274,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1003800&bnefType=all&svcId=401000000111"
+  },
+  {
+   "id": "401000000116",
+   "title": "중증장애인 활동 지원(자체)",
+   "category": "보호·돌봄",
+   "region": "경기",
+   "views": 1438,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1005731&bnefType=all&svcId=401000000116"
+  },
+  {
+   "id": "401000000120",
+   "title": "시흥형 기본교통비 지원 확대(시흥패스+(플러스))",
+   "category": "보육·교육",
+   "region": "경기",
+   "views": 3233,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2104306&bnefType=all&svcId=401000000120"
+  },
+  {
+   "id": "401000000121",
+   "title": "시흥시 국가보훈대상자 사망위로금",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 1258,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2106024&bnefType=all&svcId=401000000121"
+  },
+  {
+   "id": "401000000122",
+   "title": "시흥시 사망 참전유공자 배우자 수당",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 1246,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2106025&bnefType=all&svcId=401000000122"
+  },
+  {
+   "id": "401000000484",
+   "title": "출생 미등록 아동 발굴 및 지원 사업",
+   "category": "보호·돌봄",
+   "region": "경기",
+   "views": 506,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2126001&bnefType=all&svcId=401000000484"
+  },
+  {
+   "id": "401000000495",
+   "title": "장애인보장구수리센터 운영",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 352,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2169422&bnefType=all&svcId=401000000495"
+  },
+  {
+   "id": "401000000498",
+   "title": "동네관리소 간단 집수리 지원",
+   "category": "주거·자립",
+   "region": "경기",
+   "views": 367,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2169718&bnefType=all&svcId=401000000498"
+  },
+  {
+   "id": "401000000499",
+   "title": "동네관리소 공구 대여 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 667,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2169720&bnefType=all&svcId=401000000499"
+  },
+  {
+   "id": "401000000502",
+   "title": "1~3호 숨쉬는놀이터(대야동, 정왕동, 하중동) 운영 지원",
+   "category": "문화·환경",
+   "region": "경기",
+   "views": 382,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2169737&bnefType=all&svcId=401000000502"
+  },
+  {
+   "id": "401000000503",
+   "title": "자활참여자 건강검진 지원사업",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 361,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2169625&bnefType=all&svcId=401000000503"
+  },
+  {
+   "id": "401000000505",
+   "title": "장애학생 교내활동지원",
+   "category": "보호·돌봄",
+   "region": "경기",
+   "views": 301,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2169627&bnefType=all&svcId=401000000505"
+  },
+  {
+   "id": "401000000508",
+   "title": "장애인 특별운송",
+   "category": "보호·돌봄",
+   "region": "경기",
+   "views": 369,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2169816&bnefType=all&svcId=401000000508"
+  },
+  {
+   "id": "401000000509",
+   "title": "장애인 전동보장구 배상책임보험",
+   "category": "행정·안전",
+   "region": "경기",
+   "views": 337,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2169916&bnefType=all&svcId=401000000509"
+  },
+  {
+   "id": "401000000512",
+   "title": "시흥시 어르신 기본교통비 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 464,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2170148&bnefType=all&svcId=401000000512"
+  },
+  {
+   "id": "401000000514",
+   "title": "시흥형 집수리 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 410,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2170428&bnefType=all&svcId=401000000514"
+  },
+  {
+   "id": "409000000160",
+   "title": "김포시 백일해 예방접종 지원",
+   "category": "보건·의료",
+   "region": "경기",
+   "views": 200,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2186616&bnefType=all&svcId=409000000160"
+  },
+  {
+   "id": "434100000004",
+   "title": "고성군민안전보험",
+   "category": "생활안정",
+   "region": "강원",
+   "views": 495,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2128451&bnefType=all&svcId=434100000004"
+  },
+  {
+   "id": "447000000143",
+   "title": "음성군 입학축하금 지원",
+   "category": "보육·교육",
+   "region": "충북",
+   "views": 4133,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2114602&bnefType=all&svcId=447000000143"
+  },
+  {
+   "id": "490000000280",
+   "title": "화순군 청년하우스 입주 신청",
+   "category": "주거·자립",
+   "region": "전국",
+   "views": 2181,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2127210&bnefType=all&svcId=490000000280"
+  },
+  {
+   "id": "543000000123",
+   "title": "(남해군)산모·신생아 건강관리 본인부담금 지원",
+   "category": "임신·출산",
+   "region": "경남",
+   "views": 1156,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1006021&bnefType=all&svcId=543000000123"
+  },
+  {
+   "id": "628000000739",
+   "title": "아이 꿈 수당 지급",
+   "category": "보호·돌봄",
+   "region": "인천",
+   "views": 151422,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2122203&bnefType=all&svcId=628000000739"
+  },
+  {
+   "id": "630000000111",
+   "title": "장수축하금 지급",
+   "category": "보호·돌봄",
+   "region": "대전",
+   "views": 1898,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000677&bnefType=all&svcId=630000000111"
+  },
+  {
+   "id": "630000000656",
+   "title": "대전 전세사기피해자 지원사업 신청",
+   "category": "주거·자립",
+   "region": "대전",
+   "views": 13189,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2119801&bnefType=all&svcId=630000000656"
+  },
+  {
+   "id": "630000000660",
+   "title": "대전시 다자녀가정 수도 요금 감면 신청",
+   "category": "보육·교육",
+   "region": "대전",
+   "views": 64990,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2142819&bnefType=all&svcId=630000000660"
+  },
+  {
+   "id": "641000000151",
+   "title": "경기도 노동자 휴가비 지원",
+   "category": "문화·환경",
+   "region": "경기",
+   "views": 11024,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1002252&bnefType=all&svcId=641000000151"
+  },
+  {
+   "id": "641000000663",
+   "title": "노인월동난방비 등 지원",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 2972,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2114318&bnefType=all&svcId=641000000663"
+  },
+  {
+   "id": "641000000709",
+   "title": "일자리 우수기업 인증 및 고용환경개선 지원",
+   "category": "고용·창업",
+   "region": "경기",
+   "views": 433,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2156166&bnefType=all&svcId=641000000709"
+  },
+  {
+   "id": "B41000200041",
+   "title": "복지할인 고효율가전 구매비용 지원사업",
+   "category": "생활안정",
+   "region": "전국",
+   "views": 49396,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2123525&bnefType=all&svcId=B41000200041"
+  },
+  {
+   "id": "O00003000001",
+   "title": "G-하우징",
+   "category": "주거·자립",
+   "region": "전국",
+   "views": 9136,
+   "changed": [
+    "내용",
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2001673&bnefType=all&svcId=O00003000001"
+  },
+  {
+   "id": "O00007300001",
+   "title": "상하수도요금 감면",
+   "category": "생활안정",
+   "region": "경기",
+   "views": 2149,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2001679&bnefType=all&svcId=O00007300001"
+  },
+  {
+   "id": "O00051500001",
+   "title": "청소년 무료 개인상담 및 심리검사",
+   "category": "보건·의료",
+   "region": "전국",
+   "views": 2008,
+   "changed": [
+    "수정일"
+   ],
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2000863&bnefType=all&svcId=O00051500001"
+  }
+ ]
+}

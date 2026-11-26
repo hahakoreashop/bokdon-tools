@@ -26428,6 +26428,19 @@
    "queuedAt": "2026-08-16"
   },
   {
+   "id": "630000000111",
+   "title": "장수축하금 지급",
+   "category": "보호·돌봄",
+   "region": "대전",
+   "views": 1898,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=1000677&bnefType=all&svcId=630000000111",
+   "type": "modified",
+   "changed": [
+    "수정일"
+   ],
+   "queuedAt": "2026-11-26"
+  },
+  {
    "id": "135200005048",
    "title": "위기임신 및 보호출산 지원",
    "category": "임신·출산",
@@ -125738,6 +125751,17 @@
    "queuedAt": "2026-11-22"
   },
   {
+   "id": "425100000009",
+   "title": "강원형 공공임대주택(홍천북방) 입주자 모집",
+   "category": "주거·자립",
+   "region": "강원",
+   "views": 8,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2191622&bnefType=all&svcId=425100000009",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-11-26"
+  },
+  {
    "id": "386000000145",
    "title": "부천시 초등학생 입학준비금 지원",
    "category": "보육·교육",
@@ -125870,6 +125894,28 @@
    "type": "new",
    "changed": null,
    "queuedAt": "2026-11-17"
+  },
+  {
+   "id": "558000000311",
+   "title": "학습나래(평생학습이용권) 지원",
+   "category": "보육·교육",
+   "region": "충남",
+   "views": 7,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2191523&bnefType=all&svcId=558000000311",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-11-26"
+  },
+  {
+   "id": "558000000312",
+   "title": "청소년 상담 서비스 제공",
+   "category": "보호·돌봄",
+   "region": "충남",
+   "views": 7,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2191524&bnefType=all&svcId=558000000312",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-11-26"
   },
   {
    "id": "406000000526",
@@ -126809,6 +126855,17 @@
    "queuedAt": "2026-11-17"
   },
   {
+   "id": "448000000683",
+   "title": "출생 축하 기념 아기 주민등록증 제작 지원",
+   "category": "임신·출산",
+   "region": "충북",
+   "views": 1,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2169426&bnefType=all&svcId=448000000683",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-11-26"
+  },
+  {
    "id": "370000000132",
    "title": "층간소음 저감매트 지원사업",
    "category": "주거·자립",
@@ -127269,8 +127326,19 @@
    "type": "new",
    "changed": null,
    "queuedAt": "2026-11-20"
+  },
+  {
+   "id": "450000000169",
+   "title": "소상공인 카드가맹점 카드수수료 지원",
+   "category": "생활안정",
+   "region": "충남",
+   "views": 0,
+   "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=2191225&bnefType=all&svcId=450000000169",
+   "type": "new",
+   "changed": null,
+   "queuedAt": "2026-11-26"
   }
  ],
- "updated": "2026-11-22",
- "count": 9761
+ "updated": "2026-11-26",
+ "count": 9767
 }
